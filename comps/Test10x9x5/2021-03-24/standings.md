@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Wed, 24 Mar 2021 17:23:34 GMT
+Last update: Wed, 24 Mar 2021 17:32:10 GMT
 
 ## Configuration
 
@@ -20,8 +20,8 @@ Last update: Wed, 24 Mar 2021 17:23:34 GMT
 | 1 | BenchmarkB | 21 |
 | 2 | BenchmarkA | 21 |
 | 3 | MinimaxD2 | 12 |
-| 4 | Sequential | 3 |
-| 5 | Random | 3 |
+| 4 | Sequential | 6 |
+| 5 | Random | 0 |
 
 ## Results
 
@@ -45,7 +45,7 @@ _Winner, if any, shown in bold_
 | **`MinimaxD2`** | `Random` | [+](results/MinimaxD2vsRandom.txt) |
 | **`BenchmarkA`** | `Sequential` | [+](results/BenchmarkAvsSequential.txt) |
 | `Sequential` | **`BenchmarkA`** | [+](results/SequentialvsBenchmarkA.txt) |
-| **`Random`** | `Sequential` | [+](results/RandomvsSequential.txt) |
+| `Random` | **`Sequential`** | [+](results/RandomvsSequential.txt) |
 | **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
 | **`BenchmarkA`** | `BenchmarkB` | [+](results/BenchmarkAvsBenchmarkB.txt) |
 | **`BenchmarkB`** | `BenchmarkA` | [+](results/BenchmarkBvsBenchmarkA.txt) |
