@@ -1,0 +1,2017 @@
+=> Random (White) vs G01_PunksNotDead_v2 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+
+Random (White) turn
+Random (White) placed a Square piece at column 12 after 7ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............W.....
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 145.9455 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 146ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............W.....
+
+Random (White) turn
+Random (White) placed a Round piece at column 16 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............W...w.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 137.7383 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 137ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............W...w.
+
+Random (White) turn
+Random (White) placed a Square piece at column 15 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............W..Ww.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 98.6035 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 98ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............W..Ww.
+
+Random (White) turn
+Random (White) placed a Square piece at column 16 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R...W.
+............W..Ww.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 100.1892 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 100ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R...W.
+............W..Ww.
+
+Random (White) turn
+Random (White) placed a Square piece at column 7 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R...W.
+.......W....W..Ww.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 75.9741 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 76ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............R...W.
+.......W....W..Ww.
+
+Random (White) turn
+Random (White) placed a Round piece at column 2 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............R...W.
+..w....W....W..Ww.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 2.0459 ms
+G01_PunksNotDead_v2 (Red) placed a Round piece at column 0 after 2ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............R...W.
+r.w....W....W..Ww.
+
+Random (White) turn
+Random (White) placed a Square piece at column 14 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............R...W.
+r.w....W....W.WWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 3.2438 ms
+G01_PunksNotDead_v2 (Red) placed a Round piece at column 0 after 3ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+r...........R...W.
+r.w....W....W.WWw.
+
+Random (White) turn
+Random (White) placed a Round piece at column 12 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r...........R...W.
+r.w....W....W.WWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 101.5741 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 101ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r...........R...W.
+r.w....W....W.WWw.
+
+Random (White) turn
+Random (White) placed a Square piece at column 12 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r...........R...W.
+r.w....W....W.WWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 100.3703 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 100ms
+..................
+..................
+..................
+..................
+..................
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r...........R...W.
+r.w....W....W.WWw.
+
+Random (White) turn
+Random (White) placed a Round piece at column 11 after 0ms
+..................
+..................
+..................
+..................
+..................
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r...........R...W.
+r.w....W...wW.WWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 108.4078 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 108ms
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r...........R...W.
+r.w....W...wW.WWw.
+
+Random (White) turn
+Random (White) placed a Square piece at column 2 after 0ms
+..................
+..................
+..................
+..................
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r.W.........R...W.
+r.w....W...wW.WWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 107.2058 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 107ms
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r.W.........R...W.
+r.w....W...wW.WWw.
+
+Random (White) turn
+Random (White) placed a Square piece at column 13 after 0ms
+..................
+..................
+..................
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r.W.........R...W.
+r.w....W...wWWWWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 186.7438 ms
+G01_PunksNotDead_v2 (Red) placed a Square piece at column 12 after 186ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r.W.........R...W.
+r.w....W...wWWWWw.
+
+Random (White) turn
+Random (White) placed a Square piece at column 13 after 0ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+............R.....
+r.W.........RW..W.
+r.w....W...wWWWWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 2.0588 ms
+G01_PunksNotDead_v2 (Red) placed a Round piece at column 0 after 2ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+r...........R.....
+r.W.........RW..W.
+r.w....W...wWWWWw.
+
+Random (White) turn
+Random (White) placed a Square piece at column 15 after 0ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+............R.....
+r...........R.....
+r.W.........RW.WW.
+r.w....W...wWWWWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 4.1556 ms
+G01_PunksNotDead_v2 (Red) placed a Round piece at column 0 after 4ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+r...........R.....
+r...........R.....
+r.W.........RW.WW.
+r.w....W...wWWWWw.
+
+Random (White) turn
+Random (White) placed a Round piece at column 8 after 0ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+............R.....
+r...........R.....
+r...........R.....
+r.W.........RW.WW.
+r.w....Ww..wWWWWw.
+
+G01_PunksNotDead_v2 (Red) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 4.1615 ms
+G01_PunksNotDead_v2 (Red) placed a Round piece at column 0 after 4ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+r...........R.....
+r...........R.....
+r...........R.....
+r.W.........RW.WW.
+r.w....Ww..wWWWWw.
+
+Random (White) turn
+Random (White) placed a Square piece at column 10 after 0ms
+..................
+..................
+............R.....
+............R.....
+............R.....
+............R.....
+............W.....
+............R.....
+............w.....
+............R.....
+r...........R.....
+r...........R.....
+r...........R.....
+r.W.........RW.WW.
+r.w....Ww.WwWWWWw.
+
+Winner is Random (White)
+Solution=(0,10)(0,11)(0,12)(0,13)(0,14)(0,15)(0,16)
