@@ -1,0 +1,2126 @@
+=> G01_PunksNotDead_v2 (White) vs BenchmarkA (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 11.408 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 4 after 11ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+....w....
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 4 after 251ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+....R....
+....w....
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 10.9143 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 4 after 10ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+....w....
+....R....
+....w....
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 4 after 251ms
+.........
+.........
+.........
+.........
+.........
+.........
+....R....
+....w....
+....R....
+....w....
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 10.7291 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 4 after 10ms
+.........
+.........
+.........
+.........
+.........
+....w....
+....R....
+....w....
+....R....
+....w....
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 4 after 251ms
+.........
+.........
+.........
+.........
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 22.7518 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 4 after 22ms
+.........
+.........
+.........
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 4 after 251ms
+.........
+.........
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 23.8794 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 4 after 23ms
+.........
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 4 after 251ms
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 10.0926 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 5 after 10ms
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 5 after 251ms
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....RR...
+....ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 10.4039 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 5 after 10ms
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....R....
+....ww...
+....RR...
+....ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 5 after 251ms
+....R....
+....w....
+....R....
+....w....
+....R....
+....w....
+....RR...
+....ww...
+....RR...
+....ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 15.1574 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 5 after 15ms
+....R....
+....w....
+....R....
+....w....
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 5 after 251ms
+....R....
+....w....
+....R....
+....w....
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 35.8239 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 5 after 35ms
+....R....
+....w....
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 5 after 251ms
+....R....
+....w....
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 36.8715 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 5 after 36ms
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 2 after 251ms
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+..R.ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 9.8518 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 2 after 9ms
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+..w.RR...
+..R.ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 2 after 251ms
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+....RR...
+..R.ww...
+..w.RR...
+..R.ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 10.3378 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 2 after 10ms
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 2 after 251ms
+....R....
+....ww...
+....RR...
+....ww...
+....RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 10.3868 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 2 after 10ms
+....R....
+....ww...
+....RR...
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 2 after 251ms
+....R....
+....ww...
+....RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 12.4397 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 2 after 12ms
+....R....
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 6 after 251ms
+....R....
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.wwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 10.3297 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 5 after 10ms
+....Rw...
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.wwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 6 after 251ms
+....Rw...
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RRR..
+..R.wwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 8.3204 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 6 after 8ms
+....Rw...
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.www..
+..w.RRR..
+..R.wwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 6 after 251ms
+....Rw...
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.ww...
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.wwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 8.579 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 6 after 8ms
+....Rw...
+....ww...
+..w.RR...
+..R.ww...
+..w.RR...
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.wwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 6 after 251ms
+....Rw...
+....ww...
+..w.RR...
+..R.ww...
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.wwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 8.4067 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 6 after 8ms
+....Rw...
+....ww...
+..w.RR...
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.wwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 6 after 251ms
+....Rw...
+....ww...
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.wwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 8.8592 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 6 after 8ms
+....Rw...
+....www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.wwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Round piece at column 3 after 251ms
+....Rw...
+....www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..RrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 13.8295 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 3 after 13ms
+....Rw...
+....www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..wwRRR..
+..RrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 3 after 251ms
+....Rw...
+....www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 8.9131 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 3 after 8ms
+....Rw...
+....www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..wwRRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 2 after 251ms
+....Rw...
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..R.www..
+..wwRRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 8.4864 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 3 after 8ms
+....Rw...
+..R.www..
+..w.RRR..
+..R.www..
+..w.RRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 3 after 251ms
+....Rw...
+..R.www..
+..w.RRR..
+..R.www..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 8.6773 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 3 after 8ms
+....Rw...
+..R.www..
+..w.RRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 2 after 251ms
+..R.Rw...
+..R.www..
+..w.RRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 6.9087 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 3 after 6ms
+..R.Rw...
+..R.www..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+..RrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 0 after 251ms
+..R.Rw...
+..R.www..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+R.RrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 6.8643 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 3 after 6ms
+..R.Rw...
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+R.RrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 3 after 251ms
+..RRRw...
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+R.RrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 4.9432 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 6 after 5ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+R.RrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 1 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+..wwRRR..
+RRRrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 3.5993 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 1 after 3ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+..RRwww..
+.wwwRRR..
+RRRrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 1 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+..wwRRR..
+.RRRwww..
+.wwwRRR..
+RRRrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 3.6486 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 1 after 3ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+..Rwwww..
+.wwwRRR..
+.RRRwww..
+.wwwRRR..
+RRRrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 1 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+..Rwwww..
+..wRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww..
+.wwwRRR..
+RRRrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 3.6737 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 1 after 3ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+..Rwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww..
+.wwwRRR..
+RRRrwwR..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 1 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww..
+.wwwRRR..
+RRRrwwR..
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 6.0916 ms
+G01_PunksNotDead_v2 (White) placed a Square piece at column 8 after 6ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww..
+.wwwRRR..
+RRRrwwR.W
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 8 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww..
+.wwwRRR.R
+RRRrwwR.W
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 3.0034 ms
+G01_PunksNotDead_v2 (White) placed a Square piece at column 8 after 3ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww.W
+.wwwRRR.R
+RRRrwwR.W
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Round piece at column 7 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww.W
+.wwwRRR.R
+RRRrwwRrW
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 3.152 ms
+G01_PunksNotDead_v2 (White) placed a Round piece at column 7 after 3ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwww.W
+.wwwRRRwR
+RRRrwwRrW
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Round piece at column 7 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRR..
+.RRRwwwrW
+.wwwRRRwR
+RRRrwwRrW
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 1.3823 ms
+G01_PunksNotDead_v2 (White) placed a Square piece at column 7 after 1ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwww..
+.wwwRRRW.
+.RRRwwwrW
+.wwwRRRwR
+RRRrwwRrW
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 7 after 251ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwwwR.
+.wwwRRRW.
+.RRRwwwrW
+.wwwRRRwR
+RRRrwwRrW
+
+G01_PunksNotDead_v2 (White) turn
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+Corte alfa beta.
+PunksNotDead took 1.9791 ms
+G01_PunksNotDead_v2 (White) placed a Square piece at column 8 after 2ms
+..RRRww..
+..Rwwww..
+..wwRRR..
+.RRwwww..
+.wwRRRR..
+.RRwwwwR.
+.wwwRRRWW
+.RRRwwwrW
+.wwwRRRwR
+RRRrwwRrW
+
+Winner is BenchmarkA (Red)
+Solution=(3,4)(3,5)(3,6)(3,7)(3,8)
