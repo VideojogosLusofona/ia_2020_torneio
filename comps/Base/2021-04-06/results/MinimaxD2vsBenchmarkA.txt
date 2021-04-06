@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 5ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 5ms
 .....w.
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 3 after 151ms
+BenchmarkA (Red) placed a Square piece at column 3 after 153ms
 .......
 .......
 .......
@@ -31,57 +31,21 @@ BenchmarkA (Red) placed a Square piece at column 3 after 151ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
 .......
 .....w.
 ...R.w.
-
-BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 5 after 154ms
-.......
-.......
-.......
-.....R.
-.....w.
-...R.w.
-
-MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
-.......
-.......
-.....w.
-.....R.
-.....w.
-...R.w.
-
-BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 1 after 154ms
-.......
-.......
-.....w.
-.....R.
-.....w.
-.R.R.w.
-
-MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
-.......
-.....w.
-.....w.
-.....R.
-.....w.
-.R.R.w.
 
 BenchmarkA (Red) turn
 BenchmarkA (Red) loses match! Reason: Time limit expired
 .......
+.......
+.......
+.......
 .....w.
-.....w.
-.....R.
-.....w.
-.R.R.w.
+...R.w.
 
 Winner is MinimaxD2 (White)

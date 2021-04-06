@@ -1,0 +1,243 @@
+=> MinimaxD2 (White) vs G01_PunksNotDead_v3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 5.0584 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 5ms
+.......
+.......
+.......
+.......
+.......
+R....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+.......
+.......
+.......
+.......
+.....w.
+R....w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 4.3513 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 4ms
+.......
+.......
+.......
+.....R.
+.....w.
+R....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.....w.
+.....R.
+.....w.
+R....w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.7524 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 3ms
+.......
+.....R.
+.....w.
+.....R.
+.....w.
+R....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+R....w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.9195 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+R....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 2ms
+.....w.
+.....R.
+.....w.
+.....R.
+.....ww
+R....wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.9606 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.....w.
+.....R.
+.....w.
+.....RR
+.....ww
+R....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 2ms
+.....w.
+.....R.
+.....ww
+.....RR
+.....ww
+R....wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.0009 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.....w.
+.....RR
+.....ww
+.....RR
+.....ww
+R....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 2ms
+.....ww
+.....RR
+.....ww
+.....RR
+.....ww
+R....wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.1869 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 2ms
+.....ww
+.....RR
+.....ww
+.....RR
+.....ww
+R...RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 1ms
+.....ww
+.....RR
+.....ww
+.....RR
+....www
+R...RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.5321 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 2ms
+.....ww
+.....RR
+.....ww
+....RRR
+....www
+R...RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 1ms
+.....ww
+.....RR
+....www
+....RRR
+....www
+R...RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.2769 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 2ms
+.....ww
+....RRR
+....www
+....RRR
+....www
+R...RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 1ms
+....www
+....RRR
+....www
+....RRR
+....www
+R...RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 0.3158 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 0ms
+....www
+....RRR
+....www
+....RRR
+R...www
+R...RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 1 after 0ms
+....www
+....RRR
+....www
+....RRR
+R...www
+RW..RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 0.2282 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 0ms
+....www
+....RRR
+....www
+R...RRR
+R...www
+RW..RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 3 after 0ms
+....www
+....RRR
+....www
+R...RRR
+R...www
+RW.WRwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 0.0221 ms
+G01_PunksNotDead_v3 (Red) loses match! Reason: Thinker exception: 'No more RedSquare pieces available'
+....www
+....RRR
+....www
+R...RRR
+R...www
+RW.WRwR
+
+Winner is MinimaxD2 (White)
