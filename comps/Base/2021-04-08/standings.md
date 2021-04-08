@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Thu, 08 Apr 2021 07:00:29 GMT
+Last update: Thu, 08 Apr 2021 15:51:43 GMT
 
 ## Configuration
 
@@ -19,9 +19,9 @@ Last update: Thu, 08 Apr 2021 07:00:29 GMT
 |:----:| ---------- | -----: |
 | 1 | BenchmarkB | 36 |
 | 2 | BenchmarkA | 27 |
-| 3 | G04_Hal | 24 |
-| 4 | MinimaxD2 | 18 |
-| 5 | Sequential | 9 |
+| 3 | MinimaxD2 | 21 |
+| 4 | G04_Hal_V2 | 18 |
+| 5 | Sequential | 12 |
 | 6 | G01_PunksNotDead_v3 | 6 |
 | 7 | Random | 6 |
 
@@ -31,32 +31,32 @@ _Winner, if any, shown in bold_
 
 | White |   Red   | Details |
 | -----:|:------- | :-----: |
-| `Sequential` | **`G04_Hal`** | [+](results/SequentialvsG04_Hal.txt) |
-| **`G04_Hal`** | `Sequential` | [+](results/G04_HalvsSequential.txt) |
+| `Sequential` | **`G04_Hal_V2`** | [+](results/SequentialvsG04_Hal_V2.txt) |
+| **`G04_Hal_V2`** | `Sequential` | [+](results/G04_Hal_V2vsSequential.txt) |
 | **`MinimaxD2`** | `G01_PunksNotDead_v3` | [+](results/MinimaxD2vsG01_PunksNotDead_v3.txt) |
 | `G01_PunksNotDead_v3` | **`MinimaxD2`** | [+](results/G01_PunksNotDead_v3vsMinimaxD2.txt) |
 | `BenchmarkA` | **`BenchmarkB`** | [+](results/BenchmarkAvsBenchmarkB.txt) |
 | **`BenchmarkB`** | `BenchmarkA` | [+](results/BenchmarkBvsBenchmarkA.txt) |
-| `Random` | **`G04_Hal`** | [+](results/RandomvsG04_Hal.txt) |
-| **`G04_Hal`** | `Random` | [+](results/G04_HalvsRandom.txt) |
+| `Random` | **`G04_Hal_V2`** | [+](results/RandomvsG04_Hal_V2.txt) |
+| `G04_Hal_V2` | **`Random`** | [+](results/G04_Hal_V2vsRandom.txt) |
 | `Sequential` | **`BenchmarkB`** | [+](results/SequentialvsBenchmarkB.txt) |
 | **`BenchmarkB`** | `Sequential` | [+](results/BenchmarkBvsSequential.txt) |
-| `MinimaxD2` | **`BenchmarkA`** | [+](results/MinimaxD2vsBenchmarkA.txt) |
+| **`MinimaxD2`** | `BenchmarkA` | [+](results/MinimaxD2vsBenchmarkA.txt) |
 | **`BenchmarkA`** | `MinimaxD2` | [+](results/BenchmarkAvsMinimaxD2.txt) |
 | `Random` | **`G01_PunksNotDead_v3`** | [+](results/RandomvsG01_PunksNotDead_v3.txt) |
-| **`G01_PunksNotDead_v3`** | `Random` | [+](results/G01_PunksNotDead_v3vsRandom.txt) |
-| `G04_Hal` | **`BenchmarkB`** | [+](results/G04_HalvsBenchmarkB.txt) |
-| **`BenchmarkB`** | `G04_Hal` | [+](results/BenchmarkBvsG04_Hal.txt) |
+| `G01_PunksNotDead_v3` | **`Random`** | [+](results/G01_PunksNotDead_v3vsRandom.txt) |
+| `G04_Hal_V2` | **`BenchmarkB`** | [+](results/G04_Hal_V2vsBenchmarkB.txt) |
+| **`BenchmarkB`** | `G04_Hal_V2` | [+](results/BenchmarkBvsG04_Hal_V2.txt) |
 | `Sequential` | **`MinimaxD2`** | [+](results/SequentialvsMinimaxD2.txt) |
 | **`MinimaxD2`** | `Sequential` | [+](results/MinimaxD2vsSequential.txt) |
 | `Random` | **`BenchmarkB`** | [+](results/RandomvsBenchmarkB.txt) |
 | **`BenchmarkB`** | `Random` | [+](results/BenchmarkBvsRandom.txt) |
 | `G01_PunksNotDead_v3` | **`BenchmarkA`** | [+](results/G01_PunksNotDead_v3vsBenchmarkA.txt) |
 | **`BenchmarkA`** | `G01_PunksNotDead_v3` | [+](results/BenchmarkAvsG01_PunksNotDead_v3.txt) |
-| **`G04_Hal`** | `MinimaxD2` | [+](results/G04_HalvsMinimaxD2.txt) |
-| `MinimaxD2` | **`G04_Hal`** | [+](results/MinimaxD2vsG04_Hal.txt) |
+| **`G04_Hal_V2`** | `MinimaxD2` | [+](results/G04_Hal_V2vsMinimaxD2.txt) |
+| `MinimaxD2` | **`G04_Hal_V2`** | [+](results/MinimaxD2vsG04_Hal_V2.txt) |
 | `Random` | **`BenchmarkA`** | [+](results/RandomvsBenchmarkA.txt) |
-| `BenchmarkA` | **`Random`** | [+](results/BenchmarkAvsRandom.txt) |
+| **`BenchmarkA`** | `Random` | [+](results/BenchmarkAvsRandom.txt) |
 | **`BenchmarkB`** | `MinimaxD2` | [+](results/BenchmarkBvsMinimaxD2.txt) |
 | `MinimaxD2` | **`BenchmarkB`** | [+](results/MinimaxD2vsBenchmarkB.txt) |
 | `G01_PunksNotDead_v3` | **`Sequential`** | [+](results/G01_PunksNotDead_v3vsSequential.txt) |
@@ -65,12 +65,12 @@ _Winner, if any, shown in bold_
 | **`MinimaxD2`** | `Random` | [+](results/MinimaxD2vsRandom.txt) |
 | **`BenchmarkA`** | `Sequential` | [+](results/BenchmarkAvsSequential.txt) |
 | `Sequential` | **`BenchmarkA`** | [+](results/SequentialvsBenchmarkA.txt) |
-| `G01_PunksNotDead_v3` | **`G04_Hal`** | [+](results/G01_PunksNotDead_v3vsG04_Hal.txt) |
-| **`G04_Hal`** | `G01_PunksNotDead_v3` | [+](results/G04_HalvsG01_PunksNotDead_v3.txt) |
-| **`Random`** | `Sequential` | [+](results/RandomvsSequential.txt) |
+| `G01_PunksNotDead_v3` | **`G04_Hal_V2`** | [+](results/G01_PunksNotDead_v3vsG04_Hal_V2.txt) |
+| `G04_Hal_V2` | **`G01_PunksNotDead_v3`** | [+](results/G04_Hal_V2vsG01_PunksNotDead_v3.txt) |
+| `Random` | **`Sequential`** | [+](results/RandomvsSequential.txt) |
 | **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
-| **`BenchmarkA`** | `G04_Hal` | [+](results/BenchmarkAvsG04_Hal.txt) |
-| `G04_Hal` | **`BenchmarkA`** | [+](results/G04_HalvsBenchmarkA.txt) |
+| **`BenchmarkA`** | `G04_Hal_V2` | [+](results/BenchmarkAvsG04_Hal_V2.txt) |
+| `G04_Hal_V2` | **`BenchmarkA`** | [+](results/G04_Hal_V2vsBenchmarkA.txt) |
 | **`BenchmarkB`** | `G01_PunksNotDead_v3` | [+](results/BenchmarkBvsG01_PunksNotDead_v3.txt) |
 | `G01_PunksNotDead_v3` | **`BenchmarkB`** | [+](results/G01_PunksNotDead_v3vsBenchmarkB.txt) |
 

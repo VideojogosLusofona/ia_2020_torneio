@@ -368,7 +368,7 @@ BenchmarkA (White) placed a Round piece at column 7 after 251ms
 ..wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 5 after 8ms
+MinimaxD2 (Red) placed a Square piece at column 5 after 9ms
 ....R....
 ...RR....
 ...RR....
@@ -576,7 +576,7 @@ BenchmarkA (White) placed a Round piece at column 6 after 251ms
 w.wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 6 after 9ms
+MinimaxD2 (Red) placed a Square piece at column 6 after 5ms
 ...RRR...
 ...RRR...
 ...RRw...
@@ -602,7 +602,7 @@ BenchmarkA (White) placed a Round piece at column 7 after 251ms
 w.wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 6 after 7ms
+MinimaxD2 (Red) placed a Square piece at column 6 after 5ms
 ...RRR...
 ...RRR...
 ...RRwR..
@@ -628,7 +628,7 @@ BenchmarkA (White) placed a Round piece at column 7 after 251ms
 w.wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 7 after 8ms
+MinimaxD2 (Red) placed a Square piece at column 7 after 9ms
 ...RRR...
 ...RRR...
 ...RRwR..
@@ -654,7 +654,7 @@ BenchmarkA (White) placed a Round piece at column 7 after 251ms
 w.wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 7 after 6ms
+MinimaxD2 (Red) placed a Square piece at column 7 after 11ms
 ...RRR...
 ...RRR...
 ...RRwRR.
@@ -680,7 +680,7 @@ BenchmarkA (White) placed a Round piece at column 8 after 251ms
 w.wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 6 after 5ms
+MinimaxD2 (Red) placed a Square piece at column 6 after 6ms
 ...RRR...
 ...RRRR..
 ...RRwRR.
@@ -706,7 +706,7 @@ BenchmarkA (White) placed a Round piece at column 7 after 251ms
 w.wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 6 after 5ms
+MinimaxD2 (Red) placed a Square piece at column 6 after 6ms
 ...RRRR..
 ...RRRRw.
 ...RRwRR.
@@ -784,7 +784,7 @@ W.RwRwwww
 w.wRwwwRw
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 2 after 2ms
+MinimaxD2 (Red) placed a Square piece at column 2 after 3ms
 ...RRRRw.
 ...RRRRw.
 ...RRwRR.

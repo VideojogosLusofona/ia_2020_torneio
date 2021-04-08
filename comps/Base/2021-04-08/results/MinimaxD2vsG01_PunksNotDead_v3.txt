@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 6ms
+MinimaxD2 (White) placed a Round piece at column 5 after 5ms
 .......
 .......
 .......
@@ -22,8 +22,8 @@ MinimaxD2 (White) placed a Round piece at column 5 after 6ms
 .....w.
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 17.8611 ms
-G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 18ms
+PunksNotDead took 17.2195 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 17ms
 .......
 .......
 .......
@@ -32,7 +32,7 @@ G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 18ms
 R....w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 .......
 .......
 .......
@@ -41,7 +41,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 R....w.
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 5.2506 ms
+PunksNotDead took 5.205 ms
 G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 5ms
 .......
 .......
@@ -60,8 +60,8 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 R....w.
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 5.5065 ms
-G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 5ms
+PunksNotDead took 6.2054 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 6ms
 .......
 .....R.
 .....w.
@@ -79,7 +79,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 R....w.
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 4.279 ms
+PunksNotDead took 4.2685 ms
 G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 4ms
 .....w.
 .....R.
@@ -98,7 +98,7 @@ MinimaxD2 (White) placed a Round piece at column 6 after 3ms
 R....wR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 4.3624 ms
+PunksNotDead took 4.286 ms
 G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 4ms
 .....w.
 .....R.
@@ -117,8 +117,8 @@ MinimaxD2 (White) placed a Round piece at column 6 after 3ms
 R....wR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 21.329 ms
-G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 21ms
+PunksNotDead took 4.4137 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 4ms
 .....w.
 .....RR
 .....ww
@@ -127,7 +127,7 @@ G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 21ms
 R....wR
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 6 after 5ms
+MinimaxD2 (White) placed a Round piece at column 6 after 3ms
 .....ww
 .....RR
 .....ww
@@ -136,8 +136,8 @@ MinimaxD2 (White) placed a Round piece at column 6 after 5ms
 R....wR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 5.0677 ms
-G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 5ms
+PunksNotDead took 3.1913 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 3ms
 .....ww
 .....RR
 .....ww
@@ -155,7 +155,7 @@ MinimaxD2 (White) placed a Round piece at column 4 after 2ms
 R...RwR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 3.2888 ms
+PunksNotDead took 3.2304 ms
 G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 3ms
 .....ww
 .....RR
@@ -174,7 +174,7 @@ MinimaxD2 (White) placed a Round piece at column 4 after 2ms
 R...RwR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 3.3299 ms
+PunksNotDead took 3.2162 ms
 G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 3ms
 .....ww
 ....RRR
@@ -193,7 +193,7 @@ MinimaxD2 (White) placed a Round piece at column 4 after 2ms
 R...RwR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 0.474 ms
+PunksNotDead took 0.4707 ms
 G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 0ms
 ....www
 ....RRR
@@ -212,7 +212,7 @@ R...www
 RW..RwR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 0.3384 ms
+PunksNotDead took 0.3356 ms
 G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 0ms
 ....www
 ....RRR
@@ -231,7 +231,7 @@ R...www
 RW.WRwR
 
 G01_PunksNotDead_v3 (Red) turn
-PunksNotDead took 0.0335 ms
+PunksNotDead took 0.0315 ms
 G01_PunksNotDead_v3 (Red) loses match! Reason: Thinker exception: 'No more RedSquare pieces available'
 ....www
 ....RRR
