@@ -17,7 +17,7 @@
 .........
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Square piece at column 8 after 14ms
+G04_Hal_V3 (White) placed a Square piece at column 8 after 8ms
 .........
 .........
 .........
@@ -56,7 +56,7 @@ G04_Hal_V3 (White) placed a Square piece at column 8 after 8ms
 ........W
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 8 after 8ms
+MinimaxD2 (Red) placed a Square piece at column 8 after 9ms
 .........
 .........
 .........
@@ -173,7 +173,7 @@ MinimaxD2 (Red) placed a Square piece at column 6 after 7ms
 ......W.W
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Square piece at column 6 after 7ms
+G04_Hal_V3 (White) placed a Square piece at column 6 after 8ms
 ........R
 ........w
 ........R
@@ -186,7 +186,7 @@ G04_Hal_V3 (White) placed a Square piece at column 6 after 7ms
 ......W.W
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 6 after 7ms
+MinimaxD2 (Red) placed a Square piece at column 6 after 8ms
 ........R
 ........w
 ........R
@@ -251,7 +251,7 @@ MinimaxD2 (Red) placed a Square piece at column 6 after 8ms
 ......W.W
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Round piece at column 6 after 7ms
+G04_Hal_V3 (White) placed a Round piece at column 6 after 8ms
 ........R
 ......w.w
 ......R.R
@@ -264,7 +264,7 @@ G04_Hal_V3 (White) placed a Round piece at column 6 after 7ms
 ......W.W
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 6 after 7ms
+MinimaxD2 (Red) placed a Square piece at column 6 after 8ms
 ......R.R
 ......w.w
 ......R.R
@@ -433,7 +433,7 @@ MinimaxD2 (Red) placed a Square piece at column 2 after 4ms
 ..W.W.W.W
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Square piece at column 2 after 4ms
+G04_Hal_V3 (White) placed a Square piece at column 2 after 5ms
 ....R.R.R
 ....w.w.w
 ....R.R.R
@@ -472,7 +472,7 @@ G04_Hal_V3 (White) placed a Round piece at column 2 after 4ms
 ..W.W.W.W
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 2 after 4ms
+MinimaxD2 (Red) placed a Square piece at column 2 after 5ms
 ....R.R.R
 ....w.w.w
 ....R.R.R
@@ -498,7 +498,7 @@ G04_Hal_V3 (White) placed a Square piece at column 2 after 5ms
 ..W.W.W.W
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 2 after 4ms
+MinimaxD2 (Red) placed a Square piece at column 2 after 5ms
 ....R.R.R
 ....w.w.w
 ..R.R.R.R

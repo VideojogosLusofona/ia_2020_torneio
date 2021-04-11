@@ -13,7 +13,7 @@
 .......
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Square piece at column 6 after 4ms
+G04_Hal_V3 (White) placed a Square piece at column 6 after 6ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ G04_Hal_V3 (White) placed a Square piece at column 6 after 4ms
 ......W
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 3 after 152ms
+BenchmarkA (Red) placed a Square piece at column 3 after 154ms
 .......
 .......
 .......
@@ -31,7 +31,7 @@ BenchmarkA (Red) placed a Square piece at column 3 after 152ms
 ...R..W
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Round piece at column 4 after 2ms
+G04_Hal_V3 (White) placed a Round piece at column 4 after 4ms
 .......
 .......
 .......
@@ -40,7 +40,7 @@ G04_Hal_V3 (White) placed a Round piece at column 4 after 2ms
 ...Rw.W
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 4 after 152ms
+BenchmarkA (Red) placed a Square piece at column 4 after 154ms
 .......
 .......
 .......
@@ -49,7 +49,7 @@ BenchmarkA (Red) placed a Square piece at column 4 after 152ms
 ...Rw.W
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Square piece at column 3 after 3ms
+G04_Hal_V3 (White) placed a Square piece at column 3 after 4ms
 .......
 .......
 .......
@@ -58,7 +58,7 @@ G04_Hal_V3 (White) placed a Square piece at column 3 after 3ms
 ...Rw.W
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 4 after 152ms
+BenchmarkA (Red) placed a Square piece at column 4 after 154ms
 .......
 .......
 .......
@@ -67,7 +67,7 @@ BenchmarkA (Red) placed a Square piece at column 4 after 152ms
 ...Rw.W
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Round piece at column 2 after 3ms
+G04_Hal_V3 (White) placed a Round piece at column 2 after 4ms
 .......
 .......
 .......
@@ -76,34 +76,34 @@ G04_Hal_V3 (White) placed a Round piece at column 2 after 3ms
 ..wRw.W
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 4 after 152ms
+BenchmarkA (Red) placed a Square piece at column 4 after 154ms
 .......
 .......
 ....R..
 ....R..
-...WR..
-..wRw.W
-
-G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Round piece at column 4 after 3ms
-.......
-....w..
-....R..
-....R..
-...WR..
-..wRw.W
-
-BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 3 after 152ms
-.......
-....w..
-....R..
-...RR..
 ...WR..
 ..wRw.W
 
 G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Round piece at column 3 after 2ms
+G04_Hal_V3 (White) placed a Round piece at column 4 after 4ms
+.......
+....w..
+....R..
+....R..
+...WR..
+..wRw.W
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 3 after 154ms
+.......
+....w..
+....R..
+...RR..
+...WR..
+..wRw.W
+
+G04_Hal_V3 (White) turn
+G04_Hal_V3 (White) placed a Round piece at column 3 after 4ms
 .......
 ....w..
 ...wR..
@@ -112,49 +112,12 @@ G04_Hal_V3 (White) placed a Round piece at column 3 after 2ms
 ..wRw.W
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 2 after 151ms
+BenchmarkA (Red) loses match! Reason: Time limit expired
 .......
 ....w..
 ...wR..
 ...RR..
-..RWR..
+...WR..
 ..wRw.W
 
-G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Square piece at column 6 after 3ms
-.......
-....w..
-...wR..
-...RR..
-..RWR.W
-..wRw.W
-
-BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Round piece at column 0 after 152ms
-.......
-....w..
-...wR..
-...RR..
-..RWR.W
-r.wRw.W
-
-G04_Hal_V3 (White) turn
-G04_Hal_V3 (White) placed a Square piece at column 6 after 3ms
-.......
-....w..
-...wR..
-...RR.W
-..RWR.W
-r.wRw.W
-
-BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Round piece at column 1 after 152ms
-.......
-....w..
-...wR..
-...RR.W
-..RWR.W
-rrwRw.W
-
-Winner is BenchmarkA (Red)
-Solution=(0,1)(1,2)(2,3)(3,4)
+Winner is G04_Hal_V3 (White)

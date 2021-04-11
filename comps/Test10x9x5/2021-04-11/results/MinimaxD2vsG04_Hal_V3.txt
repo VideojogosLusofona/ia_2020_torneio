@@ -69,7 +69,7 @@ G04_Hal_V3 (Red) placed a Square piece at column 6 after 8ms
 ......RwR
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 8 after 9ms
+MinimaxD2 (White) placed a Round piece at column 8 after 8ms
 .........
 .........
 .........
@@ -134,7 +134,7 @@ MinimaxD2 (White) placed a Round piece at column 8 after 9ms
 ......RwR
 
 G04_Hal_V3 (Red) turn
-G04_Hal_V3 (Red) placed a Square piece at column 8 after 9ms
+G04_Hal_V3 (Red) placed a Square piece at column 8 after 10ms
 .........
 .........
 .........
@@ -173,7 +173,7 @@ G04_Hal_V3 (Red) placed a Square piece at column 8 after 10ms
 ......RwR
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 7 after 9ms
+MinimaxD2 (White) placed a Round piece at column 7 after 10ms
 .........
 ........R
 ........w
@@ -316,7 +316,7 @@ MinimaxD2 (White) placed a Round piece at column 6 after 8ms
 ......RwR
 
 G04_Hal_V3 (Red) turn
-G04_Hal_V3 (Red) placed a Square piece at column 6 after 8ms
+G04_Hal_V3 (Red) placed a Square piece at column 6 after 9ms
 .......R.
 .......wR
 .......Rw
@@ -563,7 +563,7 @@ G04_Hal_V3 (Red) placed a Square piece at column 2 after 5ms
 ..R.R.RwR
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 2 after 4ms
+MinimaxD2 (White) placed a Round piece at column 2 after 5ms
 ....w.wR.
 ....R.RwR
 ....w.wRw

@@ -1,6 +1,6 @@
 # Standings
 
-Last update: Sun, 11 Apr 2021 07:07:53 GMT
+Last update: Sun, 11 Apr 2021 19:14:24 GMT
 
 ## Configuration
 
@@ -17,14 +17,15 @@ Last update: Sun, 11 Apr 2021 07:07:53 GMT
 
 | Pos. | AI Thinker | Points |
 |:----:| ---------- | -----: |
-| 1 | BenchmarkA | 42 |
-| 2 | G04_Hal_V3 | 33 |
-| 3 | MinimaxD2 | 33 |
-| 4 | Sequential | 24 |
-| 5 | BenchmarkB | 18 |
-| 6 | Random | 12 |
-| 7 | G01_PunksNotDead_v3 | 6 |
-| 8 | G05_GROG_V1 | 0 |
+| 1 | BenchmarkA | 48 |
+| 2 | MinimaxD2 | 37 |
+| 3 | G04_Hal_V3 | 36 |
+| 4 | G09_OYZIS_V1 | 31 |
+| 5 | Sequential | 24 |
+| 6 | BenchmarkB | 18 |
+| 7 | G01_PunksNotDead_v3 | 12 |
+| 8 | Random | 9 |
+| 9 | G05_GROG_V1 | 0 |
 
 ## Results
 
@@ -32,30 +33,46 @@ _Winner, if any, shown in bold_
 
 | White |   Red   | Details |
 | -----:|:------- | :-----: |
-| **`Random`** | `G05_GROG_V1` | [+](results/RandomvsG05_GROG_V1.txt) |
-| `G05_GROG_V1` | **`Random`** | [+](results/G05_GROG_V1vsRandom.txt) |
+| `Sequential` | **`G09_OYZIS_V1`** | [+](results/SequentialvsG09_OYZIS_V1.txt) |
+| **`G09_OYZIS_V1`** | `Sequential` | [+](results/G09_OYZIS_V1vsSequential.txt) |
+| **`MinimaxD2`** | `G05_GROG_V1` | [+](results/MinimaxD2vsG05_GROG_V1.txt) |
+| `G05_GROG_V1` | **`MinimaxD2`** | [+](results/G05_GROG_V1vsMinimaxD2.txt) |
+| **`BenchmarkA`** | `G04_Hal_V3` | [+](results/BenchmarkAvsG04_Hal_V3.txt) |
+| `G04_Hal_V3` | **`BenchmarkA`** | [+](results/G04_Hal_V3vsBenchmarkA.txt) |
+| `BenchmarkB` | **`G01_PunksNotDead_v3`** | [+](results/BenchmarkBvsG01_PunksNotDead_v3.txt) |
+| `G01_PunksNotDead_v3` | **`BenchmarkB`** | [+](results/G01_PunksNotDead_v3vsBenchmarkB.txt) |
+| `Random` | **`G09_OYZIS_V1`** | [+](results/RandomvsG09_OYZIS_V1.txt) |
+| **`G09_OYZIS_V1`** | `Random` | [+](results/G09_OYZIS_V1vsRandom.txt) |
 | `Sequential` | **`G04_Hal_V3`** | [+](results/SequentialvsG04_Hal_V3.txt) |
 | **`G04_Hal_V3`** | `Sequential` | [+](results/G04_Hal_V3vsSequential.txt) |
 | **`MinimaxD2`** | `G01_PunksNotDead_v3` | [+](results/MinimaxD2vsG01_PunksNotDead_v3.txt) |
 | `G01_PunksNotDead_v3` | **`MinimaxD2`** | [+](results/G01_PunksNotDead_v3vsMinimaxD2.txt) |
 | **`BenchmarkA`** | `BenchmarkB` | [+](results/BenchmarkAvsBenchmarkB.txt) |
 | `BenchmarkB` | **`BenchmarkA`** | [+](results/BenchmarkBvsBenchmarkA.txt) |
-| `Random` | **`G04_Hal_V3`** | [+](results/RandomvsG04_Hal_V3.txt) |
-| **`G04_Hal_V3`** | `Random` | [+](results/G04_Hal_V3vsRandom.txt) |
-| `G05_GROG_V1` | **`G01_PunksNotDead_v3`** | [+](results/G05_GROG_V1vsG01_PunksNotDead_v3.txt) |
-| **`G01_PunksNotDead_v3`** | `G05_GROG_V1` | [+](results/G01_PunksNotDead_v3vsG05_GROG_V1.txt) |
+| **`Random`** | `G05_GROG_V1` | [+](results/RandomvsG05_GROG_V1.txt) |
+| `G05_GROG_V1` | **`Random`** | [+](results/G05_GROG_V1vsRandom.txt) |
+| **`G09_OYZIS_V1`** | `G04_Hal_V3` | [+](results/G09_OYZIS_V1vsG04_Hal_V3.txt) |
+| **`G04_Hal_V3`** | `G09_OYZIS_V1` | [+](results/G04_Hal_V3vsG09_OYZIS_V1.txt) |
 | **`Sequential`** | `BenchmarkB` | [+](results/SequentialvsBenchmarkB.txt) |
 | `BenchmarkB` | **`Sequential`** | [+](results/BenchmarkBvsSequential.txt) |
 | `MinimaxD2` | **`BenchmarkA`** | [+](results/MinimaxD2vsBenchmarkA.txt) |
 | **`BenchmarkA`** | `MinimaxD2` | [+](results/BenchmarkAvsMinimaxD2.txt) |
-| **`Random`** | `G01_PunksNotDead_v3` | [+](results/RandomvsG01_PunksNotDead_v3.txt) |
+| `Random` | **`G04_Hal_V3`** | [+](results/RandomvsG04_Hal_V3.txt) |
+| **`G04_Hal_V3`** | `Random` | [+](results/G04_Hal_V3vsRandom.txt) |
+| `G05_GROG_V1` | **`G01_PunksNotDead_v3`** | [+](results/G05_GROG_V1vsG01_PunksNotDead_v3.txt) |
+| **`G01_PunksNotDead_v3`** | `G05_GROG_V1` | [+](results/G01_PunksNotDead_v3vsG05_GROG_V1.txt) |
+| **`G09_OYZIS_V1`** | `BenchmarkB` | [+](results/G09_OYZIS_V1vsBenchmarkB.txt) |
+| **`BenchmarkB`** | `G09_OYZIS_V1` | [+](results/BenchmarkBvsG09_OYZIS_V1.txt) |
+| `Sequential` | **`MinimaxD2`** | [+](results/SequentialvsMinimaxD2.txt) |
+| **`MinimaxD2`** | `Sequential` | [+](results/MinimaxD2vsSequential.txt) |
+| `Random` | **`G01_PunksNotDead_v3`** | [+](results/RandomvsG01_PunksNotDead_v3.txt) |
 | `G01_PunksNotDead_v3` | **`Random`** | [+](results/G01_PunksNotDead_v3vsRandom.txt) |
 | **`G04_Hal_V3`** | `BenchmarkB` | [+](results/G04_Hal_V3vsBenchmarkB.txt) |
 | `BenchmarkB` | **`G04_Hal_V3`** | [+](results/BenchmarkBvsG04_Hal_V3.txt) |
 | `G05_GROG_V1` | **`BenchmarkA`** | [+](results/G05_GROG_V1vsBenchmarkA.txt) |
 | **`BenchmarkA`** | `G05_GROG_V1` | [+](results/BenchmarkAvsG05_GROG_V1.txt) |
-| `Sequential` | **`MinimaxD2`** | [+](results/SequentialvsMinimaxD2.txt) |
-| **`MinimaxD2`** | `Sequential` | [+](results/MinimaxD2vsSequential.txt) |
+| `G09_OYZIS_V1` | **`MinimaxD2`** | [+](results/G09_OYZIS_V1vsMinimaxD2.txt) |
+| `MinimaxD2` | `G09_OYZIS_V1` | [+](results/MinimaxD2vsG09_OYZIS_V1.txt) |
 | `Random` | **`BenchmarkB`** | [+](results/RandomvsBenchmarkB.txt) |
 | **`BenchmarkB`** | `Random` | [+](results/BenchmarkBvsRandom.txt) |
 | `G01_PunksNotDead_v3` | **`BenchmarkA`** | [+](results/G01_PunksNotDead_v3vsBenchmarkA.txt) |
@@ -70,24 +87,24 @@ _Winner, if any, shown in bold_
 | **`MinimaxD2`** | `BenchmarkB` | [+](results/MinimaxD2vsBenchmarkB.txt) |
 | `G01_PunksNotDead_v3` | **`Sequential`** | [+](results/G01_PunksNotDead_v3vsSequential.txt) |
 | **`Sequential`** | `G01_PunksNotDead_v3` | [+](results/SequentialvsG01_PunksNotDead_v3.txt) |
-| **`G04_Hal_V3`** | `G05_GROG_V1` | [+](results/G04_Hal_V3vsG05_GROG_V1.txt) |
-| `G05_GROG_V1` | **`G04_Hal_V3`** | [+](results/G05_GROG_V1vsG04_Hal_V3.txt) |
+| `G05_GROG_V1` | **`G09_OYZIS_V1`** | [+](results/G05_GROG_V1vsG09_OYZIS_V1.txt) |
+| **`G09_OYZIS_V1`** | `G05_GROG_V1` | [+](results/G09_OYZIS_V1vsG05_GROG_V1.txt) |
 | `Random` | **`MinimaxD2`** | [+](results/RandomvsMinimaxD2.txt) |
 | **`MinimaxD2`** | `Random` | [+](results/MinimaxD2vsRandom.txt) |
 | **`BenchmarkA`** | `Sequential` | [+](results/BenchmarkAvsSequential.txt) |
 | `Sequential` | **`BenchmarkA`** | [+](results/SequentialvsBenchmarkA.txt) |
+| `G01_PunksNotDead_v3` | **`G09_OYZIS_V1`** | [+](results/G01_PunksNotDead_v3vsG09_OYZIS_V1.txt) |
+| **`G09_OYZIS_V1`** | `G01_PunksNotDead_v3` | [+](results/G09_OYZIS_V1vsG01_PunksNotDead_v3.txt) |
+| **`G04_Hal_V3`** | `G05_GROG_V1` | [+](results/G04_Hal_V3vsG05_GROG_V1.txt) |
+| `G05_GROG_V1` | **`G04_Hal_V3`** | [+](results/G05_GROG_V1vsG04_Hal_V3.txt) |
+| `Random` | **`Sequential`** | [+](results/RandomvsSequential.txt) |
+| **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
+| **`BenchmarkA`** | `G09_OYZIS_V1` | [+](results/BenchmarkAvsG09_OYZIS_V1.txt) |
+| `G09_OYZIS_V1` | **`BenchmarkA`** | [+](results/G09_OYZIS_V1vsBenchmarkA.txt) |
 | **`BenchmarkB`** | `G05_GROG_V1` | [+](results/BenchmarkBvsG05_GROG_V1.txt) |
 | `G05_GROG_V1` | **`BenchmarkB`** | [+](results/G05_GROG_V1vsBenchmarkB.txt) |
 | `G01_PunksNotDead_v3` | **`G04_Hal_V3`** | [+](results/G01_PunksNotDead_v3vsG04_Hal_V3.txt) |
 | **`G04_Hal_V3`** | `G01_PunksNotDead_v3` | [+](results/G04_Hal_V3vsG01_PunksNotDead_v3.txt) |
-| `Random` | **`Sequential`** | [+](results/RandomvsSequential.txt) |
-| **`Sequential`** | `Random` | [+](results/SequentialvsRandom.txt) |
-| **`MinimaxD2`** | `G05_GROG_V1` | [+](results/MinimaxD2vsG05_GROG_V1.txt) |
-| `G05_GROG_V1` | **`MinimaxD2`** | [+](results/G05_GROG_V1vsMinimaxD2.txt) |
-| **`BenchmarkA`** | `G04_Hal_V3` | [+](results/BenchmarkAvsG04_Hal_V3.txt) |
-| `G04_Hal_V3` | **`BenchmarkA`** | [+](results/G04_Hal_V3vsBenchmarkA.txt) |
-| **`BenchmarkB`** | `G01_PunksNotDead_v3` | [+](results/BenchmarkBvsG01_PunksNotDead_v3.txt) |
-| `G01_PunksNotDead_v3` | **`BenchmarkB`** | [+](results/G01_PunksNotDead_v3vsBenchmarkB.txt) |
 
 ## Previous days
 
