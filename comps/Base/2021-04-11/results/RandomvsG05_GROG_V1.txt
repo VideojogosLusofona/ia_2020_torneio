@@ -1,0 +1,241 @@
+=> Random (White) vs G05_GROG_V1 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+Random (White) turn
+Random (White) placed a Round piece at column 2 after 5ms
+.......
+.......
+.......
+.......
+.......
+..w....
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Square piece at column 2 after 62ms
+.......
+.......
+.......
+.......
+..R....
+..w....
+
+Random (White) turn
+Random (White) placed a Square piece at column 4 after 0ms
+.......
+.......
+.......
+.......
+..R....
+..w.W..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Square piece at column 4 after 50ms
+.......
+.......
+.......
+.......
+..R.R..
+..w.W..
+
+Random (White) turn
+Random (White) placed a Round piece at column 4 after 0ms
+.......
+.......
+.......
+....w..
+..R.R..
+..w.W..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Square piece at column 4 after 53ms
+.......
+.......
+....R..
+....w..
+..R.R..
+..w.W..
+
+Random (White) turn
+Random (White) placed a Round piece at column 3 after 0ms
+.......
+.......
+....R..
+....w..
+..R.R..
+..wwW..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Square piece at column 1 after 33ms
+.......
+.......
+....R..
+....w..
+..R.R..
+.RwwW..
+
+Random (White) turn
+Random (White) placed a Square piece at column 0 after 0ms
+.......
+.......
+....R..
+....w..
+..R.R..
+WRwwW..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Round piece at column 1 after 1ms
+.......
+.......
+....R..
+....w..
+.rR.R..
+WRwwW..
+
+Random (White) turn
+Random (White) placed a Round piece at column 2 after 0ms
+.......
+.......
+....R..
+..w.w..
+.rR.R..
+WRwwW..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Round piece at column 0 after 0ms
+.......
+.......
+....R..
+..w.w..
+rrR.R..
+WRwwW..
+
+Random (White) turn
+Random (White) placed a Round piece at column 4 after 0ms
+.......
+....w..
+....R..
+..w.w..
+rrR.R..
+WRwwW..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Round piece at column 0 after 0ms
+.......
+....w..
+....R..
+r.w.w..
+rrR.R..
+WRwwW..
+
+Random (White) turn
+Random (White) placed a Square piece at column 3 after 0ms
+.......
+....w..
+....R..
+r.w.w..
+rrRWR..
+WRwwW..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Square piece at column 0 after 0ms
+.......
+....w..
+R...R..
+r.w.w..
+rrRWR..
+WRwwW..
+
+Random (White) turn
+Random (White) placed a Round piece at column 0 after 0ms
+.......
+w...w..
+R...R..
+r.w.w..
+rrRWR..
+WRwwW..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Round piece at column 0 after 0ms
+r......
+w...w..
+R...R..
+r.w.w..
+rrRWR..
+WRwwW..
+
+Random (White) turn
+Random (White) placed a Round piece at column 4 after 0ms
+r...w..
+w...w..
+R...R..
+r.w.w..
+rrRWR..
+WRwwW..
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Round piece at column 2 after 0ms
+r...w..
+w...w..
+R.r.R..
+r.w.w..
+rrRWR..
+WRwwW..
+
+Random (White) turn
+Random (White) placed a Square piece at column 6 after 0ms
+r...w..
+w...w..
+R.r.R..
+r.w.w..
+rrRWR..
+WRwwW.W
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Round piece at column 2 after 0ms
+r...w..
+w.r.w..
+R.r.R..
+r.w.w..
+rrRWR..
+WRwwW.W
+
+Random (White) turn
+Random (White) placed a Square piece at column 6 after 0ms
+r...w..
+w.r.w..
+R.r.R..
+r.w.w..
+rrRWR.W
+WRwwW.W
+
+G05_GROG_V1 (Red) turn
+G05_GROG_V1 (Red) placed a Square piece at column 2 after 0ms
+r.R.w..
+w.r.w..
+R.r.R..
+r.w.w..
+rrRWR.W
+WRwwW.W
+
+Random (White) turn
+Random (White) placed a Round piece at column 5 after 0ms
+r.R.w..
+w.r.w..
+R.r.R..
+r.w.w..
+rrRWR.W
+WRwwWwW
+
+Winner is Random (White)
+Solution=(0,2)(0,3)(0,4)(0,5)

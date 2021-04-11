@@ -1,0 +1,223 @@
+=> MinimaxD2 (White) vs G04_Hal_V3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 6 after 4ms
+.......
+.......
+.......
+.......
+.......
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....w.
+.....wR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 5 after 2ms
+.......
+.......
+.......
+.....R.
+.....w.
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.....w.
+.....R.
+.....w.
+.....wR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 5 after 3ms
+.......
+.....R.
+.....w.
+.....R.
+.....w.
+.....wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+.....wR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 4 after 2ms
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 2ms
+.....w.
+.....R.
+.....w.
+.....R.
+....ww.
+....RwR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 4 after 2ms
+.....w.
+.....R.
+.....w.
+....RR.
+....ww.
+....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 2ms
+.....w.
+.....R.
+....ww.
+....RR.
+....ww.
+....RwR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 4 after 2ms
+.....w.
+....RR.
+....ww.
+....RR.
+....ww.
+....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 2ms
+....ww.
+....RR.
+....ww.
+....RR.
+....ww.
+....RwR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 2 after 1ms
+....ww.
+....RR.
+....ww.
+....RR.
+....ww.
+..R.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 1ms
+....ww.
+....RR.
+....ww.
+....RR.
+..w.ww.
+..R.RwR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 2 after 1ms
+....ww.
+....RR.
+....ww.
+..R.RR.
+..w.ww.
+..R.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 1ms
+....ww.
+....RR.
+..w.ww.
+..R.RR.
+..w.ww.
+..R.RwR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 2 after 1ms
+....ww.
+..R.RR.
+..w.ww.
+..R.RR.
+..w.ww.
+..R.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 1ms
+..w.ww.
+..R.RR.
+..w.ww.
+..R.RR.
+..w.ww.
+..R.RwR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 6 after 0ms
+..w.ww.
+..R.RR.
+..w.ww.
+..R.RR.
+..w.wwR
+..R.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 0 after 0ms
+..w.ww.
+..R.RR.
+..w.ww.
+..R.RR.
+..w.wwR
+W.R.RwR
+
+G04_Hal_V3 (Red) turn
+G04_Hal_V3 (Red) placed a Square piece at column 6 after 0ms
+..w.ww.
+..R.RR.
+..w.ww.
+..R.RRR
+..w.wwR
+W.R.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
+..w.ww.
+..R.RR.
+..w.wwW
+..R.RRR
+..w.wwR
+W.R.RwR
+
+Winner is G04_Hal_V3 (Red)
+Solution=(0,6)(1,6)(2,6)(3,6)
