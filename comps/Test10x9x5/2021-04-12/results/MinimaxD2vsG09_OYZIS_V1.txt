@@ -1,0 +1,1073 @@
+=> MinimaxD2 (White) vs G09_OYZIS_V1 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 8ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 7 after 4ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......R.
+.......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 8ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......w.
+.......R.
+.......w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 7 after 6ms
+.........
+.........
+.........
+.........
+.........
+.........
+.......R.
+.......w.
+.......R.
+.......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 8ms
+.........
+.........
+.........
+.........
+.........
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 7 after 7ms
+.........
+.........
+.........
+.........
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 9ms
+.........
+.........
+.........
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 7 after 6ms
+.........
+.........
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 9ms
+.........
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 7 after 4ms
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 7ms
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.w.....w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 1 after 3ms
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.R.....R.
+.w.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 7ms
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 1 after 2ms
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 8ms
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 1 after 2ms
+.......R.
+.......w.
+.......R.
+.......w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 8ms
+.......R.
+.......w.
+.......R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 1 after 2ms
+.......R.
+.......w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 8ms
+.......R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 1 after 2ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 6ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w....ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 6 after 3ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R....RR.
+.w....ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 6ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w....ww.
+.R....RR.
+.w....ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 6 after 4ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 6ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 6 after 5ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 6ms
+.R.....R.
+.w.....w.
+.R.....R.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 6 after 5ms
+.R.....R.
+.w.....w.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 6ms
+.R.....R.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 6 after 3ms
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 5ms
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.ww...ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 2 after 2ms
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.RR...RR.
+.ww...ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 5ms
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 2 after 2ms
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 5ms
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.R....RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 2 after 2ms
+.R....RR.
+.w....ww.
+.R....RR.
+.w....ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 5ms
+.R....RR.
+.w....ww.
+.R....RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 2 after 2ms
+.R....RR.
+.w....ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 5ms
+.R....RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 2 after 2ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww..www.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 5 after 2ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR..RRR.
+.ww..www.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 5 after 2ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 5 after 2ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww...ww.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.RR...RR.
+.ww...ww.
+.RR...RR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 5 after 2ms
+.RR...RR.
+.ww...ww.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.RR...RR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 5 after 2ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 2ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.www.www.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 4 after 1ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.wwwRwww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 2ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RRw.RRR.
+.wwwRwww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 3 after 1ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwwRwww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 2ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwwRwww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 3 after 1ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwwRwww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 2ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.ww..www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwwRwww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 3 after 1ms
+.RR..RRR.
+.ww..www.
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwwRwww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 2ms
+.RR..RRR.
+.ww..www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwwRwww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Square piece at column 3 after 1ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwwRwww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRwWRRR.
+.wwwRwww.
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 0 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRwWRRR.
+rwwwRwww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 8 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 0 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 0 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 0 after 0ms
+.RR..RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 3 after 0ms
+.RRW.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 4 after 0ms
+.RRW.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.RRW.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwR.www.
+.RRwWRRR.
+.wwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 4 after 0ms
+.RRW.RRR.
+.wwR.www.
+.RRw.RRR.
+.wwRrwww.
+.RRwWRRR.
+.wwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 4 after 0ms
+.RRW.RRR.
+.wwR.www.
+.RRwWRRR.
+.wwRrwww.
+.RRwWRRR.
+.wwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 4 after 0ms
+.RRW.RRR.
+.wwRrwww.
+.RRwWRRR.
+.wwRrwww.
+.RRwWRRR.
+.wwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 0 after 0ms
+.RRW.RRR.
+.wwRrwww.
+.RRwWRRR.
+.wwRrwww.
+.RRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 0 after 0ms
+.RRW.RRR.
+.wwRrwww.
+.RRwWRRR.
+.wwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 0 after 0ms
+.RRW.RRR.
+.wwRrwww.
+.RRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 0 after 0ms
+.RRW.RRR.
+.wwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 0 after 0ms
+.RRW.RRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+G09_OYZIS_V1 (Red) turn
+G09_OYZIS_V1 (Red) placed a Round piece at column 0 after 0ms
+rRRW.RRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRR.
+rwwwRwwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 8 after 0ms
+rRRW.RRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+WwwRrwww.
+rRRwWRRR.
+rwwRWwww.
+rRRwWRRRW
+rwwwRwwwW
+
+Winner is G09_OYZIS_V1 (Red)
+Solution=(1,4)(1,5)(1,6)(1,7)(1,8)
