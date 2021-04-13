@@ -1,0 +1,214 @@
+=> MinimaxD2 (White) vs G8KEEPER_V0.4 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Round piece at column 2 after 0ms
+.......
+.......
+.......
+.......
+.......
+..r..w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+.......
+.......
+.......
+.......
+.....w.
+..r..w.
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 6 after 10ms
+.......
+.......
+.......
+.......
+.....w.
+..r..wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+.....w.
+..r..wR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 5 after 11ms
+.......
+.......
+.....R.
+.....w.
+.....w.
+..r..wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+.....w.
+..r..wR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 0 after 7ms
+.......
+.....w.
+.....R.
+.....w.
+.....w.
+R.r..wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.....w.
+.....w.
+.....R.
+.....w.
+.....w.
+R.r..wR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 6 after 11ms
+.....w.
+.....w.
+.....R.
+.....w.
+.....wR
+R.r..wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
+.....w.
+.....w.
+.....R.
+.....w.
+..w..wR
+R.r..wR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 6 after 15ms
+.....w.
+.....w.
+.....R.
+.....wR
+..w..wR
+R.r..wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 2ms
+.....w.
+.....w.
+.....Rw
+.....wR
+..w..wR
+R.r..wR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 4 after 13ms
+.....w.
+.....w.
+.....Rw
+.....wR
+..w..wR
+R.r.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
+.....w.
+.....w.
+.....Rw
+..w..wR
+..w..wR
+R.r.RwR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 2 after 7ms
+.....w.
+.....w.
+..R..Rw
+..w..wR
+..w..wR
+R.r.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
+.....w.
+..w..w.
+..R..Rw
+..w..wR
+..w..wR
+R.r.RwR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 0 after 7ms
+.....w.
+..w..w.
+..R..Rw
+..w..wR
+R.w..wR
+R.r.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
+..w..w.
+..w..w.
+..R..Rw
+..w..wR
+R.w..wR
+R.r.RwR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Square piece at column 0 after 0ms
+..w..w.
+..w..w.
+..R..Rw
+R.w..wR
+R.w..wR
+R.r.RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
+..w..w.
+..w..wW
+..R..Rw
+R.w..wR
+R.w..wR
+R.r.RwR
+
+G8KEEPER_V0.4 (Red) turn
+G8KEEPER_V0.4 (Red) placed a Round piece at column 0 after 0ms
+..w..w.
+..w..wW
+r.R..Rw
+R.w..wR
+R.w..wR
+R.r.RwR
+
+Winner is G8KEEPER_V0.4 (Red)
+Solution=(0,0)(1,0)(2,0)(3,0)
