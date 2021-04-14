@@ -1,0 +1,169 @@
+=> G02_G8KEEPER_V0.5 (White) vs MinimaxD2 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.....R.
+.....w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+.....R.
+.....w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 5 after 4ms
+.......
+.......
+.....R.
+.....w.
+.....R.
+.....w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 5 after 2ms
+.......
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 5 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Square piece at column 0 after 1ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+W....w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 0 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+R....R.
+W....w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Square piece at column 2 after 1ms
+.....R.
+.....w.
+.....R.
+.....w.
+R....R.
+W.W..w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 2 after 2ms
+.....R.
+.....w.
+.....R.
+.....w.
+R.R..R.
+W.W..w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 2 after 1ms
+.....R.
+.....w.
+.....R.
+..w..w.
+R.R..R.
+W.W..w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 2 after 2ms
+.....R.
+.....w.
+..R..R.
+..w..w.
+R.R..R.
+W.W..w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 2 after 1ms
+.....R.
+..w..w.
+..R..R.
+..w..w.
+R.R..R.
+W.W..w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 2 after 2ms
+..R..R.
+..w..w.
+..R..R.
+..w..w.
+R.R..R.
+W.W..w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 3 after 0ms
+..R..R.
+..w..w.
+..R..R.
+..w..w.
+R.R..R.
+W.Ww.w.
+
+MinimaxD2 (Red) turn
+MinimaxD2 (Red) placed a Square piece at column 6 after 1ms
+..R..R.
+..w..w.
+..R..R.
+..w..w.
+R.R..R.
+W.Ww.wR
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Square piece at column 4 after 0ms
+..R..R.
+..w..w.
+..R..R.
+..w..w.
+R.R..R.
+W.WwWwR
+
+Winner is G02_G8KEEPER_V0.5 (White)
+Solution=(0,2)(0,3)(0,4)(0,5)
