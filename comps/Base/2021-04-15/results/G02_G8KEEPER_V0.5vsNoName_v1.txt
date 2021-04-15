@@ -1,0 +1,250 @@
+=> G02_G8KEEPER_V0.5 (White) vs NoName_v1 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 5 after 1ms
+.......
+.......
+.......
+.......
+.....R.
+.....w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.....w.
+.....R.
+.....w.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 5 after 1ms
+.......
+.......
+.....R.
+.....w.
+.....R.
+.....w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 5 after 2ms
+.......
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 5 after 1ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+.....w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Square piece at column 0 after 1ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+W....w.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 3 after 1ms
+.....R.
+.....w.
+.....R.
+.....w.
+.....R.
+W..R.w.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 3 after 1ms
+.....R.
+.....w.
+.....R.
+.....w.
+...w.R.
+W..R.w.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 4 after 1ms
+.....R.
+.....w.
+.....R.
+.....w.
+...w.R.
+W..RRw.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 3 after 1ms
+.....R.
+.....w.
+.....R.
+...w.w.
+...w.R.
+W..RRw.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 3 after 1ms
+.....R.
+.....w.
+...R.R.
+...w.w.
+...w.R.
+W..RRw.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 3 after 1ms
+.....R.
+...w.w.
+...R.R.
+...w.w.
+...w.R.
+W..RRw.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 3 after 1ms
+...R.R.
+...w.w.
+...R.R.
+...w.w.
+...w.R.
+W..RRw.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 4 after 1ms
+...R.R.
+...w.w.
+...R.R.
+...w.w.
+...wwR.
+W..RRw.
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 4 after 1ms
+...R.R.
+...w.w.
+...R.R.
+...wRw.
+...wwR.
+W..RRw.
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 6 after 1ms
+...R.R.
+...w.w.
+...R.R.
+...wRw.
+...wwR.
+W..RRww
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Round piece at column 0 after 0ms
+...R.R.
+...w.w.
+...R.R.
+...wRw.
+r..wwR.
+W..RRww
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 4 after 1ms
+...R.R.
+...w.w.
+...RwR.
+...wRw.
+r..wwR.
+W..RRww
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 6 after 1ms
+...R.R.
+...w.w.
+...RwR.
+...wRw.
+r..wwRR
+W..RRww
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Round piece at column 4 after 1ms
+...R.R.
+...www.
+...RwR.
+...wRw.
+r..wwRR
+W..RRww
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 4 after 0ms
+...RRR.
+...www.
+...RwR.
+...wRw.
+r..wwRR
+W..RRww
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Square piece at column 0 after 0ms
+...RRR.
+...www.
+...RwR.
+W..wRw.
+r..wwRR
+W..RRww
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Square piece at column 1 after 0ms
+...RRR.
+...www.
+...RwR.
+W..wRw.
+r..wwRR
+WR.RRww
+
+G02_G8KEEPER_V0.5 (White) turn
+G02_G8KEEPER_V0.5 (White) placed a Square piece at column 6 after 0ms
+...RRR.
+...www.
+...RwR.
+W..wRwW
+r..wwRR
+WR.RRww
+
+NoName_v1 (Red) turn
+NoName_v1 (Red) placed a Round piece at column 2 after 0ms
+...RRR.
+...www.
+...RwR.
+W..wRwW
+r..wwRR
+WRrRRww
+
+Winner is NoName_v1 (Red)
+Solution=(0,1)(0,2)(0,3)(0,4)

@@ -1,0 +1,243 @@
+=> G04_Hal_V4 (White) vs G01_PunksNotDead_v3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Square piece at column 0 after 3ms
+.......
+.......
+.......
+.......
+.......
+W......
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 7.9357 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 7ms
+.......
+.......
+.......
+.......
+R......
+W......
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 0 after 3ms
+.......
+.......
+.......
+w......
+R......
+W......
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 5.2495 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 5ms
+.......
+.......
+R......
+w......
+R......
+W......
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 0 after 3ms
+.......
+w......
+R......
+w......
+R......
+W......
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 4.7515 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 4ms
+.......
+w......
+R......
+w......
+R......
+W.....R
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 0 after 3ms
+w......
+w......
+R......
+w......
+R......
+W.....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 4.2806 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 4ms
+w......
+w......
+R......
+w......
+R.....R
+W.....R
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 6 after 2ms
+w......
+w......
+R......
+w.....w
+R.....R
+W.....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 4.3725 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 4ms
+w......
+w......
+R.....R
+w.....w
+R.....R
+W.....R
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 6 after 2ms
+w......
+w.....w
+R.....R
+w.....w
+R.....R
+W.....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 5.0185 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 5ms
+w.....R
+w.....w
+R.....R
+w.....w
+R.....R
+W.....R
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 2 after 2ms
+w.....R
+w.....w
+R.....R
+w.....w
+R.....R
+W.w...R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.2548 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 3ms
+w.....R
+w.....w
+R.....R
+w.....w
+R.....R
+W.w..RR
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 4 after 1ms
+w.....R
+w.....w
+R.....R
+w.....w
+R.....R
+W.w.wRR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.5979 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 3ms
+w.....R
+w.....w
+R.....R
+w.....w
+R....RR
+W.w.wRR
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 3 after 0ms
+w.....R
+w.....w
+R.....R
+w.....w
+R....RR
+W.wwwRR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.7769 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 1 after 2ms
+w.....R
+w.....w
+R.....R
+w.....w
+R....RR
+WRwwwRR
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 1 after 1ms
+w.....R
+w.....w
+R.....R
+w.....w
+Rw...RR
+WRwwwRR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 1.8946 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 3 after 2ms
+w.....R
+w.....w
+R.....R
+w.....w
+Rw.R.RR
+WRwwwRR
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Round piece at column 4 after 1ms
+w.....R
+w.....w
+R.....R
+w.....w
+Rw.RwRR
+WRwwwRR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.4506 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 2ms
+w.....R
+w.....w
+R.....R
+w....Rw
+Rw.RwRR
+WRwwwRR
+
+G04_Hal_V4 (White) turn
+G04_Hal_V4 (White) placed a Square piece at column 1 after 0ms
+w.....R
+w.....w
+R.....R
+wW...Rw
+Rw.RwRR
+WRwwwRR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 0.19 ms
+G01_PunksNotDead_v3 (Red) loses match! Reason: Thinker exception: 'No more RedSquare pieces available'
+w.....R
+w.....w
+R.....R
+wW...Rw
+Rw.RwRR
+WRwwwRR
+
+Winner is G04_Hal_V4 (White)

@@ -1,0 +1,789 @@
+=> MinimaxD2 (White) vs G01_PunksNotDead_v3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.6179 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 11ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+R......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+w........
+R......w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.6357 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 11ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+R........
+w........
+R......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+w........
+R........
+w........
+R......w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.9772 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 11ms
+.........
+.........
+.........
+.........
+.........
+R........
+w........
+R........
+w........
+R......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 9ms
+.........
+.........
+.........
+.........
+w........
+R........
+w........
+R........
+w........
+R......w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 11.2204 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 11ms
+.........
+.........
+.........
+R........
+w........
+R........
+w........
+R........
+w........
+R......w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 10ms
+.........
+.........
+w........
+R........
+w........
+R........
+w........
+R........
+w........
+R......w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 11.2298 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 8 after 11ms
+.........
+.........
+w........
+R........
+w........
+R........
+w........
+R........
+w........
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 10ms
+.........
+w........
+w........
+R........
+w........
+R........
+w........
+R........
+w........
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.2963 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 8 after 10ms
+.........
+w........
+w........
+R........
+w........
+R........
+w........
+R........
+w.......R
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 10ms
+.........
+w........
+w........
+R........
+w........
+R........
+w........
+R.......w
+w.......R
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.5882 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 8 after 10ms
+.........
+w........
+w........
+R........
+w........
+R........
+w.......R
+R.......w
+w.......R
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 10ms
+.........
+w........
+w........
+R........
+w........
+R.......w
+w.......R
+R.......w
+w.......R
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.7239 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 8 after 11ms
+.........
+w........
+w........
+R........
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 10ms
+.........
+w........
+w........
+R.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.9437 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 8 after 11ms
+.........
+w........
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 10ms
+.........
+w.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 10.9444 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 8 after 11ms
+........R
+w.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 8ms
+w.......R
+w.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 8.1591 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 7 after 8ms
+w.......R
+w.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w......RR
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 6ms
+w.......R
+w.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w.......R
+R......ww
+w......RR
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 8.0844 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 7 after 8ms
+w.......R
+w.......w
+w.......R
+R.......w
+w.......R
+R.......w
+w......RR
+R......ww
+w......RR
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 7ms
+w.......R
+w.......w
+w.......R
+R.......w
+w.......R
+R......ww
+w......RR
+R......ww
+w......RR
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 8.1492 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 7 after 8ms
+w.......R
+w.......w
+w.......R
+R.......w
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 7ms
+w.......R
+w.......w
+w.......R
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 8.5265 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 7 after 8ms
+w.......R
+w.......w
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 6ms
+w.......R
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 7.9323 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 7 after 8ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 5ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+Rw.....wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 6.1693 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 6ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 5ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+ww.....RR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 6.2227 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 6ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+R......ww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 5ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+Rw.....ww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 6.9722 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 9ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w......RR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 5ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R......ww
+w.....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 6.9608 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 7ms
+w......RR
+w......ww
+w......RR
+R......ww
+w......RR
+R.....Rww
+w.....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 5ms
+w......RR
+w......ww
+w......RR
+R......ww
+w.....wRR
+R.....Rww
+w.....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 7.0543 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 7ms
+w......RR
+w......ww
+w......RR
+R.....Rww
+w.....wRR
+R.....Rww
+w.....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 5ms
+w......RR
+w......ww
+w.....wRR
+R.....Rww
+w.....wRR
+R.....Rww
+w.....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 7.0613 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 7ms
+w......RR
+w.....Rww
+w.....wRR
+R.....Rww
+w.....wRR
+R.....Rww
+w.....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 6ms
+w......RR
+w.....Rww
+w.....wRR
+R.....Rww
+w.....wRR
+R.....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 6.0568 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 1 after 6ms
+w......RR
+w.....Rww
+w.....wRR
+R.....Rww
+w.....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 5ms
+w......RR
+w.....Rww
+w.....wRR
+R.....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 6.1986 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 6ms
+w.....RRR
+w.....Rww
+w.....wRR
+R.....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 3ms
+w.....RRR
+w.....Rww
+w.....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 4.6584 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 1 after 5ms
+w.....RRR
+w.....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 4ms
+w.....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw....RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.9365 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 4ms
+w.....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw...RRwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 3ms
+ww....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww....RRR
+Rw...RRwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.3002 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 3ms
+ww....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw....Rww
+ww...RRRR
+Rw...RRwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+ww....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw...wRww
+ww...RRRR
+Rw...RRwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.1504 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 2ms
+ww....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw...wRww
+ww...RRRR
+Rw..RRRwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 2ms
+ww....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw...wRww
+ww..wRRRR
+Rw..RRRwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 0.2086 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 2 after 0ms
+ww....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw...wRww
+ww..wRRRR
+RwR.RRRwR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 2ms
+ww....RRR
+ww....Rww
+wR....wRR
+Rw....Rww
+ww....wRR
+RR....Rww
+ww....wRR
+Rw...wRww
+ww..wRRRR
+RwRwRRRwR
+
+Winner is MinimaxD2 (White)
+Solution=(0,3)(1,4)(2,5)(3,6)(4,7)
