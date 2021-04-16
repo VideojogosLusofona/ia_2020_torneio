@@ -1,0 +1,250 @@
+=> G05_GROG_V3 (White) vs G10_Done_V5 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 42ms
+.......
+.......
+.......
+.......
+.......
+r....w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
+.......
+.......
+.......
+.......
+.....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 42ms
+.......
+.......
+.......
+.......
+r....w.
+r....w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 0 after 0ms
+.......
+.......
+.......
+w......
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 0 after 37ms
+.......
+.......
+R......
+w......
+r....w.
+r....w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+R......
+w....w.
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 5 after 35ms
+.......
+.......
+R....R.
+w....w.
+r....w.
+r....w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+R....R.
+w....w.
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 43ms
+.......
+r....w.
+R....R.
+w....w.
+r....w.
+r....w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 5 after 3ms
+.....w.
+r....w.
+R....R.
+w....w.
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 27ms
+r....w.
+r....w.
+R....R.
+w....w.
+r....w.
+r....w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 1ms
+r....w.
+r....w.
+R....R.
+w....w.
+r....w.
+rw...w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 1 after 17ms
+r....w.
+r....w.
+R....R.
+w....w.
+rr...w.
+rw...w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 0ms
+r....w.
+r....w.
+R....R.
+ww...w.
+rr...w.
+rw...w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 1 after 14ms
+r....w.
+r....w.
+RR...R.
+ww...w.
+rr...w.
+rw...w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 1ms
+r....w.
+rw...w.
+RR...R.
+ww...w.
+rr...w.
+rw...w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 1 after 16ms
+rr...w.
+rw...w.
+RR...R.
+ww...w.
+rr...w.
+rw...w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 3 after 0ms
+rr...w.
+rw...w.
+RR...R.
+ww...w.
+rr...w.
+rw.w.w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 2 after 4ms
+rr...w.
+rw...w.
+RR...R.
+ww...w.
+rr...w.
+rwRw.w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 6 after 0ms
+rr...w.
+rw...w.
+RR...R.
+ww...w.
+rr...w.
+rwRw.wW
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 4 after 4ms
+rr...w.
+rw...w.
+RR...R.
+ww...w.
+rr...w.
+rwRwrwW
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 6 after 0ms
+rr...w.
+rw...w.
+RR...R.
+ww...w.
+rr...wW
+rwRwrwW
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 3 after 4ms
+rr...w.
+rw...w.
+RR...R.
+ww...w.
+rr.r.wW
+rwRwrwW
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 3 after 0ms
+rr...w.
+rw...w.
+RR...R.
+ww.W.w.
+rr.r.wW
+rwRwrwW
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 2 after 3ms
+rr...w.
+rw...w.
+RR...R.
+ww.W.w.
+rrRr.wW
+rwRwrwW
+
+Winner is G10_Done_V5 (Red)
+Solution=(1,0)(1,1)(1,2)(1,3)

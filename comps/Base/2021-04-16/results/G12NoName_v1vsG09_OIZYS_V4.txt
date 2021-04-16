@@ -1,0 +1,222 @@
+=> G12NoName_v1 (White) vs G09_OIZYS_V4 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 4 after 1ms
+.......
+.......
+.......
+.......
+.......
+....w..
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 13ms
+.......
+.......
+.......
+.......
+....R..
+....w..
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 5 after 1ms
+.......
+.......
+.......
+.......
+....R..
+....ww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 9ms
+.......
+.......
+.......
+....R..
+....R..
+....ww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 4 after 1ms
+.......
+.......
+....w..
+....R..
+....R..
+....ww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 9ms
+.......
+....R..
+....w..
+....R..
+....R..
+....ww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 4 after 1ms
+....w..
+....R..
+....w..
+....R..
+....R..
+....ww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 7ms
+....w..
+....R..
+....w..
+....R..
+....R..
+...Rww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 5 after 1ms
+....w..
+....R..
+....w..
+....R..
+....Rw.
+...Rww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 8ms
+....w..
+....R..
+....w..
+....R..
+...RRw.
+...Rww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 5 after 2ms
+....w..
+....R..
+....w..
+....Rw.
+...RRw.
+...Rww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 5 after 11ms
+....w..
+....R..
+....wR.
+....Rw.
+...RRw.
+...Rww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 2 after 1ms
+....w..
+....R..
+....wR.
+....Rw.
+...RRw.
+..wRww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 8ms
+....w..
+....R..
+....wR.
+...RRw.
+...RRw.
+..wRww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 3 after 1ms
+....w..
+....R..
+...wwR.
+...RRw.
+...RRw.
+..wRww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 7ms
+....w..
+...RR..
+...wwR.
+...RRw.
+...RRw.
+..wRww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 3 after 1ms
+...ww..
+...RR..
+...wwR.
+...RRw.
+...RRw.
+..wRww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 0 after 3ms
+...ww..
+...RR..
+...wwR.
+...RRw.
+...RRw.
+R.wRww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 5 after 1ms
+...ww..
+...RRw.
+...wwR.
+...RRw.
+...RRw.
+R.wRww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 2 after 3ms
+...ww..
+...RRw.
+...wwR.
+...RRw.
+..RRRw.
+R.wRww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Square piece at column 5 after 0ms
+...wwW.
+...RRw.
+...wwR.
+...RRw.
+..RRRw.
+R.wRww.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Round piece at column 1 after 0ms
+...wwW.
+...RRw.
+...wwR.
+...RRw.
+..RRRw.
+RrwRww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) loses match! Reason: Thinker unable to perform move
+...wwW.
+...RRw.
+...wwR.
+...RRw.
+..RRRw.
+RrwRww.
+
+Winner is G09_OIZYS_V4 (Red)

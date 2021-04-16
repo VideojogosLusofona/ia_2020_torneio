@@ -1,0 +1,6868 @@
+=> UwU (White) vs Random (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+
+UwU (White) turn
+selectedMove score: 35.214035
+selectedMove score: 25.607018
+selectedMove score: 35.214035
+selectedMove score: 25.229187
+selectedMove score: 25.229187
+selectedMove score: 24.131014
+selectedMove score: 24.131014
+selectedMove score: 22.40448
+selectedMove score: 26.19046
+selectedMove score: 69.62456
+selectedMove score: 68.53606
+selectedMove score: 68.53606
+selectedMove score: 25.195545
+selectedMove score: 25.195545
+selectedMove score: 65.34745
+selectedMove score: 65.34745
+selectedMove score: 60.264286
+selectedMove score: 26.815748
+selectedMove score: 26.815748
+selectedMove score: 54.585316
+selectedMove score: 28.667404
+selectedMove score: 28.667404
+selectedMove score: 50.241768
+selectedMove score: 50.24177
+selectedMove score: 47.811466
+selectedMove score: 47.811462
+selectedMove score: 30.707256
+selectedMove score: 30.70726
+selectedMove score: 45.03398
+selectedMove score: 45.03398
+selectedMove score: 41.9742
+selectedMove score: 41.9742
+selectedMove score: 32.899208
+selectedMove score: 32.899208
+selectedMove score: 38.68627
+selectedMove score: 38.686275
+selectedMove score: 35.214035
+selectedMove score: 35.214035
+selectedMove score: 64.821045
+selectedMove score: 25.607018
+selectedMove score: 61.105316
+selectedMove score: 61.105324
+selectedMove score: 61.941498
+selectedMove score: 61.941494
+selectedMove score: 63.28415
+selectedMove score: 118.83861
+selectedMove score: 67.07013
+selectedMove score: 104.4122
+selectedMove score: 104.4122
+selectedMove score: 68.40958
+selectedMove score: 68.40958
+selectedMove score: 103.15794
+selectedMove score: 103.15794
+selectedMove score: 101.14397
+selectedMove score: 70.029785
+selectedMove score: 70.02978
+selectedMove score: 95.465
+selectedMove score: 71.88144
+selectedMove score: 71.88144
+selectedMove score: 93.45581
+selectedMove score: 93.45581
+selectedMove score: 91.0255
+selectedMove score: 91.0255
+selectedMove score: 73.921295
+selectedMove score: 73.921295
+selectedMove score: 88.24802
+selectedMove score: 88.24802
+selectedMove score: 85.18825
+selectedMove score: 85.18823
+selectedMove score: 76.11325
+selectedMove score: 76.11325
+selectedMove score: 81.900314
+selectedMove score: 81.900314
+selectedMove score: 78.42807
+selectedMove score: 78.42807
+selectedMove score: 35.214035
+selectedMove score: 63.7914
+selectedMove score: 25.229187
+selectedMove score: 60.252514
+selectedMove score: 59.874683
+selectedMove score: 60.71085
+selectedMove score: 60.710846
+selectedMove score: 62.053497
+selectedMove score: 116.98132
+selectedMove score: 65.83948
+selectedMove score: 104.27005
+selectedMove score: 103.18155
+selectedMove score: 67.17894
+selectedMove score: 67.17894
+selectedMove score: 101.92729
+selectedMove score: 101.92729
+selectedMove score: 99.913315
+selectedMove score: 68.79913
+selectedMove score: 68.79915
+selectedMove score: 94.234344
+selectedMove score: 70.65079
+selectedMove score: 70.6508
+selectedMove score: 92.225174
+selectedMove score: 92.225174
+selectedMove score: 89.79486
+selectedMove score: 89.79486
+selectedMove score: 72.69064
+selectedMove score: 72.69064
+selectedMove score: 87.01738
+selectedMove score: 87.01738
+selectedMove score: 83.957596
+selectedMove score: 83.957596
+selectedMove score: 74.8826
+selectedMove score: 74.8826
+selectedMove score: 80.66966
+selectedMove score: 80.66966
+selectedMove score: 77.19742
+selectedMove score: 77.19742
+selectedMove score: 63.7914
+selectedMove score: 25.229187
+selectedMove score: 60.25251
+selectedMove score: 59.87468
+selectedMove score: 60.71085
+selectedMove score: 60.710846
+selectedMove score: 62.053497
+selectedMove score: 116.98132
+selectedMove score: 65.83948
+selectedMove score: 104.270065
+selectedMove score: 103.18155
+selectedMove score: 67.17894
+selectedMove score: 67.17894
+selectedMove score: 101.92729
+selectedMove score: 101.92729
+selectedMove score: 99.913315
+selectedMove score: 68.79913
+selectedMove score: 68.79915
+selectedMove score: 94.234344
+selectedMove score: 70.65079
+selectedMove score: 70.6508
+selectedMove score: 92.225174
+selectedMove score: 92.225174
+selectedMove score: 89.79486
+selectedMove score: 89.79486
+selectedMove score: 72.69064
+selectedMove score: 72.69064
+selectedMove score: 52.854603
+selectedMove score: -9.466789
+selectedMove score: 32.973156
+maxDepth: 3
+heuristic: 32.973156
+UwU (White) placed a Round piece at column 7 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..........
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 16 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w........R.
+
+UwU (White) turn
+selectedMove score: 69.08397
+selectedMove score: 20.3509
+selectedMove score: 69.08397
+selectedMove score: 18.133993
+selectedMove score: 17.756163
+selectedMove score: 17.756163
+selectedMove score: 16.65799
+selectedMove score: 18.000645
+selectedMove score: 71.122894
+selectedMove score: 21.786623
+selectedMove score: 62.151535
+selectedMove score: 61.063034
+selectedMove score: 61.063034
+selectedMove score: 23.12608
+selectedMove score: 23.12608
+selectedMove score: 57.874428
+selectedMove score: 55.86045
+selectedMove score: 24.74628
+selectedMove score: 24.746283
+selectedMove score: 50.18148
+selectedMove score: 26.597939
+selectedMove score: 26.597937
+selectedMove score: 26.597939
+selectedMove score: 48.172302
+selectedMove score: 48.172302
+selectedMove score: 45.741997
+selectedMove score: 45.741997
+selectedMove score: 28.637793
+selectedMove score: 42.964516
+selectedMove score: 42.964516
+selectedMove score: 42.964516
+selectedMove score: 39.90474
+selectedMove score: 30.82974
+selectedMove score: 30.82974
+selectedMove score: 36.61681
+selectedMove score: 36.61681
+selectedMove score: 33.14457
+selectedMove score: 33.14457
+selectedMove score: 100.45456
+selectedMove score: 20.3509
+selectedMove score: 99.60966
+selectedMove score: 99.89393
+selectedMove score: 99.89393
+selectedMove score: 100.73011
+selectedMove score: 102.07276
+selectedMove score: 160.62047
+selectedMove score: 105.85874
+selectedMove score: 143.62721
+selectedMove score: 143.20082
+selectedMove score: 143.20082
+selectedMove score: 107.1982
+selectedMove score: 107.1982
+selectedMove score: 141.94655
+selectedMove score: 139.93257
+selectedMove score: 108.81839
+selectedMove score: 108.81839
+selectedMove score: 134.2536
+selectedMove score: 110.67006
+selectedMove score: 110.670044
+selectedMove score: 110.670044
+selectedMove score: 132.24443
+selectedMove score: 132.24443
+selectedMove score: 129.81412
+selectedMove score: 129.81412
+selectedMove score: 112.70991
+selectedMove score: 127.03663
+selectedMove score: 127.03663
+selectedMove score: 127.03663
+selectedMove score: 123.976845
+selectedMove score: 114.901855
+selectedMove score: 114.90186
+selectedMove score: 120.68892
+selectedMove score: 120.68892
+selectedMove score: 117.21668
+selectedMove score: 117.21668
+selectedMove score: 69.08397
+selectedMove score: 93.28743
+selectedMove score: 18.133993
+selectedMove score: 91.50433
+selectedMove score: 89.5717
+selectedMove score: 89.5717
+selectedMove score: 90.40788
+selectedMove score: 91.750534
+selectedMove score: 147.30498
+selectedMove score: 142.27632
+selectedMove score: 95.536514
+selectedMove score: 132.87859
+selectedMove score: 132.87859
+selectedMove score: 96.87596
+selectedMove score: 96.87598
+selectedMove score: 131.62431
+selectedMove score: 129.61034
+selectedMove score: 98.49617
+selectedMove score: 98.496155
+selectedMove score: 123.931366
+selectedMove score: 100.347824
+selectedMove score: 100.347824
+selectedMove score: 100.347824
+selectedMove score: 121.922195
+selectedMove score: 121.922195
+selectedMove score: 119.49188
+selectedMove score: 119.49188
+selectedMove score: 102.38768
+selectedMove score: 116.7144
+selectedMove score: 116.7144
+selectedMove score: 116.7144
+selectedMove score: 113.65462
+selectedMove score: 104.579636
+selectedMove score: 104.579636
+selectedMove score: 110.3667
+selectedMove score: 110.3667
+selectedMove score: 106.894455
+selectedMove score: 106.894455
+selectedMove score: 92.25777
+selectedMove score: 17.756163
+selectedMove score: 90.9358
+selectedMove score: 88.71889
+selectedMove score: 88.341064
+selectedMove score: 89.17723
+selectedMove score: 90.51988
+selectedMove score: 145.4477
+selectedMove score: 141.70778
+selectedMove score: 94.30586
+selectedMove score: 132.73643
+selectedMove score: 131.64793
+selectedMove score: 95.645325
+selectedMove score: 95.645325
+selectedMove score: 130.39368
+selectedMove score: 128.3797
+selectedMove score: 97.26552
+selectedMove score: 97.26552
+selectedMove score: 122.700714
+selectedMove score: 99.11719
+selectedMove score: 99.11717
+selectedMove score: 99.11717
+selectedMove score: 120.69154
+selectedMove score: 120.69154
+selectedMove score: 103.67076
+selectedMove score: -14.717823
+selectedMove score: 63.111877
+maxDepth: 3
+heuristic: 63.111877
+UwU (White) placed a Round piece at column 10 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..w.....R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 1 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.r.....w..w.....R.
+
+UwU (White) turn
+selectedMove score: 109.13605
+selectedMove score: 7.127933
+selectedMove score: 109.13605
+selectedMove score: 5.805943
+selectedMove score: 3.5890384
+selectedMove score: 3.2112079
+selectedMove score: 4.047376
+selectedMove score: 5.390031
+selectedMove score: 60.31784
+selectedMove score: 56.577934
+selectedMove score: 9.17601
+selectedMove score: 47.60658
+selectedMove score: 46.51807
+selectedMove score: 10.515463
+selectedMove score: 10.515465
+selectedMove score: 45.263817
+selectedMove score: 43.24984
+selectedMove score: 12.135666
+selectedMove score: 12.135666
+selectedMove score: 37.57087
+selectedMove score: 13.987326
+selectedMove score: 13.987324
+selectedMove score: 13.987324
+selectedMove score: 35.561684
+selectedMove score: 35.56169
+selectedMove score: 33.131386
+selectedMove score: 33.131386
+selectedMove score: 16.027178
+selectedMove score: 16.328691
+selectedMove score: 30.353895
+selectedMove score: 30.353895
+selectedMove score: 30.353895
+selectedMove score: 27.29412
+selectedMove score: 26.84185
+selectedMove score: 18.21913
+selectedMove score: 24.006191
+selectedMove score: 20.533955
+selectedMove score: 20.533955
+selectedMove score: 142.1543
+selectedMove score: 7.127933
+selectedMove score: 139.24913
+selectedMove score: 141.9509
+selectedMove score: 142.23517
+selectedMove score: 143.07135
+selectedMove score: 144.414
+selectedMove score: 205.18164
+selectedMove score: 190.02112
+selectedMove score: 148.19998
+selectedMove score: 185.96844
+selectedMove score: 185.54205
+selectedMove score: 149.53943
+selectedMove score: 149.53944
+selectedMove score: 184.28778
+selectedMove score: 182.2738
+selectedMove score: 151.15964
+selectedMove score: 151.15962
+selectedMove score: 176.59483
+selectedMove score: 153.01129
+selectedMove score: 153.01128
+selectedMove score: 153.01128
+selectedMove score: 174.58566
+selectedMove score: 174.58566
+selectedMove score: 172.15535
+selectedMove score: 172.15535
+selectedMove score: 155.05115
+selectedMove score: 155.35266
+selectedMove score: 169.37787
+selectedMove score: 169.37787
+selectedMove score: 169.37787
+selectedMove score: 166.31808
+selectedMove score: 165.86581
+selectedMove score: 157.2431
+selectedMove score: 163.03015
+selectedMove score: 159.55792
+selectedMove score: 159.55792
+selectedMove score: 109.13605
+selectedMove score: 138.5723
+selectedMove score: 5.805943
+selectedMove score: 136.34761
+selectedMove score: 137.7274
+selectedMove score: 138.01167
+selectedMove score: 138.84784
+selectedMove score: 140.19049
+selectedMove score: 198.7382
+selectedMove score: 189.53754
+selectedMove score: 143.97647
+selectedMove score: 181.74495
+selectedMove score: 181.31854
+selectedMove score: 145.31593
+selectedMove score: 145.31593
+selectedMove score: 180.06429
+selectedMove score: 178.05031
+selectedMove score: 146.93613
+selectedMove score: 146.93611
+selectedMove score: 172.37134
+selectedMove score: 148.78778
+selectedMove score: 148.78777
+selectedMove score: 148.78777
+selectedMove score: 170.36215
+selectedMove score: 170.36215
+selectedMove score: 167.93185
+selectedMove score: 167.93185
+selectedMove score: 150.82764
+selectedMove score: 151.12915
+selectedMove score: 165.15436
+selectedMove score: 165.15436
+selectedMove score: 165.15436
+selectedMove score: 162.09459
+selectedMove score: 161.6423
+selectedMove score: 153.01959
+selectedMove score: 158.80666
+selectedMove score: 155.33441
+selectedMove score: 155.33441
+selectedMove score: 131.40515
+selectedMove score: 3.5890384
+selectedMove score: 130.94405
+selectedMove score: 129.62207
+selectedMove score: 127.68945
+selectedMove score: 128.52562
+selectedMove score: 129.86827
+selectedMove score: 185.42273
+selectedMove score: 184.13397
+selectedMove score: 180.39406
+selectedMove score: 133.65425
+selectedMove score: 170.99632
+selectedMove score: 134.99371
+selectedMove score: 134.99371
+selectedMove score: 169.74207
+selectedMove score: 167.72809
+selectedMove score: 136.6139
+selectedMove score: 136.61389
+selectedMove score: 162.04912
+selectedMove score: 138.46556
+selectedMove score: -26.531738
+selectedMove score: 101.229614
+maxDepth: 3
+heuristic: 101.229614
+UwU (White) placed a Round piece at column 8 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.r.....ww.w.....R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 16 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+................R.
+.r.....ww.w.....R.
+
+UwU (White) turn
+selectedMove score: 137.2349
+selectedMove score: 2.8984466
+selectedMove score: 137.2349
+selectedMove score: 2.8984466
+selectedMove score: 1.5764565
+selectedMove score: -0.64044905
+selectedMove score: -0.18211031
+selectedMove score: 1.1605449
+selectedMove score: 56.08835
+selectedMove score: 56.088356
+selectedMove score: 52.348442
+selectedMove score: 4.946524
+selectedMove score: 43.377098
+selectedMove score: 6.285978
+selectedMove score: 6.285977
+selectedMove score: 41.034332
+selectedMove score: 39.020355
+selectedMove score: 7.906182
+selectedMove score: 7.906182
+selectedMove score: 7.90618
+selectedMove score: 33.341385
+selectedMove score: 9.757839
+selectedMove score: 9.757839
+selectedMove score: 31.332197
+selectedMove score: 31.332197
+selectedMove score: 28.9019
+selectedMove score: 28.9019
+selectedMove score: 28.9019
+selectedMove score: 11.797691
+selectedMove score: 12.099203
+selectedMove score: 26.124413
+selectedMove score: 26.124413
+selectedMove score: 23.064634
+selectedMove score: 22.612362
+selectedMove score: 13.989641
+selectedMove score: 19.776705
+selectedMove score: 16.304466
+selectedMove score: 16.304466
+selectedMove score: 170.25316
+selectedMove score: 2.8984466
+selectedMove score: 166.38083
+selectedMove score: 167.34799
+selectedMove score: 170.04974
+selectedMove score: 171.1702
+selectedMove score: 172.51286
+selectedMove score: 233.28052
+selectedMove score: 219.57076
+selectedMove score: 218.12
+selectedMove score: 176.29884
+selectedMove score: 214.06732
+selectedMove score: 177.6383
+selectedMove score: 177.6383
+selectedMove score: 212.38666
+selectedMove score: 210.3727
+selectedMove score: 179.25851
+selectedMove score: 179.25851
+selectedMove score: 179.25851
+selectedMove score: 204.69371
+selectedMove score: 181.11017
+selectedMove score: 181.11017
+selectedMove score: 202.68454
+selectedMove score: 202.68452
+selectedMove score: 200.25423
+selectedMove score: 200.25423
+selectedMove score: 200.25421
+selectedMove score: 183.15001
+selectedMove score: 183.45154
+selectedMove score: 197.47673
+selectedMove score: 197.47673
+selectedMove score: 194.41696
+selectedMove score: 193.96468
+selectedMove score: 185.34196
+selectedMove score: 191.12903
+selectedMove score: 187.65678
+selectedMove score: 187.65678
+selectedMove score: 137.2349
+selectedMove score: 170.25316
+selectedMove score: 2.8984466
+selectedMove score: 166.38083
+selectedMove score: 167.34799
+selectedMove score: 170.04977
+selectedMove score: 171.17021
+selectedMove score: 172.51286
+selectedMove score: 233.28052
+selectedMove score: 219.57076
+selectedMove score: 218.11998
+selectedMove score: 176.29884
+selectedMove score: 214.06732
+selectedMove score: 177.6383
+selectedMove score: 177.6383
+selectedMove score: 212.38666
+selectedMove score: 210.37268
+selectedMove score: 179.25851
+selectedMove score: 179.25851
+selectedMove score: 179.25851
+selectedMove score: 204.69371
+selectedMove score: 181.11017
+selectedMove score: 181.11017
+selectedMove score: 202.68452
+selectedMove score: 202.68452
+selectedMove score: 200.25423
+selectedMove score: 200.25421
+selectedMove score: 200.25423
+selectedMove score: 183.15001
+selectedMove score: 183.45154
+selectedMove score: 197.47673
+selectedMove score: 197.47673
+selectedMove score: 194.41696
+selectedMove score: 193.96468
+selectedMove score: 185.34196
+selectedMove score: 191.12903
+selectedMove score: 187.65678
+selectedMove score: 187.65678
+selectedMove score: 166.67116
+selectedMove score: 1.5764565
+selectedMove score: 164.44647
+selectedMove score: 164.44649
+selectedMove score: 165.82625
+selectedMove score: 166.9467
+selectedMove score: 168.28935
+selectedMove score: 226.83708
+selectedMove score: 217.6364
+selectedMove score: 217.6364
+selectedMove score: 172.07535
+selectedMove score: 209.84383
+selectedMove score: 173.41478
+selectedMove score: 173.41481
+selectedMove score: 208.16316
+selectedMove score: 206.14919
+selectedMove score: 175.035
+selectedMove score: 175.035
+selectedMove score: 175.03502
+selectedMove score: -32.926727
+selectedMove score: 129.89702
+maxDepth: 3
+heuristic: 129.89702
+UwU (White) placed a Round piece at column 9 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+................R.
+.r.....wwww.....R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 12 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+................R.
+.r.....wwww.R...R.
+
+UwU (White) turn
+selectedMove score: 161.75311
+selectedMove score: 8.46842
+selectedMove score: 161.75311
+selectedMove score: 8.007317
+selectedMove score: 8.007313
+selectedMove score: 6.685325
+selectedMove score: 4.653624
+selectedMove score: 5.58886
+selectedMove score: 6.9315157
+selectedMove score: 62.485954
+selectedMove score: 61.197212
+selectedMove score: 61.19722
+selectedMove score: 57.457306
+selectedMove score: 51.58912
+selectedMove score: 12.056948
+selectedMove score: 12.056948
+selectedMove score: 46.805298
+selectedMove score: 44.79132
+selectedMove score: 13.677151
+selectedMove score: 13.677151
+selectedMove score: 13.677151
+selectedMove score: 15.5288105
+selectedMove score: 15.528809
+selectedMove score: 37.103172
+selectedMove score: 37.103172
+selectedMove score: 34.672867
+selectedMove score: 34.672867
+selectedMove score: 34.672867
+selectedMove score: 17.568663
+selectedMove score: 17.870174
+selectedMove score: 31.895384
+selectedMove score: 31.895384
+selectedMove score: 28.8356
+selectedMove score: 28.38333
+selectedMove score: 19.760614
+selectedMove score: 25.547676
+selectedMove score: 22.075438
+selectedMove score: 22.075438
+selectedMove score: 195.36014
+selectedMove score: 8.46842
+selectedMove score: 191.69122
+selectedMove score: 191.69122
+selectedMove score: 192.65839
+selectedMove score: 194.19296
+selectedMove score: 196.4806
+selectedMove score: 259.37772
+selectedMove score: 197.82326
+selectedMove score: 244.88113
+selectedMove score: 244.88113
+selectedMove score: 243.43039
+selectedMove score: 241.1285
+selectedMove score: 202.94868
+selectedMove score: 202.9487
+selectedMove score: 237.69704
+selectedMove score: 235.68307
+selectedMove score: 204.5689
+selectedMove score: 204.5689
+selectedMove score: 204.56891
+selectedMove score: 206.42055
+selectedMove score: 206.42056
+selectedMove score: 227.99492
+selectedMove score: 227.99492
+selectedMove score: 225.5646
+selectedMove score: 225.5646
+selectedMove score: 225.5646
+selectedMove score: 208.4604
+selectedMove score: 208.76192
+selectedMove score: 222.78712
+selectedMove score: 222.78712
+selectedMove score: 219.72734
+selectedMove score: 219.27507
+selectedMove score: 210.65236
+selectedMove score: 216.4394
+selectedMove score: 212.96718
+selectedMove score: 212.96718
+selectedMove score: 161.75311
+selectedMove score: 194.10927
+selectedMove score: 8.007317
+selectedMove score: 190.69806
+selectedMove score: 190.23695
+selectedMove score: 191.2041
+selectedMove score: 192.7387
+selectedMove score: 195.02632
+selectedMove score: 196.36897
+selectedMove score: 257.13663
+selectedMove score: 244.7156
+selectedMove score: 243.42686
+selectedMove score: 241.9761
+selectedMove score: 239.67422
+selectedMove score: 201.49442
+selectedMove score: 201.49442
+selectedMove score: 236.24277
+selectedMove score: 234.22879
+selectedMove score: 203.11461
+selectedMove score: 203.11462
+selectedMove score: 203.11462
+selectedMove score: 204.96628
+selectedMove score: 204.96628
+selectedMove score: 226.54065
+selectedMove score: 226.54065
+selectedMove score: 224.11034
+selectedMove score: 224.11034
+selectedMove score: 224.11034
+selectedMove score: 207.00612
+selectedMove score: 207.30763
+selectedMove score: 221.33286
+selectedMove score: 221.33286
+selectedMove score: 218.27307
+selectedMove score: 217.8208
+selectedMove score: 209.19807
+selectedMove score: 214.98512
+selectedMove score: 211.5129
+selectedMove score: 211.5129
+selectedMove score: 194.10927
+selectedMove score: 8.007313
+selectedMove score: 190.69804
+selectedMove score: 190.23694
+selectedMove score: 191.2041
+selectedMove score: 192.7387
+selectedMove score: 195.02632
+selectedMove score: 196.36897
+selectedMove score: 257.13663
+selectedMove score: 244.7156
+selectedMove score: 243.42685
+selectedMove score: 241.9761
+selectedMove score: 239.67421
+selectedMove score: 201.49442
+selectedMove score: -22.377584
+selectedMove score: 159.15668
+maxDepth: 3
+heuristic: 159.15668
+UwU (White) placed a Round piece at column 7 after 422ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w........R.
+.r.....wwww.R...R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 8 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......wr.......R.
+.r.....wwww.R...R.
+
+UwU (White) turn
+selectedMove score: 241.49251
+selectedMove score: 17.102018
+selectedMove score: 241.49251
+selectedMove score: 15.454355
+selectedMove score: 13.690786
+selectedMove score: 13.229681
+selectedMove score: 15.731443
+selectedMove score: 18.019068
+selectedMove score: 19.361725
+selectedMove score: 80.12934
+selectedMove score: 75.62023
+selectedMove score: 67.708305
+selectedMove score: 66.41958
+selectedMove score: 62.66694
+selectedMove score: 24.487154
+selectedMove score: 24.487154
+selectedMove score: 59.235493
+selectedMove score: 57.221516
+selectedMove score: 26.107355
+selectedMove score: 26.107355
+selectedMove score: 26.107355
+selectedMove score: 27.959017
+selectedMove score: 27.959017
+selectedMove score: 49.533367
+selectedMove score: 49.533367
+selectedMove score: 47.10306
+selectedMove score: 47.10307
+selectedMove score: 47.10307
+selectedMove score: 29.998873
+selectedMove score: 30.300386
+selectedMove score: 44.32558
+selectedMove score: 44.32559
+selectedMove score: 41.265812
+selectedMove score: 40.813534
+selectedMove score: 32.190823
+selectedMove score: 37.977886
+selectedMove score: 34.505642
+selectedMove score: 34.505642
+selectedMove score: 278.2937
+selectedMove score: 17.102018
+selectedMove score: 275.65533
+selectedMove score: 278.1147
+selectedMove score: 278.44574
+selectedMove score: 280.94745
+selectedMove score: 351.08014
+selectedMove score: 283.2351
+selectedMove score: 284.57776
+selectedMove score: 335.8212
+selectedMove score: 332.1322
+selectedMove score: 331.63562
+selectedMove score: 327.883
+selectedMove score: 289.70322
+selectedMove score: 289.70322
+selectedMove score: 324.45154
+selectedMove score: 322.43756
+selectedMove score: 291.3234
+selectedMove score: 291.3234
+selectedMove score: 291.3234
+selectedMove score: 293.17505
+selectedMove score: 293.17505
+selectedMove score: 314.7494
+selectedMove score: 314.7494
+selectedMove score: 312.31912
+selectedMove score: 312.3191
+selectedMove score: 312.3191
+selectedMove score: 295.2149
+selectedMove score: 295.51642
+selectedMove score: 309.54163
+selectedMove score: 309.54163
+selectedMove score: 306.48184
+selectedMove score: 306.02957
+selectedMove score: 297.40686
+selectedMove score: 303.1939
+selectedMove score: 299.72168
+selectedMove score: 299.72168
+selectedMove score: 241.49251
+selectedMove score: 273.8545
+selectedMove score: 15.454355
+selectedMove score: 272.2216
+selectedMove score: 273.0333
+selectedMove score: 273.36435
+selectedMove score: 275.86606
+selectedMove score: 343.15063
+selectedMove score: 278.1537
+selectedMove score: 279.49637
+selectedMove score: 335.2489
+selectedMove score: 327.05078
+selectedMove score: 326.55417
+selectedMove score: 322.80157
+selectedMove score: 284.6218
+selectedMove score: 284.6218
+selectedMove score: 319.37012
+selectedMove score: 317.35617
+selectedMove score: 286.242
+selectedMove score: 286.242
+selectedMove score: 286.242
+selectedMove score: 288.09366
+selectedMove score: 288.09366
+selectedMove score: 309.668
+selectedMove score: 309.668
+selectedMove score: 307.2377
+selectedMove score: 307.2377
+selectedMove score: 307.2377
+selectedMove score: 290.1335
+selectedMove score: 290.43503
+selectedMove score: 304.4602
+selectedMove score: 304.4602
+selectedMove score: 301.40045
+selectedMove score: 300.94818
+selectedMove score: 292.32547
+selectedMove score: 298.11252
+selectedMove score: 294.6403
+selectedMove score: 294.6403
+selectedMove score: 267.8917
+selectedMove score: 13.690786
+selectedMove score: 267.30292
+selectedMove score: 265.65527
+selectedMove score: 264.22278
+selectedMove score: 266.7245
+selectedMove score: 269.01215
+selectedMove score: 331.9092
+selectedMove score: 270.3548
+selectedMove score: 330.33023
+selectedMove score: 325.8211
+selectedMove score: 317.4126
+selectedMove score: 313.65997
+selectedMove score: -17.486269
+selectedMove score: 233.62256
+maxDepth: 3
+heuristic: 233.62256
+UwU (White) placed a Round piece at column 10 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......wr.w.....R.
+.r.....wwww.R...R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 16 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+................R.
+.......wr.w.....R.
+.r.....wwww.R...R.
+
+UwU (White) turn
+selectedMove score: 275.64615
+selectedMove score: 12.622625
+selectedMove score: 275.64615
+selectedMove score: 12.622625
+selectedMove score: 10.974962
+selectedMove score: 9.211393
+selectedMove score: 11.252052
+selectedMove score: 13.539675
+selectedMove score: 14.882333
+selectedMove score: 75.64995
+selectedMove score: 75.649956
+selectedMove score: 71.14085
+selectedMove score: 63.22892
+selectedMove score: 58.187542
+selectedMove score: 20.007765
+selectedMove score: 20.007765
+selectedMove score: 20.007765
+selectedMove score: 54.756107
+selectedMove score: 52.74213
+selectedMove score: 21.627966
+selectedMove score: 21.62797
+selectedMove score: 23.479624
+selectedMove score: 23.479624
+selectedMove score: 45.05398
+selectedMove score: 45.05398
+selectedMove score: 45.05398
+selectedMove score: 42.623676
+selectedMove score: 42.623676
+selectedMove score: 25.51948
+selectedMove score: 25.820986
+selectedMove score: 39.846195
+selectedMove score: 39.846188
+selectedMove score: 36.78641
+selectedMove score: 36.334133
+selectedMove score: 27.711428
+selectedMove score: 33.498486
+selectedMove score: 30.026255
+selectedMove score: 30.026255
+selectedMove score: 312.44736
+selectedMove score: 12.622625
+selectedMove score: 308.6644
+selectedMove score: 309.80896
+selectedMove score: 312.26834
+selectedMove score: 315.1011
+selectedMove score: 385.23376
+selectedMove score: 317.38876
+selectedMove score: 318.7314
+selectedMove score: 371.69168
+selectedMove score: 369.9748
+selectedMove score: 366.2858
+selectedMove score: 362.0366
+selectedMove score: 323.85684
+selectedMove score: 323.85687
+selectedMove score: 323.85684
+selectedMove score: 358.60516
+selectedMove score: 356.5912
+selectedMove score: 325.47705
+selectedMove score: 325.47705
+selectedMove score: 327.3287
+selectedMove score: 327.32874
+selectedMove score: 348.90305
+selectedMove score: 348.90305
+selectedMove score: 348.90305
+selectedMove score: 346.47272
+selectedMove score: 346.47275
+selectedMove score: 329.36856
+selectedMove score: 329.67007
+selectedMove score: 343.69525
+selectedMove score: 343.69525
+selectedMove score: 340.6355
+selectedMove score: 340.18323
+selectedMove score: 331.56052
+selectedMove score: 337.34756
+selectedMove score: 333.87534
+selectedMove score: 333.87534
+selectedMove score: 275.64615
+selectedMove score: 312.44736
+selectedMove score: 12.622625
+selectedMove score: 308.6644
+selectedMove score: 309.80896
+selectedMove score: 312.2683
+selectedMove score: 315.1011
+selectedMove score: 385.23376
+selectedMove score: 317.38876
+selectedMove score: 318.7314
+selectedMove score: 371.69168
+selectedMove score: 369.9748
+selectedMove score: 366.2858
+selectedMove score: 362.0366
+selectedMove score: 323.85684
+selectedMove score: 323.85684
+selectedMove score: 323.85684
+selectedMove score: 358.60516
+selectedMove score: 356.5912
+selectedMove score: 325.47705
+selectedMove score: 325.47705
+selectedMove score: 327.3287
+selectedMove score: 327.3287
+selectedMove score: 348.90305
+selectedMove score: 348.90305
+selectedMove score: 348.90305
+selectedMove score: 346.47275
+selectedMove score: 346.47272
+selectedMove score: 329.36856
+selectedMove score: 329.67007
+selectedMove score: 343.69525
+selectedMove score: 343.69525
+selectedMove score: 340.63547
+selectedMove score: 340.1832
+selectedMove score: 331.56052
+selectedMove score: 337.34756
+selectedMove score: 333.87534
+selectedMove score: 333.87534
+selectedMove score: 308.00815
+selectedMove score: 10.974962
+selectedMove score: 306.3752
+selectedMove score: 306.3752
+selectedMove score: 307.18695
+selectedMove score: 310.0197
+selectedMove score: 377.30423
+selectedMove score: 312.30734
+selectedMove score: 313.65
+selectedMove score: 270.23526
+selectedMove score: -14.208855
+selectedMove score: 268.43832
+maxDepth: 3
+heuristic: 268.43832
+UwU (White) placed a Round piece at column 9 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+................R.
+.......wrww.....R.
+.r.....wwww.R...R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 2 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+................R.
+.......wrww.....R.
+.rR....wwww.R...R.
+
+UwU (White) turn
+selectedMove score: 315.14557
+selectedMove score: 0.6179309
+selectedMove score: 315.14557
+selectedMove score: 0.029162884
+selectedMove score: 0.029164791
+selectedMove score: -1.6185021
+selectedMove score: -0.54925394
+selectedMove score: 1.7383704
+selectedMove score: 64.63546
+selectedMove score: 3.0810246
+selectedMove score: 63.056488
+selectedMove score: 63.056496
+selectedMove score: 58.547382
+selectedMove score: 46.38625
+selectedMove score: 8.206457
+selectedMove score: 8.206461
+selectedMove score: 8.206457
+selectedMove score: 42.954792
+selectedMove score: 40.940823
+selectedMove score: 9.826662
+selectedMove score: 9.826662
+selectedMove score: 11.67832
+selectedMove score: 11.67832
+selectedMove score: 11.67832
+selectedMove score: 33.252674
+selectedMove score: 33.25268
+selectedMove score: 33.252674
+selectedMove score: 30.822367
+selectedMove score: 30.822374
+selectedMove score: 14.019686
+selectedMove score: 28.044886
+selectedMove score: 28.044893
+selectedMove score: 28.044886
+selectedMove score: 24.532839
+selectedMove score: 15.910124
+selectedMove score: 21.69718
+selectedMove score: 18.224943
+selectedMove score: 18.224943
+selectedMove score: 352.7525
+selectedMove score: 0.6179309
+selectedMove score: 349.1486
+selectedMove score: 349.1486
+selectedMove score: 350.29315
+selectedMove score: 355.58533
+selectedMove score: 426.77
+selectedMove score: 357.87296
+selectedMove score: 359.2156
+selectedMove score: 412.17587
+selectedMove score: 412.17587
+selectedMove score: 410.459
+selectedMove score: 402.52075
+selectedMove score: 364.34106
+selectedMove score: 364.34103
+selectedMove score: 364.341
+selectedMove score: 399.08932
+selectedMove score: 397.07538
+selectedMove score: 365.96127
+selectedMove score: 365.9612
+selectedMove score: 367.8129
+selectedMove score: 367.8129
+selectedMove score: 367.8129
+selectedMove score: 389.38724
+selectedMove score: 389.38724
+selectedMove score: 389.3872
+selectedMove score: 386.9569
+selectedMove score: 386.95694
+selectedMove score: 370.15427
+selectedMove score: 384.17944
+selectedMove score: 384.17944
+selectedMove score: 384.17944
+selectedMove score: 380.6674
+selectedMove score: 372.04468
+selectedMove score: 377.83173
+selectedMove score: 374.3595
+selectedMove score: 374.3595
+selectedMove score: 315.14557
+selectedMove score: 351.15454
+selectedMove score: 0.029162884
+selectedMove score: 347.96036
+selectedMove score: 347.3716
+selectedMove score: 348.51617
+selectedMove score: 353.80835
+selectedMove score: 423.941
+selectedMove score: 356.09598
+selectedMove score: 411.97787
+selectedMove score: 357.43863
+selectedMove score: 410.3989
+selectedMove score: 408.68204
+selectedMove score: 400.74377
+selectedMove score: 362.56406
+selectedMove score: 362.56406
+selectedMove score: 362.56406
+selectedMove score: 397.31238
+selectedMove score: 395.2984
+selectedMove score: 364.18427
+selectedMove score: 364.18423
+selectedMove score: 366.03592
+selectedMove score: 366.03592
+selectedMove score: 366.03592
+selectedMove score: 387.61026
+selectedMove score: 387.61023
+selectedMove score: 387.61026
+selectedMove score: 385.17993
+selectedMove score: 385.17996
+selectedMove score: 368.37726
+selectedMove score: 382.40247
+selectedMove score: 382.40247
+selectedMove score: 382.40247
+selectedMove score: 378.8904
+selectedMove score: 370.2677
+selectedMove score: 376.05478
+selectedMove score: 372.58252
+selectedMove score: 372.58252
+selectedMove score: 351.15454
+selectedMove score: 0.029164791
+selectedMove score: 347.96036
+selectedMove score: 347.3716
+selectedMove score: 348.51617
+selectedMove score: 353.80835
+selectedMove score: 423.941
+selectedMove score: 356.09598
+selectedMove score: 411.97784
+selectedMove score: -27.912176
+selectedMove score: 312.06424
+maxDepth: 3
+heuristic: 312.06424
+UwU (White) placed a Round piece at column 7 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w........R.
+.......wrww.....R.
+.rR....wwww.R...R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 4 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w........R.
+.......wrww.....R.
+.rR.R..wwww.R...R.
+
+UwU (White) turn
+selectedMove score: 359.10284
+selectedMove score: -5.6077213
+selectedMove score: 359.10284
+selectedMove score: -6.6518555
+selectedMove score: -7.2406197
+selectedMove score: -7.2406178
+selectedMove score: -3.596129
+selectedMove score: 63.68844
+selectedMove score: -1.3085027
+selectedMove score: 57.365673
+selectedMove score: 0.034149647
+selectedMove score: 55.78671
+selectedMove score: 55.786716
+selectedMove score: 43.339382
+selectedMove score: 4.4035583
+selectedMove score: 5.1595855
+selectedMove score: 5.1595817
+selectedMove score: 5.1595855
+selectedMove score: 39.907932
+selectedMove score: 37.893955
+selectedMove score: 6.7797866
+selectedMove score: 8.631441
+selectedMove score: 8.631441
+selectedMove score: 8.631449
+selectedMove score: 31.33983
+selectedMove score: 30.205797
+selectedMove score: 30.205805
+selectedMove score: 30.205805
+selectedMove score: 27.775507
+selectedMove score: 10.972815
+selectedMove score: 24.99801
+selectedMove score: 24.99801
+selectedMove score: 24.998018
+selectedMove score: 21.485975
+selectedMove score: 12.863256
+selectedMove score: 18.650312
+selectedMove score: 15.178076
+selectedMove score: 15.178076
+selectedMove score: 396.5046
+selectedMove score: -5.6077213
+selectedMove score: 395.8654
+selectedMove score: 396.26147
+selectedMove score: 396.2615
+selectedMove score: 402.69824
+selectedMove score: 474.46658
+selectedMove score: 404.98584
+selectedMove score: 459.88293
+selectedMove score: 406.3285
+selectedMove score: 459.28882
+selectedMove score: 459.28882
+selectedMove score: 449.6337
+selectedMove score: 410.6979
+selectedMove score: 411.45395
+selectedMove score: 411.45392
+selectedMove score: 411.45392
+selectedMove score: 446.20227
+selectedMove score: 444.18832
+selectedMove score: 413.07413
+selectedMove score: 414.9258
+selectedMove score: 414.9258
+selectedMove score: 414.92578
+selectedMove score: 437.6342
+selectedMove score: 436.50015
+selectedMove score: 436.50015
+selectedMove score: 436.50015
+selectedMove score: 434.06985
+selectedMove score: 417.26718
+selectedMove score: 431.29236
+selectedMove score: 431.29236
+selectedMove score: 431.29236
+selectedMove score: 427.7803
+selectedMove score: 419.1576
+selectedMove score: 424.94467
+selectedMove score: 421.47244
+selectedMove score: 421.47244
+selectedMove score: 359.10284
+selectedMove score: 392.4869
+selectedMove score: -6.6518555
+selectedMove score: 389.53107
+selectedMove score: 388.883
+selectedMove score: 388.88297
+selectedMove score: 395.3197
+selectedMove score: 466.50443
+selectedMove score: 458.8272
+selectedMove score: 397.60733
+selectedMove score: 398.94998
+selectedMove score: 451.9103
+selectedMove score: 451.9103
+selectedMove score: 442.2552
+selectedMove score: 403.3194
+selectedMove score: 404.0754
+selectedMove score: 404.0754
+selectedMove score: 404.0754
+selectedMove score: 438.82376
+selectedMove score: 436.8098
+selectedMove score: 405.69562
+selectedMove score: 407.54727
+selectedMove score: 407.54727
+selectedMove score: 407.54727
+selectedMove score: 430.25568
+selectedMove score: 429.12164
+selectedMove score: 429.12164
+selectedMove score: 429.12164
+selectedMove score: 426.69135
+selectedMove score: 409.88864
+selectedMove score: 423.91385
+selectedMove score: 423.91385
+selectedMove score: 423.91385
+selectedMove score: 420.4018
+selectedMove score: 411.77908
+selectedMove score: 417.56613
+selectedMove score: 414.0939
+selectedMove score: 414.0939
+selectedMove score: 390.88895
+selectedMove score: -7.2406197
+selectedMove score: 388.7389
+selectedMove score: 338.39154
+selectedMove score: -14.255775
+selectedMove score: 354.08777
+maxDepth: 3
+heuristic: 354.08777
+UwU (White) placed a Round piece at column 10 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..w.....R.
+.......wrww.....R.
+.rR.R..wwww.R...R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 13 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..w.....R.
+.......wrww.....R.
+.rR.R..wwww.Rr..R.
+
+UwU (White) turn
+selectedMove score: 427.34467
+selectedMove score: -16.646397
+selectedMove score: 427.34467
+selectedMove score: -18.796467
+selectedMove score: -19.840603
+selectedMove score: -20.429373
+selectedMove score: -13.992632
+selectedMove score: 56.14007
+selectedMove score: 50.499706
+selectedMove score: -11.705006
+selectedMove score: 44.176937
+selectedMove score: -10.362353
+selectedMove score: 42.597973
+selectedMove score: -7.7903843
+selectedMove score: 32.942867
+selectedMove score: -5.9929523
+selectedMove score: -5.2369256
+selectedMove score: -5.2369256
+selectedMove score: 29.51143
+selectedMove score: 27.497452
+selectedMove score: -3.6167169
+selectedMove score: 23.639498
+selectedMove score: -1.7650628
+selectedMove score: -1.7650628
+selectedMove score: -1.7650628
+selectedMove score: 20.943335
+selectedMove score: 19.809294
+selectedMove score: 19.809294
+selectedMove score: 17.378992
+selectedMove score: 0.5762992
+selectedMove score: 14.601511
+selectedMove score: 14.601511
+selectedMove score: 14.601511
+selectedMove score: 11.089458
+selectedMove score: 2.466741
+selectedMove score: 8.253805
+selectedMove score: 4.781568
+selectedMove score: 4.781568
+selectedMove score: 467.71225
+selectedMove score: -16.646397
+selectedMove score: 465.54202
+selectedMove score: 467.65344
+selectedMove score: 468.04956
+selectedMove score: 550.107
+selectedMove score: 474.4863
+selectedMove score: 534.8382
+selectedMove score: 476.77393
+selectedMove score: 531.67096
+selectedMove score: 478.11658
+selectedMove score: 531.07684
+selectedMove score: 480.68854
+selectedMove score: 521.42175
+selectedMove score: 482.48596
+selectedMove score: 483.242
+selectedMove score: 483.242
+selectedMove score: 517.99036
+selectedMove score: 515.9764
+selectedMove score: 484.86218
+selectedMove score: 512.11847
+selectedMove score: 486.71387
+selectedMove score: 486.71387
+selectedMove score: 486.71384
+selectedMove score: 509.42224
+selectedMove score: 508.2882
+selectedMove score: 508.28824
+selectedMove score: 505.85794
+selectedMove score: 489.0552
+selectedMove score: 503.08044
+selectedMove score: 503.08044
+selectedMove score: 503.08044
+selectedMove score: 499.5684
+selectedMove score: 490.94565
+selectedMove score: 496.7327
+selectedMove score: 493.26047
+selectedMove score: 493.26047
+selectedMove score: 427.34467
+selectedMove score: 461.9542
+selectedMove score: -18.796467
+selectedMove score: 461.35358
+selectedMove score: 461.315
+selectedMove score: 461.7111
+selectedMove score: 468.14783
+selectedMove score: 539.91626
+selectedMove score: 534.14
+selectedMove score: 470.43542
+selectedMove score: 525.3325
+selectedMove score: 471.77808
+selectedMove score: 524.7384
+selectedMove score: 474.35007
+selectedMove score: 515.08325
+selectedMove score: 476.1475
+selectedMove score: 476.90353
+selectedMove score: 476.9035
+selectedMove score: 511.65186
+selectedMove score: 509.6379
+selectedMove score: 478.5237
+selectedMove score: 505.77994
+selectedMove score: 480.3754
+selectedMove score: 480.37537
+selectedMove score: 480.37537
+selectedMove score: 503.08374
+selectedMove score: 501.94974
+selectedMove score: 501.94974
+selectedMove score: 499.51944
+selectedMove score: 482.71674
+selectedMove score: 496.74194
+selectedMove score: 496.74194
+selectedMove score: 496.74194
+selectedMove score: 493.2299
+selectedMove score: 484.60718
+selectedMove score: 490.39426
+selectedMove score: 486.922
+selectedMove score: 486.922
+selectedMove score: 457.9365
+selectedMove score: -19.840603
+selectedMove score: 457.13068
+selectedMove score: 454.98065
+selectedMove score: 402.68896
+selectedMove score: -28.632761
+selectedMove score: 419.53732
+maxDepth: 3
+heuristic: 419.53732
+UwU (White) placed a Round piece at column 8 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......ww.w.....R.
+.......wrww.....R.
+.rR.R..wwww.Rr..R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 0 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......ww.w.....R.
+.......wrww.....R.
+rrR.R..wwww.Rr..R.
+
+UwU (White) turn
+selectedMove score: 477.76657
+selectedMove score: -41.857334
+selectedMove score: 477.76657
+selectedMove score: -41.857334
+selectedMove score: -44.007412
+selectedMove score: -45.05154
+selectedMove score: -39.203568
+selectedMove score: 30.92914
+selectedMove score: 30.929148
+selectedMove score: 25.288782
+selectedMove score: -36.915947
+selectedMove score: 18.965994
+selectedMove score: -35.573296
+selectedMove score: -33.001324
+selectedMove score: 7.731937
+selectedMove score: -31.203886
+selectedMove score: -30.447863
+selectedMove score: -30.447859
+selectedMove score: 4.3004947
+selectedMove score: 2.2865171
+selectedMove score: -28.827654
+selectedMove score: -1.5714364
+selectedMove score: -26.976
+selectedMove score: -26.976
+selectedMove score: -26.975996
+selectedMove score: -4.2676034
+selectedMove score: -5.4016347
+selectedMove score: -5.4016366
+selectedMove score: -7.8319416
+selectedMove score: -24.634632
+selectedMove score: -10.609423
+selectedMove score: -10.609423
+selectedMove score: -10.609423
+selectedMove score: -14.121477
+selectedMove score: -22.744192
+selectedMove score: -22.184668
+selectedMove score: -16.957132
+selectedMove score: -17.796421
+selectedMove score: 518.13416
+selectedMove score: -41.857334
+selectedMove score: 514.56775
+selectedMove score: 515.96387
+selectedMove score: 518.0753
+selectedMove score: 600.52905
+selectedMove score: 524.90814
+selectedMove score: 587.3544
+selectedMove score: 585.26013
+selectedMove score: 527.19574
+selectedMove score: 582.09296
+selectedMove score: 528.5384
+selectedMove score: 531.11035
+selectedMove score: 571.8437
+selectedMove score: 532.90784
+selectedMove score: 533.6638
+selectedMove score: 533.6638
+selectedMove score: 568.4123
+selectedMove score: 566.3983
+selectedMove score: 535.284
+selectedMove score: 562.54034
+selectedMove score: 537.1357
+selectedMove score: 537.1357
+selectedMove score: 537.1357
+selectedMove score: 559.8442
+selectedMove score: 558.71014
+selectedMove score: 558.71014
+selectedMove score: 556.27985
+selectedMove score: 539.47705
+selectedMove score: 553.5023
+selectedMove score: 553.5023
+selectedMove score: 553.5023
+selectedMove score: 549.99023
+selectedMove score: 541.36755
+selectedMove score: 541.92706
+selectedMove score: 547.1546
+selectedMove score: 546.3153
+selectedMove score: 477.76657
+selectedMove score: 518.13416
+selectedMove score: -41.857334
+selectedMove score: 514.56775
+selectedMove score: 515.9639
+selectedMove score: 518.0753
+selectedMove score: 600.529
+selectedMove score: 524.9082
+selectedMove score: 587.3543
+selectedMove score: 585.26013
+selectedMove score: 527.19574
+selectedMove score: 582.09296
+selectedMove score: 528.5384
+selectedMove score: 531.11035
+selectedMove score: 571.8437
+selectedMove score: 532.90784
+selectedMove score: 533.6638
+selectedMove score: 533.6638
+selectedMove score: 568.4123
+selectedMove score: 566.39825
+selectedMove score: 535.284
+selectedMove score: 562.54034
+selectedMove score: 537.1357
+selectedMove score: 537.1357
+selectedMove score: 537.1357
+selectedMove score: 559.8442
+selectedMove score: 558.7101
+selectedMove score: 558.71014
+selectedMove score: 556.27985
+selectedMove score: 539.47705
+selectedMove score: 553.5023
+selectedMove score: 553.5023
+selectedMove score: 553.5023
+selectedMove score: 549.99023
+selectedMove score: 541.36755
+selectedMove score: 541.92706
+selectedMove score: 547.1546
+selectedMove score: 546.3153
+selectedMove score: -44.007412
+selectedMove score: 470.75137
+maxDepth: 3
+heuristic: 470.75137
+UwU (White) placed a Round piece at column 9 after 422ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......wwww.....R.
+.......wrww.....R.
+rrR.R..wwww.Rr..R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 6 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......wwww.....R.
+.......wrww.....R.
+rrR.R.Rwwww.Rr..R.
+
+UwU (White) turn
+selectedMove score: 514.8214
+selectedMove score: -36.370712
+selectedMove score: 514.8214
+selectedMove score: -37.1765
+selectedMove score: -37.176506
+selectedMove score: -39.32657
+selectedMove score: -33.537895
+selectedMove score: -33.537895
+selectedMove score: 37.646824
+selectedMove score: 35.609966
+selectedMove score: 35.609966
+selectedMove score: 29.96959
+selectedMove score: -31.250273
+selectedMove score: -27.335653
+selectedMove score: 13.39761
+selectedMove score: 13.397612
+selectedMove score: -25.53821
+selectedMove score: -24.782183
+selectedMove score: -24.782187
+selectedMove score: 9.966171
+selectedMove score: -23.161983
+selectedMove score: 4.0942397
+selectedMove score: -21.31033
+selectedMove score: -21.31033
+selectedMove score: -21.31033
+selectedMove score: 1.398077
+selectedMove score: 0.26404
+selectedMove score: 0.26404
+selectedMove score: -2.1662655
+selectedMove score: -18.96896
+selectedMove score: -4.9437466
+selectedMove score: -4.9437466
+selectedMove score: -4.9437466
+selectedMove score: -8.455801
+selectedMove score: -17.078522
+selectedMove score: -16.518997
+selectedMove score: -11.29146
+selectedMove score: -12.130747
+selectedMove score: 556.4284
+selectedMove score: -36.370712
+selectedMove score: 552.92084
+selectedMove score: 552.92084
+selectedMove score: 554.31696
+selectedMove score: 640.4461
+selectedMove score: 563.26135
+selectedMove score: 563.2613
+selectedMove score: 625.70746
+selectedMove score: 625.70746
+selectedMove score: 623.6132
+selectedMove score: 565.54895
+selectedMove score: 569.46356
+selectedMove score: 610.19684
+selectedMove score: 610.19684
+selectedMove score: 571.261
+selectedMove score: 572.017
+selectedMove score: 572.01697
+selectedMove score: 606.7654
+selectedMove score: 573.6372
+selectedMove score: 600.8935
+selectedMove score: 575.4889
+selectedMove score: 575.4889
+selectedMove score: 575.48883
+selectedMove score: 598.1973
+selectedMove score: 597.0633
+selectedMove score: 597.0633
+selectedMove score: 594.63293
+selectedMove score: 577.83026
+selectedMove score: 591.85547
+selectedMove score: 591.85547
+selectedMove score: 591.85547
+selectedMove score: 588.3434
+selectedMove score: 579.7207
+selectedMove score: 580.2802
+selectedMove score: 585.50775
+selectedMove score: 584.66846
+selectedMove score: 514.8214
+selectedMove score: 554.2042
+selectedMove score: -37.1765
+selectedMove score: 551.4436
+selectedMove score: 550.6378
+selectedMove score: 552.03394
+selectedMove score: 636.59906
+selectedMove score: 560.97833
+selectedMove score: 560.9783
+selectedMove score: 625.4613
+selectedMove score: 623.4244
+selectedMove score: 621.3302
+selectedMove score: 563.26587
+selectedMove score: 567.18054
+selectedMove score: 607.9138
+selectedMove score: 607.91376
+selectedMove score: 568.97797
+selectedMove score: 569.73395
+selectedMove score: 569.734
+selectedMove score: 604.48236
+selectedMove score: 571.3542
+selectedMove score: 598.6104
+selectedMove score: 573.2059
+selectedMove score: 573.2059
+selectedMove score: 573.2058
+selectedMove score: 595.91425
+selectedMove score: 594.7802
+selectedMove score: 594.7802
+selectedMove score: 592.35
+selectedMove score: 575.54724
+selectedMove score: 589.57245
+selectedMove score: 589.57245
+selectedMove score: 589.57245
+selectedMove score: 586.06036
+selectedMove score: 577.4377
+selectedMove score: 577.9972
+selectedMove score: 583.22473
+selectedMove score: 582.38544
+selectedMove score: 554.2042
+selectedMove score: 500.91574
+selectedMove score: -37.176506
+selectedMove score: -43.87828
+selectedMove score: 511.0444
+maxDepth: 3
+heuristic: 511.0444
+UwU (White) placed a Round piece at column 7 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..........
+.......wwww.....R.
+.......wrww.....R.
+rrR.R.Rwwww.Rr..R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 14 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..........
+.......wwww.....R.
+.......wrww.....R.
+rrR.R.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 565.0157
+selectedMove score: -47.497818
+selectedMove score: 565.0157
+selectedMove score: -47.292603
+selectedMove score: -48.098396
+selectedMove score: -48.098396
+selectedMove score: -41.3042
+selectedMove score: -41.304207
+selectedMove score: 30.464184
+selectedMove score: 26.724922
+selectedMove score: 24.688076
+selectedMove score: 24.688076
+selectedMove score: -39.01658
+selectedMove score: -35.10196
+selectedMove score: 5.631299
+selectedMove score: 5.631292
+selectedMove score: -33.304512
+selectedMove score: -33.30452
+selectedMove score: -32.548492
+selectedMove score: -32.548492
+selectedMove score: 2.199863
+selectedMove score: -3.6720762
+selectedMove score: -29.076632
+selectedMove score: -29.076632
+selectedMove score: -29.076632
+selectedMove score: -6.3682365
+selectedMove score: -6.3682365
+selectedMove score: -7.5022697
+selectedMove score: -7.5022697
+selectedMove score: -26.73527
+selectedMove score: -12.71006
+selectedMove score: -12.71006
+selectedMove score: -12.71006
+selectedMove score: -16.222107
+selectedMove score: -24.844831
+selectedMove score: -24.285305
+selectedMove score: -19.05777
+selectedMove score: -19.897053
+selectedMove score: 604.04785
+selectedMove score: -47.497818
+selectedMove score: 603.9953
+selectedMove score: 604.48773
+selectedMove score: 604.48773
+selectedMove score: 689.7811
+selectedMove score: 614.8282
+selectedMove score: 614.8282
+selectedMove score: 678.013
+selectedMove score: 677.27435
+selectedMove score: 677.27435
+selectedMove score: 617.1158
+selectedMove score: 621.0304
+selectedMove score: 661.76373
+selectedMove score: 661.7637
+selectedMove score: 622.8278
+selectedMove score: 622.8279
+selectedMove score: 623.58386
+selectedMove score: 623.58386
+selectedMove score: 658.3323
+selectedMove score: 652.4603
+selectedMove score: 627.0557
+selectedMove score: 627.0557
+selectedMove score: 627.0557
+selectedMove score: 649.7642
+selectedMove score: 649.76416
+selectedMove score: 648.6301
+selectedMove score: 648.6301
+selectedMove score: 629.3971
+selectedMove score: 643.42236
+selectedMove score: 643.42236
+selectedMove score: 643.42236
+selectedMove score: 639.9103
+selectedMove score: 631.28754
+selectedMove score: 631.84705
+selectedMove score: 637.0746
+selectedMove score: 636.23535
+selectedMove score: 565.0157
+selectedMove score: 603.4671
+selectedMove score: -47.292603
+selectedMove score: 599.26196
+selectedMove score: 599.95953
+selectedMove score: 599.95953
+selectedMove score: 687.4847
+selectedMove score: 610.3
+selectedMove score: 610.3
+selectedMove score: 677.22406
+selectedMove score: 672.7461
+selectedMove score: 672.7461
+selectedMove score: 612.5876
+selectedMove score: 616.5022
+selectedMove score: 657.23553
+selectedMove score: 657.23553
+selectedMove score: 618.2997
+selectedMove score: 618.2997
+selectedMove score: 619.05566
+selectedMove score: 619.05566
+selectedMove score: 653.8041
+selectedMove score: 647.9321
+selectedMove score: 622.5275
+selectedMove score: 622.5275
+selectedMove score: 622.5275
+selectedMove score: 645.236
+selectedMove score: 645.23596
+selectedMove score: 644.1019
+selectedMove score: 644.1019
+selectedMove score: 624.8689
+selectedMove score: 638.89417
+selectedMove score: 638.89417
+selectedMove score: 638.89417
+selectedMove score: 635.3821
+selectedMove score: 626.7594
+selectedMove score: 627.3189
+selectedMove score: 585.2488
+selectedMove score: -111.72888
+selectedMove score: 560.8753
+maxDepth: 3
+heuristic: 560.8753
+UwU (White) placed a Round piece at column 8 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......ww.........
+.......wwww.....R.
+.......wrww.....R.
+rrR.R.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 10 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......ww.r.......
+.......wwww.....R.
+.......wrww.....R.
+rrR.R.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 670.4631
+selectedMove score: -38.70912
+selectedMove score: 670.4631
+selectedMove score: -38.709114
+selectedMove score: -41.674896
+selectedMove score: -41.46968
+selectedMove score: 43.68564
+selectedMove score: 43.685646
+selectedMove score: -31.935091
+selectedMove score: -31.935091
+selectedMove score: 36.28712
+selectedMove score: 32.547848
+selectedMove score: -29.64747
+selectedMove score: -25.732843
+selectedMove score: 15.000401
+selectedMove score: 15.000422
+selectedMove score: -23.935406
+selectedMove score: -23.935406
+selectedMove score: -23.179382
+selectedMove score: -23.179379
+selectedMove score: 11.568966
+selectedMove score: 5.6970344
+selectedMove score: -19.70752
+selectedMove score: -19.70752
+selectedMove score: -19.707516
+selectedMove score: 3.0008845
+selectedMove score: 3.000877
+selectedMove score: 1.8668442
+selectedMove score: 1.8668518
+selectedMove score: -17.366152
+selectedMove score: -3.3409414
+selectedMove score: -3.3409414
+selectedMove score: -3.3409414
+selectedMove score: -6.852997
+selectedMove score: -15.475714
+selectedMove score: -14.916189
+selectedMove score: -9.68865
+selectedMove score: -10.527937
+selectedMove score: 713.7007
+selectedMove score: -38.70912
+selectedMove score: 710.8306
+selectedMove score: 712.6037
+selectedMove score: 714.1815
+selectedMove score: 805.35767
+selectedMove score: 793.22546
+selectedMove score: 725.01434
+selectedMove score: 725.01434
+selectedMove score: 790.5658
+selectedMove score: 788.19916
+selectedMove score: 727.302
+selectedMove score: 731.21655
+selectedMove score: 771.9499
+selectedMove score: 771.9499
+selectedMove score: 733.01404
+selectedMove score: 733.01404
+selectedMove score: 733.7701
+selectedMove score: 733.77
+selectedMove score: 768.51843
+selectedMove score: 762.6465
+selectedMove score: 737.24194
+selectedMove score: 737.24194
+selectedMove score: 737.24194
+selectedMove score: 759.9503
+selectedMove score: 759.9504
+selectedMove score: 758.81635
+selectedMove score: 758.8163
+selectedMove score: 739.58325
+selectedMove score: 753.6085
+selectedMove score: 753.6085
+selectedMove score: 753.6085
+selectedMove score: 750.09644
+selectedMove score: 741.47375
+selectedMove score: 742.03326
+selectedMove score: 747.2608
+selectedMove score: 746.4215
+selectedMove score: 670.4631
+selectedMove score: 713.7007
+selectedMove score: -38.709114
+selectedMove score: 710.8306
+selectedMove score: 712.6037
+selectedMove score: 714.1815
+selectedMove score: 805.35767
+selectedMove score: 793.22546
+selectedMove score: 725.01434
+selectedMove score: 725.01434
+selectedMove score: 790.5658
+selectedMove score: 788.19916
+selectedMove score: 727.302
+selectedMove score: 731.21655
+selectedMove score: 771.9499
+selectedMove score: 771.9499
+selectedMove score: 733.01404
+selectedMove score: 733.01404
+selectedMove score: 733.77
+selectedMove score: 733.7701
+selectedMove score: 768.51843
+selectedMove score: 762.6465
+selectedMove score: 737.24194
+selectedMove score: 737.24194
+selectedMove score: 737.24194
+selectedMove score: 759.9504
+selectedMove score: 759.9503
+selectedMove score: 758.81635
+selectedMove score: 758.8163
+selectedMove score: 739.58325
+selectedMove score: 753.6085
+selectedMove score: 753.6085
+selectedMove score: 753.6085
+selectedMove score: 750.09644
+selectedMove score: 741.47375
+selectedMove score: 742.03326
+selectedMove score: 747.2608
+selectedMove score: -109.92828
+selectedMove score: 666.91693
+maxDepth: 3
+heuristic: 666.91693
+UwU (White) placed a Round piece at column 7 after 422ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..........
+.......ww.r.......
+.......wwww.....R.
+.......wrww.....R.
+rrR.R.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 3 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..........
+.......ww.r.......
+.......wwww.....R.
+.......wrww.....R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 728.957
+selectedMove score: -58.136086
+selectedMove score: -111.42461
+selectedMove score: 728.957
+selectedMove score: -56.800682
+selectedMove score: -110.08922
+selectedMove score: -56.800674
+selectedMove score: -110.08922
+selectedMove score: -58.188675
+selectedMove score: -106.73833
+selectedMove score: 27.597176
+selectedMove score: -25.691324
+selectedMove score: 25.594097
+selectedMove score: -27.694426
+selectedMove score: 25.59409
+selectedMove score: -27.694426
+selectedMove score: -47.355843
+selectedMove score: -95.9055
+selectedMove score: -47.355843
+selectedMove score: -95.905495
+selectedMove score: 15.828861
+selectedMove score: -32.720764
+selectedMove score: -45.068214
+selectedMove score: -93.61787
+selectedMove score: -41.153603
+selectedMove score: -89.70325
+selectedMove score: -0.42034435
+selectedMove score: -48.969986
+selectedMove score: -0.42035675
+selectedMove score: -48.96998
+selectedMove score: -39.356155
+selectedMove score: -87.90581
+selectedMove score: -39.356155
+selectedMove score: -87.90581
+selectedMove score: -38.600136
+selectedMove score: -87.149796
+selectedMove score: -38.600136
+selectedMove score: -3.8517904
+selectedMove score: -52.40142
+selectedMove score: -37.331062
+selectedMove score: -85.880714
+selectedMove score: -9.723717
+selectedMove score: -58.273354
+selectedMove score: -35.128273
+selectedMove score: -83.677925
+selectedMove score: -35.128273
+selectedMove score: -83.67792
+selectedMove score: -12.419884
+selectedMove score: -60.96953
+selectedMove score: -12.419891
+selectedMove score: -60.969513
+selectedMove score: -13.553917
+selectedMove score: -13.553917
+selectedMove score: -62.103554
+selectedMove score: -15.457527
+selectedMove score: -64.00716
+selectedMove score: -32.78691
+selectedMove score: -81.336555
+selectedMove score: -18.761707
+selectedMove score: -67.31135
+selectedMove score: -18.7617
+selectedMove score: -67.31133
+selectedMove score: -22.27375
+selectedMove score: -70.82339
+selectedMove score: -30.896471
+selectedMove score: -79.44612
+selectedMove score: -30.336946
+selectedMove score: -78.88659
+selectedMove score: -25.109407
+selectedMove score: -73.65906
+selectedMove score: -25.948698
+selectedMove score: -74.498344
+selectedMove score: 767.5083
+selectedMove score: -58.136086
+selectedMove score: 769.3245
+selectedMove score: 769.3245
+selectedMove score: 772.6754
+selectedMove score: 851.71936
+selectedMove score: 851.71936
+selectedMove score: 783.50824
+selectedMove score: 783.50824
+selectedMove score: 846.6931
+selectedMove score: 785.79584
+selectedMove score: 789.71045
+selectedMove score: 830.4438
+selectedMove score: 830.44385
+selectedMove score: 791.50793
+selectedMove score: 791.50793
+selectedMove score: -111.42461
+selectedMove score: 728.957
+selectedMove score: 769.5237
+selectedMove score: -56.800682
+selectedMove score: 765.31824
+selectedMove score: 766.6537
+selectedMove score: 770.0046
+selectedMove score: 861.1806
+selectedMove score: 851.0516
+selectedMove score: 849.04846
+selectedMove score: 780.8374
+selectedMove score: 780.8374
+selectedMove score: 844.0222
+selectedMove score: 783.125
+selectedMove score: 787.0396
+selectedMove score: 827.77295
+selectedMove score: 827.77295
+selectedMove score: 788.8371
+selectedMove score: 788.8371
+selectedMove score: -110.08922
+selectedMove score: 769.5237
+selectedMove score: -56.800674
+selectedMove score: 765.31824
+selectedMove score: 766.6537
+selectedMove score: 770.0046
+selectedMove score: 861.18066
+selectedMove score: 851.0516
+selectedMove score: 849.0485
+selectedMove score: 780.8374
+selectedMove score: 780.8374
+selectedMove score: 844.0222
+selectedMove score: 783.125
+selectedMove score: 787.0396
+selectedMove score: 827.77295
+selectedMove score: 827.77295
+selectedMove score: 788.8371
+selectedMove score: 788.8371
+selectedMove score: -110.08922
+selectedMove score: 758.6165
+selectedMove score: -58.188675
+selectedMove score: 761.1914
+selectedMove score: 759.9519
+selectedMove score: 759.9519
+selectedMove score: 844.34985
+selectedMove score: 845.20905
+selectedMove score: 842.3468
+selectedMove score: 842.34674
+selectedMove score: 769.3968
+selectedMove score: 769.39685
+selectedMove score: 771.68445
+selectedMove score: 775.59906
+selectedMove score: 816.3324
+selectedMove score: 816.3324
+selectedMove score: 777.3965
+selectedMove score: 777.39655
+selectedMove score: -106.73833
+selectedMove score: 740.07355
+selectedMove score: 27.597176
+selectedMove score: 741.88983
+selectedMove score: 741.88983
+selectedMove score: 745.2407
+selectedMove score: 831.7305
+selectedMove score: 824.28467
+selectedMove score: 824.2846
+selectedMove score: 756.07355
+selectedMove score: 756.07355
+selectedMove score: 819.25836
+selectedMove score: 758.36115
+selectedMove score: 762.27576
+selectedMove score: 803.0091
+selectedMove score: 803.0091
+selectedMove score: 764.07324
+selectedMove score: 764.07324
+selectedMove score: 764.8293
+selectedMove score: -25.691324
+selectedMove score: 743.15735
+selectedMove score: 25.594097
+selectedMove score: 738.95197
+selectedMove score: 740.28735
+selectedMove score: 743.63824
+selectedMove score: 834.81433
+selectedMove score: 824.6853
+selectedMove score: 822.6822
+selectedMove score: 754.47107
+selectedMove score: 754.47107
+selectedMove score: 703.6746
+selectedMove score: -12.20298
+selectedMove score: 699.91974
+maxDepth: 3
+heuristic: 699.91974
+UwU (White) placed a Square piece at column 10 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..W.......
+.......ww.r.......
+.......wwww.....R.
+.......wrww.....R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 0 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......w..W.......
+.......ww.r.......
+.......wwww.....R.
+r......wrww.....R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 775.87823
+selectedMove score: -2.3874655
+selectedMove score: -62.250816
+selectedMove score: 775.87823
+selectedMove score: -6.592865
+selectedMove score: -59.88138
+selectedMove score: -5.2574615
+selectedMove score: -58.545975
+selectedMove score: -1.9065704
+selectedMove score: -55.195076
+selectedMove score: 89.26939
+selectedMove score: 29.406036
+selectedMove score: 79.14039
+selectedMove score: 25.851894
+selectedMove score: 77.13729
+selectedMove score: 23.848782
+selectedMove score: 8.926242
+selectedMove score: -44.36226
+selectedMove score: 8.926243
+selectedMove score: -44.36225
+selectedMove score: 72.11095
+selectedMove score: 18.822453
+selectedMove score: 11.213871
+selectedMove score: -42.07464
+selectedMove score: 15.128483
+selectedMove score: -38.160004
+selectedMove score: 55.861725
+selectedMove score: 2.5732403
+selectedMove score: 55.861748
+selectedMove score: 2.5732417
+selectedMove score: 16.925922
+selectedMove score: -36.36258
+selectedMove score: 16.925938
+selectedMove score: -36.36257
+selectedMove score: 17.68195
+selectedMove score: 17.681965
+selectedMove score: -35.606544
+selectedMove score: 52.430305
+selectedMove score: -0.8582001
+selectedMove score: 18.951023
+selectedMove score: -34.33748
+selectedMove score: 46.558388
+selectedMove score: -6.7301254
+selectedMove score: 21.153812
+selectedMove score: -32.13469
+selectedMove score: 21.153828
+selectedMove score: -32.13469
+selectedMove score: 43.862206
+selectedMove score: -9.4263
+selectedMove score: 43.86222
+selectedMove score: -9.426292
+selectedMove score: 42.728172
+selectedMove score: 42.728172
+selectedMove score: -10.560326
+selectedMove score: 40.824577
+selectedMove score: -12.463936
+selectedMove score: 23.495197
+selectedMove score: -29.793325
+selectedMove score: 37.52039
+selectedMove score: -15.76812
+selectedMove score: 37.52039
+selectedMove score: -15.768112
+selectedMove score: 24.382084
+selectedMove score: -28.906431
+selectedMove score: 34.008335
+selectedMove score: -19.28017
+selectedMove score: 25.385624
+selectedMove score: -27.902884
+selectedMove score: 32.677998
+selectedMove score: -20.610504
+selectedMove score: 31.172688
+selectedMove score: -22.115822
+selectedMove score: 819.14215
+selectedMove score: -2.3874655
+selectedMove score: 821.4853
+selectedMove score: 822.8207
+selectedMove score: 826.17163
+selectedMove score: 919.01764
+selectedMove score: 907.2186
+selectedMove score: 900.64374
+selectedMove score: 905.2155
+selectedMove score: 837.0045
+selectedMove score: 837.0045
+selectedMove score: 900.1892
+selectedMove score: 839.2921
+selectedMove score: 843.2067
+selectedMove score: 883.93994
+selectedMove score: 883.94
+selectedMove score: 845.0042
+selectedMove score: 845.0042
+selectedMove score: -62.250816
+selectedMove score: 775.87823
+selectedMove score: 814.37714
+selectedMove score: 807.8022
+selectedMove score: -6.592865
+selectedMove score: 809.6908
+selectedMove score: 811.507
+selectedMove score: 814.8579
+selectedMove score: 906.03406
+selectedMove score: 899.4591
+selectedMove score: 893.90186
+selectedMove score: 825.6908
+selectedMove score: 825.69073
+selectedMove score: 888.87555
+selectedMove score: 827.9784
+selectedMove score: 831.893
+selectedMove score: 872.6263
+selectedMove score: 872.6262
+selectedMove score: 872.6263
+selectedMove score: 833.6904
+selectedMove score: 833.6905
+selectedMove score: -59.88138
+selectedMove score: 811.70624
+selectedMove score: -5.2574615
+selectedMove score: 811.70624
+selectedMove score: 807.5008
+selectedMove score: 812.1871
+selectedMove score: 903.36316
+selectedMove score: 903.36316
+selectedMove score: 893.2341
+selectedMove score: 823.0199
+selectedMove score: 823.0199
+selectedMove score: 886.2047
+selectedMove score: 825.3075
+selectedMove score: 829.2221
+selectedMove score: 869.9554
+selectedMove score: 869.95544
+selectedMove score: 831.0196
+selectedMove score: 831.01965
+selectedMove score: -58.545975
+selectedMove score: 805.00446
+selectedMove score: -1.9065704
+selectedMove score: 800.799
+selectedMove score: 803.37384
+selectedMove score: 802.1344
+selectedMove score: 896.6614
+selectedMove score: 886.53235
+selectedMove score: 886.5323
+selectedMove score: 887.39154
+selectedMove score: 884.52924
+selectedMove score: 816.3181
+selectedMove score: 816.3182
+selectedMove score: 818.6058
+selectedMove score: 822.5204
+selectedMove score: 863.25366
+selectedMove score: 863.2537
+selectedMove score: 824.3178
+selectedMove score: 824.3179
+selectedMove score: -55.195076
+selectedMove score: 789.81195
+selectedMove score: 89.26939
+selectedMove score: 792.1551
+selectedMove score: 793.4905
+selectedMove score: 796.84143
+selectedMove score: 889.68744
+selectedMove score: 877.8884
+selectedMove score: 871.31354
+selectedMove score: 875.8853
+selectedMove score: 807.6743
+selectedMove score: 807.6743
+selectedMove score: 870.8591
+selectedMove score: 809.9619
+selectedMove score: 813.8765
+selectedMove score: 854.6098
+selectedMove score: 854.6098
+selectedMove score: 815.674
+selectedMove score: 815.674
+selectedMove score: 29.406036
+selectedMove score: 786.9423
+selectedMove score: 780.36743
+selectedMove score: 79.14039
+selectedMove score: 782.25604
+selectedMove score: 784.07227
+selectedMove score: 787.42316
+selectedMove score: 873.91296
+selectedMove score: 49.810226
+selectedMove score: 742.10223
+maxDepth: 3
+heuristic: 742.10223
+UwU (White) placed a Square piece at column 8 after 422ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+r......wrww.....R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 13 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+r......wrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 802.8558
+selectedMove score: 72.1933
+selectedMove score: 12.329952
+selectedMove score: 802.8558
+selectedMove score: 72.19328
+selectedMove score: 12.32996
+selectedMove score: 67.98791
+selectedMove score: 14.699398
+selectedMove score: 72.67418
+selectedMove score: 19.385685
+selectedMove score: 163.85028
+selectedMove score: 103.98679
+selectedMove score: 163.85025
+selectedMove score: 103.98681
+selectedMove score: 153.72125
+selectedMove score: 100.432625
+selectedMove score: 82.2867
+selectedMove score: 28.998177
+selectedMove score: 83.50699
+selectedMove score: 30.218494
+selectedMove score: 83.50702
+selectedMove score: 30.218498
+selectedMove score: 146.69179
+selectedMove score: 93.403206
+selectedMove score: 85.79463
+selectedMove score: 32.506115
+selectedMove score: 132.27304
+selectedMove score: 78.984474
+selectedMove score: 130.44255
+selectedMove score: 77.15398
+selectedMove score: 130.44255
+selectedMove score: 77.153984
+selectedMove score: 91.506676
+selectedMove score: 38.21818
+selectedMove score: 91.506676
+selectedMove score: 38.21818
+selectedMove score: 92.26272
+selectedMove score: 92.26272
+selectedMove score: 38.97421
+selectedMove score: 127.011086
+selectedMove score: 73.72253
+selectedMove score: 93.53178
+selectedMove score: 40.243286
+selectedMove score: 95.7346
+selectedMove score: 42.44606
+selectedMove score: 95.7346
+selectedMove score: 42.446075
+selectedMove score: 118.443
+selectedMove score: 65.154434
+selectedMove score: 118.443
+selectedMove score: 65.15445
+selectedMove score: 117.30895
+selectedMove score: 117.30897
+selectedMove score: 64.02043
+selectedMove score: 115.405334
+selectedMove score: 62.11682
+selectedMove score: 98.07595
+selectedMove score: 44.78743
+selectedMove score: 112.10115
+selectedMove score: 58.812622
+selectedMove score: 112.101166
+selectedMove score: 58.812637
+selectedMove score: 98.96284
+selectedMove score: 45.67433
+selectedMove score: 108.58911
+selectedMove score: 55.300583
+selectedMove score: 99.96639
+selectedMove score: 46.67787
+selectedMove score: 107.25879
+selectedMove score: 53.970245
+selectedMove score: 105.75345
+selectedMove score: 52.464935
+selectedMove score: 846.1197
+selectedMove score: 72.1933
+selectedMove score: 846.09344
+selectedMove score: 848.4628
+selectedMove score: 853.1492
+selectedMove score: 945.99524
+selectedMove score: 937.7504
+selectedMove score: 934.1962
+selectedMove score: 927.62134
+selectedMove score: 862.7616
+selectedMove score: 863.982
+selectedMove score: 863.982
+selectedMove score: 927.1668
+selectedMove score: 866.2696
+selectedMove score: 912.748
+selectedMove score: 910.9176
+selectedMove score: 910.91754
+selectedMove score: 871.9817
+selectedMove score: 871.9817
+selectedMove score: 12.329952
+selectedMove score: 802.8558
+selectedMove score: 846.1197
+selectedMove score: 72.19328
+selectedMove score: 846.09344
+selectedMove score: 848.4629
+selectedMove score: 853.14923
+selectedMove score: 945.9952
+selectedMove score: 937.75037
+selectedMove score: 934.19617
+selectedMove score: 927.6213
+selectedMove score: 862.7616
+selectedMove score: 863.98206
+selectedMove score: 863.98206
+selectedMove score: 927.1668
+selectedMove score: 866.26965
+selectedMove score: 912.7479
+selectedMove score: 910.9175
+selectedMove score: 910.91754
+selectedMove score: 871.9817
+selectedMove score: 871.98175
+selectedMove score: 12.32996
+selectedMove score: 841.3547
+selectedMove score: 834.7797
+selectedMove score: 67.98791
+selectedMove score: 836.66833
+selectedMove score: 841.3546
+selectedMove score: 834.7797
+selectedMove score: 841.8355
+selectedMove score: 933.01154
+selectedMove score: 926.4367
+selectedMove score: 933.0116
+selectedMove score: 926.4367
+selectedMove score: 851.44794
+selectedMove score: 851.4479
+selectedMove score: 852.66833
+selectedMove score: 852.66833
+selectedMove score: 852.6683
+selectedMove score: 915.8531
+selectedMove score: 854.95593
+selectedMove score: 854.9559
+selectedMove score: 901.43427
+selectedMove score: 899.6038
+selectedMove score: 899.6038
+selectedMove score: 860.66797
+selectedMove score: 860.668
+selectedMove score: 860.66797
+selectedMove score: 14.699398
+selectedMove score: 831.98206
+selectedMove score: 72.67418
+selectedMove score: 831.982
+selectedMove score: 827.77655
+selectedMove score: 830.35144
+selectedMove score: 923.639
+selectedMove score: 923.639
+selectedMove score: 913.5099
+selectedMove score: 914.3691
+selectedMove score: 842.0753
+selectedMove score: 843.2957
+selectedMove score: 843.29565
+selectedMove score: 845.5833
+selectedMove score: 892.06165
+selectedMove score: 890.2312
+selectedMove score: 890.23126
+selectedMove score: 851.29535
+selectedMove score: 851.2954
+selectedMove score: 19.385685
+selectedMove score: 816.7895
+selectedMove score: 163.85028
+selectedMove score: 816.76324
+selectedMove score: 819.1327
+selectedMove score: 823.819
+selectedMove score: 916.66504
+selectedMove score: 908.42017
+selectedMove score: 904.866
+selectedMove score: 898.2911
+selectedMove score: 833.43146
+selectedMove score: 834.65186
+selectedMove score: 834.65186
+selectedMove score: 897.8366
+selectedMove score: 836.93945
+selectedMove score: 797.6566
+selectedMove score: 107.94328
+selectedMove score: 773.5256
+maxDepth: 3
+heuristic: 773.5256
+UwU (White) placed a Square piece at column 10 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..........W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+r......wrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 1 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..........W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr.....wrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 859.7339
+selectedMove score: 132.26007
+selectedMove score: 69.08293
+selectedMove score: 859.7339
+selectedMove score: 132.23378
+selectedMove score: 72.37036
+selectedMove score: 134.60323
+selectedMove score: 74.739815
+selectedMove score: 139.28952
+selectedMove score: 79.426094
+selectedMove score: 232.1355
+selectedMove score: 168.95845
+selectedMove score: 223.89072
+selectedMove score: 164.02734
+selectedMove score: 220.33655
+selectedMove score: 160.47318
+selectedMove score: 148.90202
+selectedMove score: 89.03861
+selectedMove score: 150.12234
+selectedMove score: 90.25894
+selectedMove score: 150.12236
+selectedMove score: 90.258965
+selectedMove score: 213.3071
+selectedMove score: 153.44374
+selectedMove score: 152.40997
+selectedMove score: 92.54656
+selectedMove score: 198.88837
+selectedMove score: 139.02496
+selectedMove score: 197.05788
+selectedMove score: 137.19449
+selectedMove score: 197.05786
+selectedMove score: 137.19449
+selectedMove score: 158.12204
+selectedMove score: 98.25863
+selectedMove score: 158.12204
+selectedMove score: 98.25861
+selectedMove score: 158.87807
+selectedMove score: 158.87807
+selectedMove score: 99.014656
+selectedMove score: 193.62645
+selectedMove score: 133.76302
+selectedMove score: 160.14714
+selectedMove score: 100.283714
+selectedMove score: 162.34991
+selectedMove score: 102.4865
+selectedMove score: 162.34995
+selectedMove score: 102.48649
+selectedMove score: 185.05836
+selectedMove score: 125.19492
+selectedMove score: 185.05835
+selectedMove score: 125.19492
+selectedMove score: 183.92432
+selectedMove score: 183.92433
+selectedMove score: 124.06089
+selectedMove score: 162.99324
+selectedMove score: 103.129814
+selectedMove score: 182.02072
+selectedMove score: 122.157265
+selectedMove score: 178.71652
+selectedMove score: 118.85308
+selectedMove score: 178.71652
+selectedMove score: 118.85308
+selectedMove score: 177.75156
+selectedMove score: 117.888115
+selectedMove score: 165.5782
+selectedMove score: 105.71475
+selectedMove score: 166.58174
+selectedMove score: 106.71831
+selectedMove score: 173.87413
+selectedMove score: 114.01068
+selectedMove score: 172.3688
+selectedMove score: 112.50537
+selectedMove score: 898.0273
+selectedMove score: 132.26007
+selectedMove score: 906.2853
+selectedMove score: 908.6547
+selectedMove score: 913.341
+selectedMove score: 1002.045
+selectedMove score: 997.9422
+selectedMove score: 994.388
+selectedMove score: 984.49945
+selectedMove score: 922.9534
+selectedMove score: 924.1738
+selectedMove score: 924.1738
+selectedMove score: 987.3587
+selectedMove score: 926.4614
+selectedMove score: 972.9398
+selectedMove score: 971.10944
+selectedMove score: 971.1094
+selectedMove score: 932.1735
+selectedMove score: 932.17346
+selectedMove score: 932.9295
+selectedMove score: 69.08293
+selectedMove score: 859.7339
+selectedMove score: 896.4229
+selectedMove score: 132.23378
+selectedMove score: 896.4229
+selectedMove score: 898.7661
+selectedMove score: 903.45245
+selectedMove score: 996.29846
+selectedMove score: 996.29846
+selectedMove score: 984.49945
+selectedMove score: 977.92456
+selectedMove score: 913.0649
+selectedMove score: 914.2853
+selectedMove score: 914.2853
+selectedMove score: 977.4701
+selectedMove score: 916.5729
+selectedMove score: 963.0512
+selectedMove score: 961.2208
+selectedMove score: 961.2209
+selectedMove score: 922.285
+selectedMove score: 922.285
+selectedMove score: 72.37036
+selectedMove score: 891.68414
+selectedMove score: 881.7955
+selectedMove score: 134.60323
+selectedMove score: 891.6579
+selectedMove score: 891.6579
+selectedMove score: 885.08295
+selectedMove score: 898.7136
+selectedMove score: 892.13873
+selectedMove score: 991.55963
+selectedMove score: 981.6711
+selectedMove score: 983.3149
+selectedMove score: 976.7399
+selectedMove score: 908.32605
+selectedMove score: 901.75116
+selectedMove score: 909.5464
+selectedMove score: 902.97156
+selectedMove score: 909.5464
+selectedMove score: 902.97156
+selectedMove score: 972.73126
+selectedMove score: 966.1563
+selectedMove score: 911.834
+selectedMove score: 905.25916
+selectedMove score: 958.31244
+selectedMove score: 951.7375
+selectedMove score: 956.482
+selectedMove score: 949.9071
+selectedMove score: 956.482
+selectedMove score: 949.9071
+selectedMove score: 917.5461
+selectedMove score: 910.97125
+selectedMove score: 917.5461
+selectedMove score: 910.97125
+selectedMove score: 74.739815
+selectedMove score: 882.31146
+selectedMove score: 139.28952
+selectedMove score: 882.2852
+selectedMove score: 884.65466
+selectedMove score: 885.3409
+selectedMove score: 982.1871
+selectedMove score: 973.9422
+selectedMove score: 970.388
+selectedMove score: 963.8131
+selectedMove score: 969.35864
+selectedMove score: 898.9534
+selectedMove score: 900.17377
+selectedMove score: 900.17377
+selectedMove score: 902.4614
+selectedMove score: 948.93976
+selectedMove score: 947.1094
+selectedMove score: 947.1094
+selectedMove score: 908.1735
+selectedMove score: 908.17346
+selectedMove score: 908.92957
+selectedMove score: 79.426094
+selectedMove score: 866.0671
+selectedMove score: 232.1355
+selectedMove score: 874.325
+selectedMove score: 876.69446
+selectedMove score: 881.38086
+selectedMove score: 970.0848
+selectedMove score: 965.98206
+selectedMove score: 962.42786
+selectedMove score: 952.53925
+selectedMove score: 890.9932
+selectedMove score: 892.2136
+selectedMove score: 892.2136
+selectedMove score: 955.39844
+selectedMove score: 181.89462
+selectedMove score: 823.8288
+maxDepth: 3
+heuristic: 823.8288
+UwU (White) placed a Square piece at column 8 after 422ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr.....wrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 6 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 931.8907
+selectedMove score: 209.78331
+selectedMove score: 146.60619
+selectedMove score: 931.8907
+selectedMove score: 209.78331
+selectedMove score: 146.60619
+selectedMove score: 212.12642
+selectedMove score: 152.26305
+selectedMove score: 216.81271
+selectedMove score: 156.94937
+selectedMove score: 309.65857
+selectedMove score: 246.48161
+selectedMove score: 309.65857
+selectedMove score: 246.48161
+selectedMove score: 224.13657
+selectedMove score: 164.2732
+selectedMove score: 297.85965
+selectedMove score: 237.99634
+selectedMove score: 226.42523
+selectedMove score: 166.56189
+selectedMove score: 227.64551
+selectedMove score: 167.7822
+selectedMove score: 290.8302
+selectedMove score: 230.96692
+selectedMove score: 229.9332
+selectedMove score: 170.06982
+selectedMove score: 279.84445
+selectedMove score: 219.98122
+selectedMove score: 276.4114
+selectedMove score: 216.54816
+selectedMove score: 274.58093
+selectedMove score: 214.71771
+selectedMove score: 235.64523
+selectedMove score: 175.78189
+selectedMove score: 235.64523
+selectedMove score: 175.78188
+selectedMove score: 236.40128
+selectedMove score: 176.53792
+selectedMove score: 236.40128
+selectedMove score: 271.1495
+selectedMove score: 211.28627
+selectedMove score: 237.67035
+selectedMove score: 177.80698
+selectedMove score: 239.87312
+selectedMove score: 180.00978
+selectedMove score: 239.8731
+selectedMove score: 180.0098
+selectedMove score: 262.58145
+selectedMove score: 202.71817
+selectedMove score: 262.58145
+selectedMove score: 202.71817
+selectedMove score: 261.44742
+selectedMove score: 261.44742
+selectedMove score: 201.58414
+selectedMove score: 240.5164
+selectedMove score: 180.65308
+selectedMove score: 259.5438
+selectedMove score: 199.68054
+selectedMove score: 256.23962
+selectedMove score: 196.37634
+selectedMove score: 256.23962
+selectedMove score: 196.37634
+selectedMove score: 255.27469
+selectedMove score: 195.41138
+selectedMove score: 243.10136
+selectedMove score: 183.23804
+selectedMove score: 244.1049
+selectedMove score: 184.24161
+selectedMove score: 251.39725
+selectedMove score: 191.53397
+selectedMove score: 249.89194
+selectedMove score: 190.02863
+selectedMove score: 970.18396
+selectedMove score: 209.78331
+selectedMove score: 975.15454
+selectedMove score: 980.8114
+selectedMove score: 985.49774
+selectedMove score: 1074.2015
+selectedMove score: 1075.0299
+selectedMove score: 992.82153
+selectedMove score: 1066.5446
+selectedMove score: 1056.656
+selectedMove score: 995.1102
+selectedMove score: 996.33057
+selectedMove score: 1059.5153
+selectedMove score: 998.61816
+selectedMove score: 1048.5294
+selectedMove score: 1045.0963
+selectedMove score: 1043.266
+selectedMove score: 1004.33026
+selectedMove score: 1004.33026
+selectedMove score: 146.60619
+selectedMove score: 931.8907
+selectedMove score: 970.184
+selectedMove score: 209.78331
+selectedMove score: 975.15454
+selectedMove score: 980.8114
+selectedMove score: 985.49774
+selectedMove score: 1074.2015
+selectedMove score: 1075.0299
+selectedMove score: 992.82153
+selectedMove score: 1066.5446
+selectedMove score: 1056.6559
+selectedMove score: 995.11017
+selectedMove score: 996.33057
+selectedMove score: 1059.5151
+selectedMove score: 998.61816
+selectedMove score: 1048.5294
+selectedMove score: 1045.0963
+selectedMove score: 1043.266
+selectedMove score: 1004.33026
+selectedMove score: 1004.33026
+selectedMove score: 1005.08624
+selectedMove score: 146.60619
+selectedMove score: 963.84076
+selectedMove score: 953.9522
+selectedMove score: 212.12642
+selectedMove score: 963.8408
+selectedMove score: 953.9522
+selectedMove score: 963.8145
+selectedMove score: 970.87036
+selectedMove score: 964.2954
+selectedMove score: 1063.7162
+selectedMove score: 1053.8276
+selectedMove score: 1063.7162
+selectedMove score: 1053.8275
+selectedMove score: 978.19415
+selectedMove score: 971.61926
+selectedMove score: 980.4828
+selectedMove score: 973.9079
+selectedMove score: 981.7032
+selectedMove score: 975.12823
+selectedMove score: 1044.8878
+selectedMove score: 1038.3129
+selectedMove score: 983.9908
+selectedMove score: 977.41583
+selectedMove score: 1033.9021
+selectedMove score: 1027.3271
+selectedMove score: 1030.4691
+selectedMove score: 1023.89417
+selectedMove score: 1028.6385
+selectedMove score: 1022.0637
+selectedMove score: 989.7029
+selectedMove score: 983.1279
+selectedMove score: 989.7029
+selectedMove score: 983.1279
+selectedMove score: 152.26305
+selectedMove score: 954.4682
+selectedMove score: 216.81271
+selectedMove score: 954.46826
+selectedMove score: 956.8114
+selectedMove score: 957.49774
+selectedMove score: 1054.3436
+selectedMove score: 1054.3435
+selectedMove score: 968.8215
+selectedMove score: 1042.5446
+selectedMove score: 1035.9696
+selectedMove score: 1041.5153
+selectedMove score: 971.11017
+selectedMove score: 972.3305
+selectedMove score: 974.6181
+selectedMove score: 1024.5294
+selectedMove score: 1021.09644
+selectedMove score: 1019.2661
+selectedMove score: 980.3302
+selectedMove score: 980.3302
+selectedMove score: 156.94937
+selectedMove score: 938.2238
+selectedMove score: 309.65857
+selectedMove score: 943.19434
+selectedMove score: 948.85126
+selectedMove score: 953.53754
+selectedMove score: 1042.2413
+selectedMove score: 1043.0697
+selectedMove score: 960.8613
+selectedMove score: 1034.5845
+selectedMove score: 266.4336
+selectedMove score: 899.93036
+maxDepth: 3
+heuristic: 899.93036
+UwU (White) placed a Square piece at column 10 after 423ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..........W.......
+........W.W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 8 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+........r.W.......
+........W.W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 1043.0697
+selectedMove score: 315.99167
+selectedMove score: 252.81479
+selectedMove score: 1043.0697
+selectedMove score: 315.9917
+selectedMove score: 252.81476
+selectedMove score: 323.30542
+selectedMove score: 260.12842
+selectedMove score: 327.99167
+selectedMove score: 264.81473
+selectedMove score: 420.0092
+selectedMove score: 356.83215
+selectedMove score: 420.0092
+selectedMove score: 356.83212
+selectedMove score: 335.31546
+selectedMove score: 272.13852
+selectedMove score: 409.03864
+selectedMove score: 345.8616
+selectedMove score: 337.6042
+selectedMove score: 274.42722
+selectedMove score: 338.82452
+selectedMove score: 275.6475
+selectedMove score: 402.00922
+selectedMove score: 338.83215
+selectedMove score: 341.11212
+selectedMove score: 277.93515
+selectedMove score: 391.0235
+selectedMove score: 327.8464
+selectedMove score: 387.59048
+selectedMove score: 324.41342
+selectedMove score: 385.75998
+selectedMove score: 322.58292
+selectedMove score: 346.8242
+selectedMove score: 283.64722
+selectedMove score: 346.8242
+selectedMove score: 283.6472
+selectedMove score: 347.5802
+selectedMove score: 347.5802
+selectedMove score: 284.40323
+selectedMove score: 382.32855
+selectedMove score: 319.15152
+selectedMove score: 348.84927
+selectedMove score: 285.6723
+selectedMove score: 351.05206
+selectedMove score: 287.8751
+selectedMove score: 351.05206
+selectedMove score: 287.8751
+selectedMove score: 373.76047
+selectedMove score: 310.58344
+selectedMove score: 373.76047
+selectedMove score: 310.58344
+selectedMove score: 372.62643
+selectedMove score: 372.62643
+selectedMove score: 309.4494
+selectedMove score: 351.69537
+selectedMove score: 288.5184
+selectedMove score: 370.7228
+selectedMove score: 307.54578
+selectedMove score: 367.41864
+selectedMove score: 304.2416
+selectedMove score: 367.4186
+selectedMove score: 304.24164
+selectedMove score: 366.45367
+selectedMove score: 303.27664
+selectedMove score: 354.2803
+selectedMove score: 291.10333
+selectedMove score: 355.28387
+selectedMove score: 292.1069
+selectedMove score: 362.57623
+selectedMove score: 299.39926
+selectedMove score: 361.0709
+selectedMove score: 297.89395
+selectedMove score: 1081.3632
+selectedMove score: 315.99167
+selectedMove score: 1086.3335
+selectedMove score: 1091.9905
+selectedMove score: 1096.6768
+selectedMove score: 1185.3804
+selectedMove score: 1186.2089
+selectedMove score: 1104.0006
+selectedMove score: 1177.7235
+selectedMove score: 1167.835
+selectedMove score: 1106.2892
+selectedMove score: 1107.5096
+selectedMove score: 1170.6942
+selectedMove score: 1109.7971
+selectedMove score: 1159.7085
+selectedMove score: 1156.2754
+selectedMove score: 1154.4451
+selectedMove score: 1115.5093
+selectedMove score: 1115.5093
+selectedMove score: 252.81479
+selectedMove score: 1043.0697
+selectedMove score: 1081.363
+selectedMove score: 315.9917
+selectedMove score: 1086.3335
+selectedMove score: 1091.9905
+selectedMove score: 1096.6768
+selectedMove score: 1185.3804
+selectedMove score: 1186.2089
+selectedMove score: 1104.0006
+selectedMove score: 1177.7235
+selectedMove score: 1167.835
+selectedMove score: 1106.2892
+selectedMove score: 1107.5096
+selectedMove score: 1170.6942
+selectedMove score: 1109.7971
+selectedMove score: 1159.7085
+selectedMove score: 1156.2754
+selectedMove score: 1154.4451
+selectedMove score: 1115.5093
+selectedMove score: 1115.5093
+selectedMove score: 252.81476
+selectedMove score: 1070.0494
+selectedMove score: 1060.1608
+selectedMove score: 323.30542
+selectedMove score: 1070.0494
+selectedMove score: 1060.1609
+selectedMove score: 1074.9935
+selectedMove score: 1082.0494
+selectedMove score: 1072.1608
+selectedMove score: 1174.0668
+selectedMove score: 1164.1782
+selectedMove score: 1174.0668
+selectedMove score: 1164.1782
+selectedMove score: 1089.3732
+selectedMove score: 1079.4845
+selectedMove score: 1091.6617
+selectedMove score: 1081.7732
+selectedMove score: 1092.8822
+selectedMove score: 1082.9937
+selectedMove score: 1156.0669
+selectedMove score: 1146.1782
+selectedMove score: 1095.1698
+selectedMove score: 1085.2811
+selectedMove score: 1145.081
+selectedMove score: 1135.1925
+selectedMove score: 1141.6481
+selectedMove score: 1131.7594
+selectedMove score: 1139.8176
+selectedMove score: 1129.9291
+selectedMove score: 1100.882
+selectedMove score: 1090.9933
+selectedMove score: 1100.882
+selectedMove score: 1090.9933
+selectedMove score: 1101.638
+selectedMove score: 1091.7493
+selectedMove score: 260.12842
+selectedMove score: 1060.6768
+selectedMove score: 327.99167
+selectedMove score: 1060.6769
+selectedMove score: 1067.9905
+selectedMove score: 1068.6768
+selectedMove score: 1164.6942
+selectedMove score: 1164.6942
+selectedMove score: 1080.0005
+selectedMove score: 1153.7236
+selectedMove score: 1143.8351
+selectedMove score: 1152.6943
+selectedMove score: 1082.2892
+selectedMove score: 1083.5095
+selectedMove score: 1085.7971
+selectedMove score: 1135.7085
+selectedMove score: 1132.2754
+selectedMove score: 1130.4451
+selectedMove score: 1091.5093
+selectedMove score: 1091.5093
+selectedMove score: 264.81473
+selectedMove score: 1048.0775
+selectedMove score: 420.0092
+selectedMove score: 1053.048
+selectedMove score: 1058.7048
+selectedMove score: 1063.3912
+selectedMove score: 1152.095
+selectedMove score: 1152.9233
+selectedMove score: 1070.715
+selectedMove score: 1144.438
+selectedMove score: 376.7842
+selectedMove score: 1009.78424
+maxDepth: 3
+heuristic: 1009.78424
+UwU (White) placed a Square piece at column 10 after 423ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..........W.......
+........r.W.......
+........W.W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 7 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+..........W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 1058.7048
+selectedMove score: 443.67514
+selectedMove score: 383.81174
+selectedMove score: 1058.7048
+selectedMove score: 448.6457
+selectedMove score: 385.46857
+selectedMove score: 451.9331
+selectedMove score: 388.75604
+selectedMove score: 458.98877
+selectedMove score: 395.81177
+selectedMove score: 547.69275
+selectedMove score: 487.8293
+selectedMove score: 548.5212
+selectedMove score: 485.3441
+selectedMove score: 466.31268
+selectedMove score: 403.13556
+selectedMove score: 543.5901
+selectedMove score: 480.41293
+selectedMove score: 468.60135
+selectedMove score: 405.42426
+selectedMove score: 469.82166
+selectedMove score: 406.6446
+selectedMove score: 533.00653
+selectedMove score: 469.82935
+selectedMove score: 472.1093
+selectedMove score: 408.93222
+selectedMove score: 522.0208
+selectedMove score: 458.84357
+selectedMove score: 518.58777
+selectedMove score: 455.41058
+selectedMove score: 516.75726
+selectedMove score: 453.58008
+selectedMove score: 477.82138
+selectedMove score: 414.6443
+selectedMove score: 477.82138
+selectedMove score: 414.6443
+selectedMove score: 478.57742
+selectedMove score: 478.57736
+selectedMove score: 415.4003
+selectedMove score: 513.32587
+selectedMove score: 450.14868
+selectedMove score: 479.84647
+selectedMove score: 416.66934
+selectedMove score: 482.0493
+selectedMove score: 418.87216
+selectedMove score: 482.0493
+selectedMove score: 418.87216
+selectedMove score: 504.7577
+selectedMove score: 441.58057
+selectedMove score: 504.7577
+selectedMove score: 441.5806
+selectedMove score: 503.62366
+selectedMove score: 503.62366
+selectedMove score: 440.4465
+selectedMove score: 482.6926
+selectedMove score: 419.51544
+selectedMove score: 501.72003
+selectedMove score: 438.54294
+selectedMove score: 498.41583
+selectedMove score: 435.2387
+selectedMove score: 498.41583
+selectedMove score: 435.23877
+selectedMove score: 497.45087
+selectedMove score: 434.27377
+selectedMove score: 485.2775
+selectedMove score: 422.1004
+selectedMove score: 486.28104
+selectedMove score: 423.10394
+selectedMove score: 493.5734
+selectedMove score: 430.39633
+selectedMove score: 492.06808
+selectedMove score: 428.89102
+selectedMove score: 1098.655
+selectedMove score: 443.67514
+selectedMove score: 1098.655
+selectedMove score: 1101.9425
+selectedMove score: 1108.9983
+selectedMove score: 1198.5302
+selectedMove score: 1198.5302
+selectedMove score: 1116.3219
+selectedMove score: 1193.599
+selectedMove score: 1118.6106
+selectedMove score: 1119.831
+selectedMove score: 1183.0155
+selectedMove score: 1122.1185
+selectedMove score: 1172.0299
+selectedMove score: 1168.5968
+selectedMove score: 1166.7665
+selectedMove score: 1127.8307
+selectedMove score: 1127.8307
+selectedMove score: 383.81174
+selectedMove score: 1058.7048
+selectedMove score: 1093.6844
+selectedMove score: 448.6457
+selectedMove score: 1101.9425
+selectedMove score: 1101.9424
+selectedMove score: 1108.9983
+selectedMove score: 1197.7018
+selectedMove score: 1116.3219
+selectedMove score: 1193.599
+selectedMove score: 1193.599
+selectedMove score: 1118.6106
+selectedMove score: 1119.831
+selectedMove score: 1183.0155
+selectedMove score: 1122.1185
+selectedMove score: 1172.0299
+selectedMove score: 1168.5968
+selectedMove score: 1166.7665
+selectedMove score: 1127.8307
+selectedMove score: 1127.8307
+selectedMove score: 1128.5867
+selectedMove score: 385.46857
+selectedMove score: 1087.1096
+selectedMove score: 451.9331
+selectedMove score: 1092.0801
+selectedMove score: 1094.4233
+selectedMove score: 1102.4233
+selectedMove score: 1191.127
+selectedMove score: 1191.9553
+selectedMove score: 1188.4406
+selectedMove score: 1109.7471
+selectedMove score: 1112.0358
+selectedMove score: 1113.2561
+selectedMove score: 1176.4407
+selectedMove score: 1115.5437
+selectedMove score: 1165.4551
+selectedMove score: 1162.022
+selectedMove score: 1160.1915
+selectedMove score: 1121.2557
+selectedMove score: 1121.2557
+selectedMove score: 388.75604
+selectedMove score: 1072.9983
+selectedMove score: 458.98877
+selectedMove score: 1077.9688
+selectedMove score: 1081.2561
+selectedMove score: 1084.3119
+selectedMove score: 1177.0156
+selectedMove score: 1177.844
+selectedMove score: 1095.6357
+selectedMove score: 1172.9128
+selectedMove score: 1168.3293
+selectedMove score: 1097.9244
+selectedMove score: 1099.1448
+selectedMove score: 1101.4324
+selectedMove score: 1151.3436
+selectedMove score: 399.7682
+selectedMove score: 1025.4192
+maxDepth: 3
+heuristic: 1025.4192
+UwU (White) placed a Square piece at column 8 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.......wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 1 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.r.....wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+UwU (White) turn
+selectedMove score: 1114.1746
+selectedMove score: 514.8266
+selectedMove score: 454.9631
+selectedMove score: 1114.1746
+selectedMove score: 514.8266
+selectedMove score: 454.96307
+selectedMove score: 518.114
+selectedMove score: 458.25055
+selectedMove score: 525.16974
+selectedMove score: 465.30624
+selectedMove score: 614.7021
+selectedMove score: 554.8387
+selectedMove score: 614.7021
+selectedMove score: 554.8387
+selectedMove score: 532.4936
+selectedMove score: 472.63016
+selectedMove score: 609.77094
+selectedMove score: 549.90753
+selectedMove score: 534.7822
+selectedMove score: 474.91876
+selectedMove score: 536.00256
+selectedMove score: 476.1391
+selectedMove score: 599.1873
+selectedMove score: 539.3239
+selectedMove score: 538.29016
+selectedMove score: 478.4268
+selectedMove score: 588.2016
+selectedMove score: 528.3382
+selectedMove score: 584.76855
+selectedMove score: 524.9052
+selectedMove score: 582.93805
+selectedMove score: 523.0747
+selectedMove score: 544.00226
+selectedMove score: 484.13882
+selectedMove score: 544.00226
+selectedMove score: 484.13882
+selectedMove score: 544.7582
+selectedMove score: 484.8948
+selectedMove score: 544.7582
+selectedMove score: 579.50665
+selectedMove score: 519.6433
+selectedMove score: 546.0273
+selectedMove score: 486.1639
+selectedMove score: 547.4043
+selectedMove score: 487.54086
+selectedMove score: 548.2301
+selectedMove score: 488.36667
+selectedMove score: 548.2301
+selectedMove score: 488.36667
+selectedMove score: 570.9386
+selectedMove score: 511.07513
+selectedMove score: 570.9386
+selectedMove score: 511.07513
+selectedMove score: 569.8045
+selectedMove score: 569.8045
+selectedMove score: 509.9411
+selectedMove score: 567.90094
+selectedMove score: 508.03748
+selectedMove score: 565.83545
+selectedMove score: 505.97205
+selectedMove score: 564.59674
+selectedMove score: 504.73328
+selectedMove score: 564.59674
+selectedMove score: 504.73334
+selectedMove score: 551.4584
+selectedMove score: 491.59494
+selectedMove score: 552.4619
+selectedMove score: 492.59848
+selectedMove score: 559.75433
+selectedMove score: 499.89087
+selectedMove score: 558.249
+selectedMove score: 498.38556
+selectedMove score: 1147.5498
+selectedMove score: 514.8266
+selectedMove score: 1157.4121
+selectedMove score: 1157.4121
+selectedMove score: 1164.4679
+selectedMove score: 1247.425
+selectedMove score: 1171.7916
+selectedMove score: 1249.0688
+selectedMove score: 1249.0687
+selectedMove score: 1174.0802
+selectedMove score: 1175.3007
+selectedMove score: 1238.4852
+selectedMove score: 1177.5881
+selectedMove score: 1227.4995
+selectedMove score: 1224.0663
+selectedMove score: 1222.236
+selectedMove score: 1183.3002
+selectedMove score: 1183.3002
+selectedMove score: 1184.0562
+selectedMove score: 454.9631
+selectedMove score: 1114.1746
+selectedMove score: 1147.5498
+selectedMove score: 514.8266
+selectedMove score: 1157.4121
+selectedMove score: 1157.4121
+selectedMove score: 1164.4679
+selectedMove score: 1247.425
+selectedMove score: 1171.7916
+selectedMove score: 1249.0688
+selectedMove score: 1249.0687
+selectedMove score: 1174.0802
+selectedMove score: 1175.3007
+selectedMove score: 1238.4852
+selectedMove score: 1177.5881
+selectedMove score: 1227.4995
+selectedMove score: 1224.0663
+selectedMove score: 1222.236
+selectedMove score: 1183.3002
+selectedMove score: 1183.3002
+selectedMove score: 1184.0562
+selectedMove score: 454.96307
+selectedMove score: 1147.5498
+selectedMove score: 518.114
+selectedMove score: 1147.5498
+selectedMove score: 1149.8931
+selectedMove score: 1157.8931
+selectedMove score: 1247.425
+selectedMove score: 1247.425
+selectedMove score: 1243.9104
+selectedMove score: 1165.2167
+selectedMove score: 1167.5054
+selectedMove score: 1168.7257
+selectedMove score: 1231.9104
+selectedMove score: 1171.0133
+selectedMove score: 1220.9247
+selectedMove score: 1217.4916
+selectedMove score: 1215.6611
+selectedMove score: 1176.7253
+selectedMove score: 1176.7253
+selectedMove score: 458.25055
+selectedMove score: 1133.4384
+selectedMove score: 525.16974
+selectedMove score: 1133.4385
+selectedMove score: 1136.7258
+selectedMove score: 1139.7816
+selectedMove score: 1233.3136
+selectedMove score: 1233.3136
+selectedMove score: 1151.1055
+selectedMove score: 1228.3824
+selectedMove score: 1223.7988
+selectedMove score: 1153.394
+selectedMove score: 1154.6145
+selectedMove score: 1156.9021
+selectedMove score: 1206.8131
+selectedMove score: 469.26273
+selectedMove score: 1082.2145
+maxDepth: 3
+heuristic: 1082.2145
+UwU (White) placed a Square piece at column 8 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.........
+........W.W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.r.....wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.R.
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 17 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.........
+........W.W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.r.....wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1165.5869
+selectedMove score: 570.9548
+selectedMove score: 517.6663
+selectedMove score: 1165.5869
+selectedMove score: 580.8171
+selectedMove score: 520.95374
+selectedMove score: 580.81714
+selectedMove score: 520.9538
+selectedMove score: 587.8728
+selectedMove score: 528.00946
+selectedMove score: 670.8304
+selectedMove score: 617.54175
+selectedMove score: 595.1966
+selectedMove score: 535.33325
+selectedMove score: 672.47406
+selectedMove score: 612.6106
+selectedMove score: 672.47406
+selectedMove score: 612.6106
+selectedMove score: 597.4853
+selectedMove score: 537.62195
+selectedMove score: 598.7056
+selectedMove score: 538.8423
+selectedMove score: 661.8905
+selectedMove score: 602.02704
+selectedMove score: 600.9932
+selectedMove score: 541.1299
+selectedMove score: 650.9047
+selectedMove score: 591.04126
+selectedMove score: 647.4716
+selectedMove score: 587.6083
+selectedMove score: 645.6412
+selectedMove score: 585.7778
+selectedMove score: 606.7053
+selectedMove score: 546.8419
+selectedMove score: 606.7053
+selectedMove score: 546.842
+selectedMove score: 607.4613
+selectedMove score: 547.5979
+selectedMove score: 607.4613
+selectedMove score: 642.2098
+selectedMove score: 582.3464
+selectedMove score: 608.7304
+selectedMove score: 548.867
+selectedMove score: 610.10736
+selectedMove score: 550.24396
+selectedMove score: 610.9332
+selectedMove score: 551.0698
+selectedMove score: 610.9333
+selectedMove score: 551.06976
+selectedMove score: 633.64166
+selectedMove score: 573.77826
+selectedMove score: 633.64166
+selectedMove score: 573.77826
+selectedMove score: 632.5076
+selectedMove score: 632.5076
+selectedMove score: 572.6442
+selectedMove score: 630.60406
+selectedMove score: 570.7406
+selectedMove score: 628.5385
+selectedMove score: 568.6751
+selectedMove score: 613.2746
+selectedMove score: 553.41113
+selectedMove score: 627.2998
+selectedMove score: 567.4364
+selectedMove score: 627.2998
+selectedMove score: 567.4364
+selectedMove score: 614.16156
+selectedMove score: 554.2981
+selectedMove score: 623.7878
+selectedMove score: 563.9244
+selectedMove score: 622.4574
+selectedMove score: 562.594
+selectedMove score: 1202.2494
+selectedMove score: 570.9548
+selectedMove score: 1202.2494
+selectedMove score: 1204.138
+selectedMove score: 1209.3052
+selectedMove score: 1216.629
+selectedMove score: 1295.7948
+selectedMove score: 1293.9064
+selectedMove score: 1293.9062
+selectedMove score: 1218.9176
+selectedMove score: 1220.1381
+selectedMove score: 1283.3228
+selectedMove score: 1222.4257
+selectedMove score: 1272.337
+selectedMove score: 1268.9038
+selectedMove score: 1267.0735
+selectedMove score: 1228.1377
+selectedMove score: 1228.1377
+selectedMove score: 517.6663
+selectedMove score: 1165.5869
+selectedMove score: 1194.2758
+selectedMove score: 580.8171
+selectedMove score: 1201.3052
+selectedMove score: 1202.2494
+selectedMove score: 1209.3052
+selectedMove score: 1294.1511
+selectedMove score: 1295.3228
+selectedMove score: 1216.629
+selectedMove score: 1293.9064
+selectedMove score: 1218.9176
+selectedMove score: 1220.1381
+selectedMove score: 1283.3228
+selectedMove score: 1222.4257
+selectedMove score: 1272.337
+selectedMove score: 1268.9038
+selectedMove score: 1267.0735
+selectedMove score: 1228.1377
+selectedMove score: 1228.1377
+selectedMove score: 520.95374
+selectedMove score: 1192.3871
+selectedMove score: 580.81714
+selectedMove score: 1202.2494
+selectedMove score: 1205.9541
+selectedMove score: 1209.3052
+selectedMove score: 1292.2626
+selectedMove score: 1216.6289
+selectedMove score: 1293.9062
+selectedMove score: 1218.9176
+selectedMove score: 1288.349
+selectedMove score: 1220.138
+selectedMove score: 1283.3226
+selectedMove score: 1222.4255
+selectedMove score: 1272.3368
+selectedMove score: 1268.9037
+selectedMove score: 1267.0734
+selectedMove score: 1228.1376
+selectedMove score: 1228.1377
+selectedMove score: 520.9538
+selectedMove score: 1178.2759
+selectedMove score: 587.8728
+selectedMove score: 1188.138
+selectedMove score: 1188.138
+selectedMove score: 1191.1937
+selectedMove score: 1278.1511
+selectedMove score: 1202.5175
+selectedMove score: 1279.7948
+selectedMove score: 1279.7948
+selectedMove score: 1275.2113
+selectedMove score: 1204.8062
+selectedMove score: 1206.0266
+selectedMove score: 1208.3141
+selectedMove score: 1258.2256
+selectedMove score: 1254.7924
+selectedMove score: 530.5015
+selectedMove score: 1133.6267
+maxDepth: 3
+heuristic: 1133.6267
+UwU (White) placed a Square piece at column 10 after 422ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........W.W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.r.....wwww.....R.
+rr....rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 3 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........W.W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.r.....wwww.....R.
+rr.R..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1198.2025
+selectedMove score: 653.55493
+selectedMove score: 598.3778
+selectedMove score: 1198.2025
+selectedMove score: 651.66644
+selectedMove score: 598.37787
+selectedMove score: 651.6664
+selectedMove score: 598.37787
+selectedMove score: 658.7223
+selectedMove score: 605.4336
+selectedMove score: 666.046
+selectedMove score: 612.7574
+selectedMove score: 745.212
+selectedMove score: 690.0349
+selectedMove score: 743.3234
+selectedMove score: 690.0349
+selectedMove score: 743.3234
+selectedMove score: 735.91376
+selectedMove score: 668.3348
+selectedMove score: 615.0461
+selectedMove score: 669.55505
+selectedMove score: 616.2664
+selectedMove score: 732.73987
+selectedMove score: 679.45135
+selectedMove score: 671.8427
+selectedMove score: 618.554
+selectedMove score: 721.7541
+selectedMove score: 668.46564
+selectedMove score: 718.32104
+selectedMove score: 665.0325
+selectedMove score: 716.4906
+selectedMove score: 663.202
+selectedMove score: 677.5548
+selectedMove score: 624.2661
+selectedMove score: 677.5548
+selectedMove score: 624.2661
+selectedMove score: 677.55475
+selectedMove score: 624.2661
+selectedMove score: 678.31085
+selectedMove score: 678.3108
+selectedMove score: 625.0221
+selectedMove score: 713.0592
+selectedMove score: 659.77057
+selectedMove score: 680.9568
+selectedMove score: 627.6682
+selectedMove score: 681.7826
+selectedMove score: 628.49396
+selectedMove score: 681.78265
+selectedMove score: 628.494
+selectedMove score: 704.4911
+selectedMove score: 651.20245
+selectedMove score: 704.4911
+selectedMove score: 651.20245
+selectedMove score: 704.4911
+selectedMove score: 651.2024
+selectedMove score: 703.357
+selectedMove score: 703.357
+selectedMove score: 650.06836
+selectedMove score: 699.38794
+selectedMove score: 646.09924
+selectedMove score: 684.124
+selectedMove score: 630.8353
+selectedMove score: 698.14923
+selectedMove score: 644.86053
+selectedMove score: 698.14923
+selectedMove score: 644.86053
+selectedMove score: 685.0109
+selectedMove score: 631.7223
+selectedMove score: 694.6372
+selectedMove score: 641.3486
+selectedMove score: 693.3068
+selectedMove score: 640.0182
+selectedMove score: 1233.9211
+selectedMove score: 653.55493
+selectedMove score: 1236.7539
+selectedMove score: 1236.7539
+selectedMove score: 1243.8098
+selectedMove score: 1327.9387
+selectedMove score: 1251.1335
+selectedMove score: 1328.4106
+selectedMove score: 1328.4106
+selectedMove score: 1253.4221
+selectedMove score: 1254.6425
+selectedMove score: 1317.8271
+selectedMove score: 1256.93
+selectedMove score: 1306.8413
+selectedMove score: 1303.4083
+selectedMove score: 1301.5779
+selectedMove score: 1262.6421
+selectedMove score: 1262.6422
+selectedMove score: 1262.6422
+selectedMove score: 598.3778
+selectedMove score: 1198.2025
+selectedMove score: 1234.8652
+selectedMove score: 651.66644
+selectedMove score: 1236.7538
+selectedMove score: 1238.5702
+selectedMove score: 1241.9211
+selectedMove score: 1249.2449
+selectedMove score: 1328.4106
+selectedMove score: 1326.5222
+selectedMove score: 1251.5334
+selectedMove score: 1320.965
+selectedMove score: 1252.7538
+selectedMove score: 1315.9387
+selectedMove score: 1255.0414
+selectedMove score: 1304.9529
+selectedMove score: 1301.5198
+selectedMove score: 1299.6895
+selectedMove score: 1260.7535
+selectedMove score: 1260.7535
+selectedMove score: 1260.7535
+selectedMove score: 598.37787
+selectedMove score: 1236.7538
+selectedMove score: 1227.4556
+selectedMove score: 651.6664
+selectedMove score: 1234.8652
+selectedMove score: 1227.4556
+selectedMove score: 1238.5701
+selectedMove score: 1241.921
+selectedMove score: 1234.5112
+selectedMove score: 1249.2449
+selectedMove score: 1241.8351
+selectedMove score: 1328.4108
+selectedMove score: 1319.1124
+selectedMove score: 1326.5222
+selectedMove score: 1319.1124
+selectedMove score: 1251.5334
+selectedMove score: 1244.1237
+selectedMove score: 1320.9647
+selectedMove score: 1252.7538
+selectedMove score: 1245.3439
+selectedMove score: 1315.9386
+selectedMove score: 1308.5288
+selectedMove score: 1255.0414
+selectedMove score: 1247.6316
+selectedMove score: 1304.9528
+selectedMove score: 1297.543
+selectedMove score: 1301.5197
+selectedMove score: 1294.1099
+selectedMove score: 1299.6893
+selectedMove score: 1292.2794
+selectedMove score: 1260.7534
+selectedMove score: 1253.3436
+selectedMove score: 1260.7535
+selectedMove score: 1253.3436
+selectedMove score: 1260.7535
+selectedMove score: 1253.3436
+selectedMove score: 598.37787
+selectedMove score: 1220.7538
+selectedMove score: 658.7223
+selectedMove score: 1222.6425
+selectedMove score: 1220.7538
+selectedMove score: 1225.6982
+selectedMove score: 1235.1334
+selectedMove score: 1314.2993
+selectedMove score: 1312.4108
+selectedMove score: 1312.4108
+selectedMove score: 1309.7157
+selectedMove score: 1237.4221
+selectedMove score: 1238.6425
+selectedMove score: 1240.93
+selectedMove score: 1290.8414
+selectedMove score: 1287.4083
+selectedMove score: 1285.578
+selectedMove score: 606.9457
+selectedMove score: 1169.4437
+maxDepth: 3
+heuristic: 1169.4437
+UwU (White) placed a Round piece at column 6 after 422ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........W.W.......
+........r.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.r....wwwww.....R.
+rr.R..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 7 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+.......wW.W.......
+.......ww.r.......
+.r....wwwww.....R.
+rr.R..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1299.6516
+selectedMove score: 672.4344
+selectedMove score: 619.1457
+selectedMove score: 1299.6516
+selectedMove score: 675.2672
+selectedMove score: 620.09
+selectedMove score: 675.2672
+selectedMove score: 620.08997
+selectedMove score: 682.323
+selectedMove score: 627.1457
+selectedMove score: 686.323
+selectedMove score: 631.14575
+selectedMove score: 766.45197
+selectedMove score: 713.16345
+selectedMove score: 766.92413
+selectedMove score: 711.7471
+selectedMove score: 766.92413
+selectedMove score: 757.62585
+selectedMove score: 691.9354
+selectedMove score: 636.7582
+selectedMove score: 693.15576
+selectedMove score: 637.9785
+selectedMove score: 756.3406
+selectedMove score: 701.1635
+selectedMove score: 695.4434
+selectedMove score: 640.2661
+selectedMove score: 750.3406
+selectedMove score: 695.16345
+selectedMove score: 741.92175
+selectedMove score: 686.7446
+selectedMove score: 740.0913
+selectedMove score: 684.9142
+selectedMove score: 701.15546
+selectedMove score: 645.9782
+selectedMove score: 701.15546
+selectedMove score: 645.9782
+selectedMove score: 701.15546
+selectedMove score: 645.9782
+selectedMove score: 701.9115
+selectedMove score: 701.9115
+selectedMove score: 646.7342
+selectedMove score: 736.6599
+selectedMove score: 681.4828
+selectedMove score: 704.5575
+selectedMove score: 649.38025
+selectedMove score: 705.38336
+selectedMove score: 650.20605
+selectedMove score: 705.3833
+selectedMove score: 650.20605
+selectedMove score: 728.09174
+selectedMove score: 672.9147
+selectedMove score: 728.09174
+selectedMove score: 672.9147
+selectedMove score: 728.0918
+selectedMove score: 672.91473
+selectedMove score: 726.9577
+selectedMove score: 726.9577
+selectedMove score: 671.78064
+selectedMove score: 722.98865
+selectedMove score: 667.8115
+selectedMove score: 707.7247
+selectedMove score: 652.5474
+selectedMove score: 721.74994
+selectedMove score: 666.5728
+selectedMove score: 721.74994
+selectedMove score: 666.5728
+selectedMove score: 708.61163
+selectedMove score: 653.4344
+selectedMove score: 718.2379
+selectedMove score: 663.0608
+selectedMove score: 716.90753
+selectedMove score: 661.7304
+selectedMove score: 1336.3143
+selectedMove score: 672.4344
+selectedMove score: 1336.3143
+selectedMove score: 1336.3143
+selectedMove score: 1343.3701
+selectedMove score: 1347.3701
+selectedMove score: 1427.9711
+selectedMove score: 1427.9711
+selectedMove score: 1427.9711
+selectedMove score: 1352.9825
+selectedMove score: 1354.2029
+selectedMove score: 1417.3877
+selectedMove score: 1356.4905
+selectedMove score: 1411.3877
+selectedMove score: 1402.9689
+selectedMove score: 1401.1383
+selectedMove score: 1362.2025
+selectedMove score: 1362.2026
+selectedMove score: 1362.2025
+selectedMove score: 619.1457
+selectedMove score: 1299.6516
+selectedMove score: 1333.4816
+selectedMove score: 675.2672
+selectedMove score: 1336.3143
+selectedMove score: 1340.019
+selectedMove score: 1343.3701
+selectedMove score: 1347.3701
+selectedMove score: 1427.499
+selectedMove score: 1427.9711
+selectedMove score: 1352.9825
+selectedMove score: 1422.4138
+selectedMove score: 1354.2029
+selectedMove score: 1417.3877
+selectedMove score: 1356.4905
+selectedMove score: 1411.3877
+selectedMove score: 1402.9688
+selectedMove score: 1401.1383
+selectedMove score: 1362.2025
+selectedMove score: 1362.2026
+selectedMove score: 1362.2025
+selectedMove score: 620.09
+selectedMove score: 1333.4816
+selectedMove score: 1326.0719
+selectedMove score: 675.2672
+selectedMove score: 1336.3143
+selectedMove score: 1327.0161
+selectedMove score: 1340.019
+selectedMove score: 1343.3701
+selectedMove score: 1334.0719
+selectedMove score: 1347.3701
+selectedMove score: 1338.0719
+selectedMove score: 1427.499
+selectedMove score: 1420.0894
+selectedMove score: 1427.9711
+selectedMove score: 1418.6729
+selectedMove score: 1352.9824
+selectedMove score: 1343.6843
+selectedMove score: 1422.4138
+selectedMove score: 1354.2029
+selectedMove score: 1344.9048
+selectedMove score: 1417.3877
+selectedMove score: 1408.0895
+selectedMove score: 1356.4905
+selectedMove score: 1347.1924
+selectedMove score: 1411.3877
+selectedMove score: 1402.0895
+selectedMove score: 1402.9688
+selectedMove score: 1393.6707
+selectedMove score: 1401.1383
+selectedMove score: 1391.8401
+selectedMove score: 1362.2025
+selectedMove score: 1352.9044
+selectedMove score: 1362.2026
+selectedMove score: 1352.9044
+selectedMove score: 1362.2025
+selectedMove score: 1352.9043
+selectedMove score: 620.08997
+selectedMove score: 1319.3702
+selectedMove score: 682.323
+selectedMove score: 1322.2028
+selectedMove score: 1322.2028
+selectedMove score: 1325.2588
+selectedMove score: 1333.2587
+selectedMove score: 1413.3877
+selectedMove score: 1413.8596
+selectedMove score: 1413.8596
+selectedMove score: 1409.2762
+selectedMove score: 1338.8711
+selectedMove score: 1340.0913
+selectedMove score: 1342.3789
+selectedMove score: 1397.2761
+selectedMove score: 631.1022
+selectedMove score: 1275.6516
+maxDepth: 3
+heuristic: 1275.6516
+UwU (White) placed a Round piece at column 6 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+.......wW.W.......
+......www.r.......
+.r....wwwww.....R.
+rr.R..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 2 after 0ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+.......wW.W.......
+......www.r.......
+.r....wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1360.6855
+selectedMove score: 654.6832
+selectedMove score: 601.39465
+selectedMove score: 1360.6855
+selectedMove score: 657.51605
+selectedMove score: 602.3389
+selectedMove score: 657.51605
+selectedMove score: 602.3389
+selectedMove score: 664.5719
+selectedMove score: 609.39465
+selectedMove score: 665.5424
+selectedMove score: 610.3652
+selectedMove score: 748.7009
+selectedMove score: 695.4124
+selectedMove score: 749.1731
+selectedMove score: 693.99603
+selectedMove score: 749.1731
+selectedMove score: 739.8749
+selectedMove score: 674.1843
+selectedMove score: 619.00714
+selectedMove score: 675.4047
+selectedMove score: 620.22754
+selectedMove score: 738.58954
+selectedMove score: 683.4124
+selectedMove score: 737.13367
+selectedMove score: 681.9565
+selectedMove score: 677.6923
+selectedMove score: 622.51514
+selectedMove score: 724.1707
+selectedMove score: 668.9936
+selectedMove score: 722.3403
+selectedMove score: 667.16315
+selectedMove score: 683.4044
+selectedMove score: 628.2272
+selectedMove score: 683.4044
+selectedMove score: 628.2272
+selectedMove score: 683.4044
+selectedMove score: 628.22723
+selectedMove score: 684.16046
+selectedMove score: 684.16046
+selectedMove score: 628.98315
+selectedMove score: 718.9089
+selectedMove score: 663.7316
+selectedMove score: 685.78064
+selectedMove score: 630.6034
+selectedMove score: 686.80646
+selectedMove score: 631.6292
+selectedMove score: 687.6323
+selectedMove score: 632.4551
+selectedMove score: 710.34076
+selectedMove score: 655.16364
+selectedMove score: 710.34076
+selectedMove score: 655.16364
+selectedMove score: 710.3407
+selectedMove score: 655.1635
+selectedMove score: 709.2066
+selectedMove score: 654.0295
+selectedMove score: 709.2066
+selectedMove score: 706.7764
+selectedMove score: 651.5992
+selectedMove score: 705.23755
+selectedMove score: 650.06036
+selectedMove score: 689.9737
+selectedMove score: 634.79645
+selectedMove score: 703.9989
+selectedMove score: 648.82166
+selectedMove score: 690.8606
+selectedMove score: 635.68335
+selectedMove score: 700.4869
+selectedMove score: 645.3096
+selectedMove score: 699.1565
+selectedMove score: 643.9792
+selectedMove score: 1397.3483
+selectedMove score: 654.6832
+selectedMove score: 1397.3483
+selectedMove score: 1397.3483
+selectedMove score: 1404.404
+selectedMove score: 1405.3746
+selectedMove score: 1489.005
+selectedMove score: 1489.005
+selectedMove score: 1489.005
+selectedMove score: 1414.0164
+selectedMove score: 1415.2367
+selectedMove score: 1478.4215
+selectedMove score: 1476.9656
+selectedMove score: 1417.5243
+selectedMove score: 1464.0028
+selectedMove score: 1462.1722
+selectedMove score: 1423.2365
+selectedMove score: 1423.2365
+selectedMove score: 1423.2365
+selectedMove score: 601.39465
+selectedMove score: 1360.6855
+selectedMove score: 1394.5155
+selectedMove score: 657.51605
+selectedMove score: 1397.3483
+selectedMove score: 1401.053
+selectedMove score: 1404.404
+selectedMove score: 1405.3746
+selectedMove score: 1488.533
+selectedMove score: 1489.005
+selectedMove score: 1414.0164
+selectedMove score: 1483.4478
+selectedMove score: 1415.2367
+selectedMove score: 1478.4215
+selectedMove score: 1476.9656
+selectedMove score: 1417.5243
+selectedMove score: 1464.0027
+selectedMove score: 1462.1722
+selectedMove score: 1423.2365
+selectedMove score: 1423.2365
+selectedMove score: 1423.2365
+selectedMove score: 602.3389
+selectedMove score: 1394.5155
+selectedMove score: 1387.1058
+selectedMove score: 657.51605
+selectedMove score: 1397.3483
+selectedMove score: 1388.05
+selectedMove score: 1401.053
+selectedMove score: 1404.404
+selectedMove score: 1395.1058
+selectedMove score: 1405.3746
+selectedMove score: 1396.0764
+selectedMove score: 1488.533
+selectedMove score: 1481.1233
+selectedMove score: 1489.005
+selectedMove score: 1479.7069
+selectedMove score: 1414.0164
+selectedMove score: 1404.7181
+selectedMove score: 1483.4478
+selectedMove score: 1415.2367
+selectedMove score: 1405.9385
+selectedMove score: 1478.4215
+selectedMove score: 1469.1233
+selectedMove score: 1476.9656
+selectedMove score: 1467.6674
+selectedMove score: 1417.5243
+selectedMove score: 1408.2261
+selectedMove score: 1464.0027
+selectedMove score: 1454.7046
+selectedMove score: 1462.1722
+selectedMove score: 1452.874
+selectedMove score: 1423.2365
+selectedMove score: 1413.9382
+selectedMove score: 1423.2365
+selectedMove score: 1413.9384
+selectedMove score: 1423.2365
+selectedMove score: 1413.9382
+selectedMove score: 602.3389
+selectedMove score: 1380.404
+selectedMove score: 664.5719
+selectedMove score: 1383.2368
+selectedMove score: 1383.2368
+selectedMove score: 1386.2927
+selectedMove score: 1391.2631
+selectedMove score: 1474.4215
+selectedMove score: 1474.8936
+selectedMove score: 1474.8936
+selectedMove score: 1470.31
+selectedMove score: 1399.905
+selectedMove score: 1401.1252
+selectedMove score: 1462.8541
+selectedMove score: 1404.4369
+selectedMove score: 622.3308
+selectedMove score: 1342.7445
+maxDepth: 3
+heuristic: 1342.7445
+UwU (White) placed a Round piece at column 6 after 421ms
+..................
+..................
+..................
+..................
+..................
+..................
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+......www.r.......
+.r....wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 10 after 0ms
+..................
+..................
+..................
+..................
+..................
+..........R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+......www.r.......
+.r....wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1381.2958
+selectedMove score: 699.3723
+selectedMove score: 691.9627
+selectedMove score: 1381.2958
+selectedMove score: 702.20514
+selectedMove score: 692.9069
+selectedMove score: 705.91
+selectedMove score: 650.73285
+selectedMove score: 707.6831
+selectedMove score: 698.3849
+selectedMove score: 709.261
+selectedMove score: 699.9627
+selectedMove score: 793.38995
+selectedMove score: 785.9803
+selectedMove score: 793.8621
+selectedMove score: 784.5639
+selectedMove score: 718.8734
+selectedMove score: 709.57513
+selectedMove score: 720.0938
+selectedMove score: 710.79553
+selectedMove score: 785.64514
+selectedMove score: 776.3469
+selectedMove score: 783.27856
+selectedMove score: 773.98035
+selectedMove score: 722.3814
+selectedMove score: 713.0831
+selectedMove score: 768.85974
+selectedMove score: 759.56146
+selectedMove score: 767.0293
+selectedMove score: 757.731
+selectedMove score: 728.09344
+selectedMove score: 718.7952
+selectedMove score: 728.0935
+selectedMove score: 718.7952
+selectedMove score: 728.0935
+selectedMove score: 718.7952
+selectedMove score: 728.84955
+selectedMove score: 719.5513
+selectedMove score: 728.84955
+selectedMove score: 719.5513
+selectedMove score: 763.5979
+selectedMove score: 754.2997
+selectedMove score: 730.4697
+selectedMove score: 721.17145
+selectedMove score: 731.49554
+selectedMove score: 722.19727
+selectedMove score: 732.32135
+selectedMove score: 723.0231
+selectedMove score: 755.0298
+selectedMove score: 745.7315
+selectedMove score: 755.0297
+selectedMove score: 745.7315
+selectedMove score: 755.0297
+selectedMove score: 745.7315
+selectedMove score: 753.8956
+selectedMove score: 744.5974
+selectedMove score: 753.8957
+selectedMove score: 744.5975
+selectedMove score: 751.4654
+selectedMove score: 742.1672
+selectedMove score: 749.92664
+selectedMove score: 740.62836
+selectedMove score: 734.6627
+selectedMove score: 725.36444
+selectedMove score: 748.6879
+selectedMove score: 739.3897
+selectedMove score: 735.5496
+selectedMove score: 726.25134
+selectedMove score: 745.1759
+selectedMove score: 735.8777
+selectedMove score: 743.8455
+selectedMove score: 734.5473
+selectedMove score: 1417.9585
+selectedMove score: 699.3723
+selectedMove score: 1417.9585
+selectedMove score: 691.9627
+selectedMove score: 1381.2958
+selectedMove score: 1415.1257
+selectedMove score: 702.20514
+selectedMove score: 692.9069
+selectedMove score: 1407.7161
+selectedMove score: 705.91
+selectedMove score: 1410.5488
+selectedMove score: 1416.0267
+selectedMove score: 1417.6046
+selectedMove score: 1418.0969
+selectedMove score: 1501.7335
+selectedMove score: 1502.2056
+selectedMove score: 1427.2168
+selectedMove score: 1428.4371
+selectedMove score: 1493.9886
+selectedMove score: 1491.6221
+selectedMove score: 1490.8833
+selectedMove score: 1430.7247
+selectedMove score: 1477.2031
+selectedMove score: 1475.3727
+selectedMove score: 1436.4369
+selectedMove score: 1436.437
+selectedMove score: 1436.4369
+selectedMove score: 650.73285
+selectedMove score: 1404.1698
+selectedMove score: 707.6831
+selectedMove score: 1407.0026
+selectedMove score: 698.3849
+selectedMove score: 1401.0143
+selectedMove score: 709.261
+selectedMove score: 1403.847
+selectedMove score: 1406.9028
+selectedMove score: 699.9627
+selectedMove score: 1387.8729
+selectedMove score: 793.38995
+selectedMove score: 1387.8729
+selectedMove score: 785.9803
+selectedMove score: 1385.7957
+selectedMove score: 793.8621
+selectedMove score: 1392.333
+selectedMove score: 784.5639
+selectedMove score: 1381.7894
+selectedMove score: 718.8734
+selectedMove score: 1384.6222
+selectedMove score: 709.57513
+selectedMove score: 1379.3486
+selectedMove score: 720.0938
+selectedMove score: 1382.1814
+selectedMove score: 710.79553
+selectedMove score: 1379.2222
+selectedMove score: 785.64514
+selectedMove score: 1382.0549
+selectedMove score: 776.3469
+selectedMove score: 1377.3286
+selectedMove score: 783.27856
+selectedMove score: 1380.1614
+selectedMove score: 1383.2172
+selectedMove score: 773.98035
+selectedMove score: 1374.7734
+selectedMove score: 722.3814
+selectedMove score: 1377.6062
+selectedMove score: 713.0831
+selectedMove score: 1365.7937
+selectedMove score: 768.85974
+selectedMove score: 1368.6265
+selectedMove score: 759.56146
+selectedMove score: 1364.3291
+selectedMove score: 767.0293
+selectedMove score: 1367.1619
+selectedMove score: 757.731
+selectedMove score: 1363.3492
+selectedMove score: 728.09344
+selectedMove score: 1366.182
+selectedMove score: 718.7952
+selectedMove score: 1363.3492
+selectedMove score: 728.0935
+selectedMove score: 1366.1821
+selectedMove score: 718.7952
+selectedMove score: 1363.3492
+selectedMove score: 728.0935
+selectedMove score: 1366.1819
+selectedMove score: 718.7952
+selectedMove score: 1361.8372
+selectedMove score: 728.84955
+selectedMove score: 1364.6699
+selectedMove score: 719.5513
+selectedMove score: 1361.8372
+selectedMove score: 728.84955
+selectedMove score: 1364.6699
+selectedMove score: 719.5513
+selectedMove score: 1361.5841
+selectedMove score: 763.5979
+selectedMove score: 1364.4167
+selectedMove score: 754.2997
+selectedMove score: 1358.5968
+selectedMove score: 730.4697
+selectedMove score: 728.58105
+selectedMove score: 1320.8265
+maxDepth: 3
+heuristic: 1320.8265
+UwU (White) placed a Round piece at column 1 after 422ms
+..................
+..................
+..................
+..................
+..................
+..........R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....www.r.......
+.r....wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 10 after 0ms
+..................
+..................
+..................
+..................
+..........r.......
+..........R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....www.r.......
+.r....wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1445.4775
+selectedMove score: 731.54944
+selectedMove score: 678.2609
+selectedMove score: 1445.4775
+selectedMove score: 734.38226
+selectedMove score: 679.20514
+selectedMove score: 739.8602
+selectedMove score: 684.68304
+selectedMove score: 741.438
+selectedMove score: 686.2609
+selectedMove score: 741.9304
+selectedMove score: 686.7533
+selectedMove score: 825.56696
+selectedMove score: 772.2785
+selectedMove score: 826.0391
+selectedMove score: 770.8621
+selectedMove score: 751.0504
+selectedMove score: 695.87335
+selectedMove score: 752.2708
+selectedMove score: 697.0937
+selectedMove score: 817.8222
+selectedMove score: 762.64514
+selectedMove score: 815.45557
+selectedMove score: 760.27856
+selectedMove score: 814.71686
+selectedMove score: 759.53986
+selectedMove score: 754.5584
+selectedMove score: 699.3813
+selectedMove score: 801.03674
+selectedMove score: 745.85974
+selectedMove score: 799.20636
+selectedMove score: 744.0293
+selectedMove score: 760.2705
+selectedMove score: 705.0934
+selectedMove score: 760.2705
+selectedMove score: 705.0934
+selectedMove score: 760.2705
+selectedMove score: 705.0934
+selectedMove score: 761.02655
+selectedMove score: 761.02655
+selectedMove score: 705.8494
+selectedMove score: 795.7749
+selectedMove score: 740.5979
+selectedMove score: 762.47174
+selectedMove score: 707.2947
+selectedMove score: 762.6467
+selectedMove score: 707.4696
+selectedMove score: 764.4984
+selectedMove score: 709.3213
+selectedMove score: 787.2068
+selectedMove score: 732.0298
+selectedMove score: 787.2068
+selectedMove score: 732.0297
+selectedMove score: 787.2068
+selectedMove score: 732.0297
+selectedMove score: 786.0727
+selectedMove score: 786.0727
+selectedMove score: 730.8957
+selectedMove score: 783.9049
+selectedMove score: 728.72784
+selectedMove score: 783.64246
+selectedMove score: 728.46545
+selectedMove score: 766.8398
+selectedMove score: 711.66266
+selectedMove score: 780.8649
+selectedMove score: 725.6879
+selectedMove score: 767.7266
+selectedMove score: 712.54956
+selectedMove score: 777.3529
+selectedMove score: 722.1759
+selectedMove score: 776.0226
+selectedMove score: 720.8455
+selectedMove score: 1482.1401
+selectedMove score: 731.54944
+selectedMove score: 1482.1401
+selectedMove score: 1487.6182
+selectedMove score: 1489.1959
+selectedMove score: 1489.6884
+selectedMove score: 1573.7968
+selectedMove score: 1573.7968
+selectedMove score: 1498.8083
+selectedMove score: 1500.0286
+selectedMove score: 1565.5798
+selectedMove score: 1563.2134
+selectedMove score: 1562.4745
+selectedMove score: 1502.3162
+selectedMove score: 1548.7946
+selectedMove score: 1546.964
+selectedMove score: 1508.0284
+selectedMove score: 1508.0283
+selectedMove score: 1508.0283
+selectedMove score: 678.2609
+selectedMove score: 1445.4775
+selectedMove score: 1479.3074
+selectedMove score: 734.38226
+selectedMove score: 1485.8448
+selectedMove score: 1487.6182
+selectedMove score: 1489.1959
+selectedMove score: 1489.6882
+selectedMove score: 1573.3247
+selectedMove score: 1498.8082
+selectedMove score: 1568.2395
+selectedMove score: 1500.0286
+selectedMove score: 1565.5798
+selectedMove score: 1563.2134
+selectedMove score: 1562.4745
+selectedMove score: 1502.3162
+selectedMove score: 1548.7946
+selectedMove score: 1546.964
+selectedMove score: 1508.0284
+selectedMove score: 1508.0283
+selectedMove score: 1508.0283
+selectedMove score: 679.20514
+selectedMove score: 1468.3516
+selectedMove score: 739.8602
+selectedMove score: 1471.1843
+selectedMove score: 1474.889
+selectedMove score: 1478.2401
+selectedMove score: 1478.7324
+selectedMove score: 1562.3689
+selectedMove score: 1562.841
+selectedMove score: 1487.8524
+selectedMove score: 1557.2838
+selectedMove score: 1549.2838
+selectedMove score: 1489.0728
+selectedMove score: 1552.2574
+selectedMove score: 1551.5188
+selectedMove score: 1491.3604
+selectedMove score: 1537.8386
+selectedMove score: 1536.0082
+selectedMove score: 1497.0725
+selectedMove score: 1497.0725
+selectedMove score: 1497.0725
+selectedMove score: 684.68304
+selectedMove score: 1465.196
+selectedMove score: 1454.2401
+selectedMove score: 741.438
+selectedMove score: 739.54944
+selectedMove score: 1428.4926
+maxDepth: 3
+heuristic: 1428.4926
+UwU (White) placed a Round piece at column 10 after 421ms
+..................
+..................
+..................
+..........w.......
+..........r.......
+..........R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....www.r.......
+.r....wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 2 after 0ms
+..................
+..................
+..................
+..........w.......
+..........r.......
+..........R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....www.r.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1516.304
+selectedMove score: 712.51276
+selectedMove score: 659.2242
+selectedMove score: 1516.304
+selectedMove score: 715.3456
+selectedMove score: 660.16846
+selectedMove score: 720.82355
+selectedMove score: 665.64636
+selectedMove score: 722.40137
+selectedMove score: 667.2242
+selectedMove score: 726.7974
+selectedMove score: 671.62024
+selectedMove score: 806.5303
+selectedMove score: 753.2418
+selectedMove score: 807.00244
+selectedMove score: 751.82544
+selectedMove score: 732.0138
+selectedMove score: 676.83673
+selectedMove score: 733.2342
+selectedMove score: 678.05707
+selectedMove score: 798.7855
+selectedMove score: 743.6085
+selectedMove score: 796.41895
+selectedMove score: 741.2419
+selectedMove score: 735.5218
+selectedMove score: 680.34467
+selectedMove score: 789.82477
+selectedMove score: 734.64777
+selectedMove score: 782.0001
+selectedMove score: 726.82306
+selectedMove score: 780.1697
+selectedMove score: 724.9926
+selectedMove score: 741.2339
+selectedMove score: 686.0567
+selectedMove score: 741.2339
+selectedMove score: 686.0567
+selectedMove score: 741.2339
+selectedMove score: 686.05676
+selectedMove score: 741.98987
+selectedMove score: 686.81274
+selectedMove score: 741.98987
+selectedMove score: 741.98987
+selectedMove score: 686.81274
+selectedMove score: 776.7383
+selectedMove score: 721.5612
+selectedMove score: 743.4351
+selectedMove score: 688.258
+selectedMove score: 745.46173
+selectedMove score: 690.2846
+selectedMove score: 768.1701
+selectedMove score: 712.9931
+selectedMove score: 768.1701
+selectedMove score: 712.9931
+selectedMove score: 768.17017
+selectedMove score: 712.99304
+selectedMove score: 767.0361
+selectedMove score: 767.0361
+selectedMove score: 711.8591
+selectedMove score: 767.0361
+selectedMove score: 711.859
+selectedMove score: 764.8682
+selectedMove score: 709.69116
+selectedMove score: 747.8031
+selectedMove score: 692.626
+selectedMove score: 761.82825
+selectedMove score: 706.65125
+selectedMove score: 748.68994
+selectedMove score: 693.5129
+selectedMove score: 758.3163
+selectedMove score: 703.13916
+selectedMove score: 756.9859
+selectedMove score: 701.80884
+selectedMove score: 1552.9667
+selectedMove score: 712.51276
+selectedMove score: 1552.9667
+selectedMove score: 1558.4446
+selectedMove score: 1560.0223
+selectedMove score: 1564.4183
+selectedMove score: 1644.6235
+selectedMove score: 1644.6235
+selectedMove score: 1569.6348
+selectedMove score: 1570.855
+selectedMove score: 1636.4066
+selectedMove score: 1634.0399
+selectedMove score: 1573.1426
+selectedMove score: 1627.4457
+selectedMove score: 1619.621
+selectedMove score: 1617.7905
+selectedMove score: 1578.8549
+selectedMove score: 1578.8549
+selectedMove score: 1578.8547
+selectedMove score: 1579.6108
+selectedMove score: 659.2242
+selectedMove score: 1516.304
+selectedMove score: 1550.1339
+selectedMove score: 715.3456
+selectedMove score: 1556.6715
+selectedMove score: 1558.4446
+selectedMove score: 1560.0223
+selectedMove score: 1564.4183
+selectedMove score: 1644.1515
+selectedMove score: 1569.6348
+selectedMove score: 1639.0662
+selectedMove score: 1570.855
+selectedMove score: 1636.4066
+selectedMove score: 1634.0399
+selectedMove score: 1573.1426
+selectedMove score: 1627.4457
+selectedMove score: 1619.621
+selectedMove score: 1617.7905
+selectedMove score: 1578.8549
+selectedMove score: 1578.8549
+selectedMove score: 1578.8547
+selectedMove score: 660.16846
+selectedMove score: 1539.1781
+selectedMove score: 720.82355
+selectedMove score: 1542.0107
+selectedMove score: 1545.7156
+selectedMove score: 1549.0664
+selectedMove score: 1553.4625
+selectedMove score: 1633.1956
+selectedMove score: 1633.6676
+selectedMove score: 1558.6788
+selectedMove score: 1628.1104
+selectedMove score: 1620.1104
+selectedMove score: 1559.899
+selectedMove score: 1623.0841
+selectedMove score: 1562.1868
+selectedMove score: 1616.4899
+selectedMove score: 1608.6652
+selectedMove score: 1606.8347
+selectedMove score: 1567.8989
+selectedMove score: 1567.8989
+selectedMove score: 1567.8988
+selectedMove score: 665.64636
+selectedMove score: 1536.0223
+selectedMove score: 1479.8435
+selectedMove score: 722.40137
+selectedMove score: 720.5128
+selectedMove score: 1491.512
+maxDepth: 3
+heuristic: 1491.512
+UwU (White) placed a Round piece at column 10 after 421ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+..........R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....www.r.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 8 after 0ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....www.r.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1621.7198
+selectedMove score: 731.2971
+selectedMove score: 678.0085
+selectedMove score: 1621.7198
+selectedMove score: 737.8348
+selectedMove score: 682.65765
+selectedMove score: 739.6079
+selectedMove score: 684.4307
+selectedMove score: 741.1857
+selectedMove score: 686.0086
+selectedMove score: 825.3147
+selectedMove score: 772.0262
+selectedMove score: 749.5167
+selectedMove score: 694.33966
+selectedMove score: 750.79816
+selectedMove score: 695.62103
+selectedMove score: 820.22955
+selectedMove score: 765.0525
+selectedMove score: 752.0185
+selectedMove score: 696.84143
+selectedMove score: 817.5699
+selectedMove score: 762.3928
+selectedMove score: 815.20325
+selectedMove score: 760.02625
+selectedMove score: 754.3061
+selectedMove score: 699.129
+selectedMove score: 802.70667
+selectedMove score: 747.5296
+selectedMove score: 800.7844
+selectedMove score: 745.6074
+selectedMove score: 798.95404
+selectedMove score: 743.77704
+selectedMove score: 760.0182
+selectedMove score: 704.84106
+selectedMove score: 760.0182
+selectedMove score: 704.84106
+selectedMove score: 760.0182
+selectedMove score: 704.8411
+selectedMove score: 760.77423
+selectedMove score: 705.5971
+selectedMove score: 760.77423
+selectedMove score: 760.77423
+selectedMove score: 705.5971
+selectedMove score: 795.52264
+selectedMove score: 740.3456
+selectedMove score: 762.2194
+selectedMove score: 707.0423
+selectedMove score: 764.2461
+selectedMove score: 709.069
+selectedMove score: 786.95447
+selectedMove score: 731.77747
+selectedMove score: 786.95447
+selectedMove score: 731.77747
+selectedMove score: 786.9545
+selectedMove score: 731.77747
+selectedMove score: 785.82043
+selectedMove score: 730.6434
+selectedMove score: 785.8204
+selectedMove score: 785.82043
+selectedMove score: 730.64343
+selectedMove score: 783.6525
+selectedMove score: 728.4755
+selectedMove score: 766.58746
+selectedMove score: 711.4104
+selectedMove score: 780.6127
+selectedMove score: 725.4356
+selectedMove score: 767.47437
+selectedMove score: 712.29724
+selectedMove score: 777.10065
+selectedMove score: 721.9236
+selectedMove score: 775.77026
+selectedMove score: 720.5932
+selectedMove score: 1653.6437
+selectedMove score: 731.2971
+selectedMove score: 1662.0873
+selectedMove score: 1663.8605
+selectedMove score: 1665.4382
+selectedMove score: 1745.3004
+selectedMove score: 1673.7694
+selectedMove score: 1675.0507
+selectedMove score: 1744.4819
+selectedMove score: 1676.271
+selectedMove score: 1741.8224
+selectedMove score: 1739.4558
+selectedMove score: 1678.5586
+selectedMove score: 1726.9592
+selectedMove score: 1725.0369
+selectedMove score: 1723.2064
+selectedMove score: 1684.2708
+selectedMove score: 1684.2708
+selectedMove score: 1684.2708
+selectedMove score: 1685.0267
+selectedMove score: 678.0085
+selectedMove score: 1621.7198
+selectedMove score: 1648.1403
+selectedMove score: 737.8348
+selectedMove score: 1656.4509
+selectedMove score: 1658.0286
+selectedMove score: 1658.521
+selectedMove score: 1742.1576
+selectedMove score: 1666.3597
+selectedMove score: 1667.641
+selectedMove score: 1668.8613
+selectedMove score: 1734.4127
+selectedMove score: 1732.0461
+selectedMove score: 1731.3074
+selectedMove score: 1671.1489
+selectedMove score: 1719.5496
+selectedMove score: 1717.6273
+selectedMove score: 1715.7969
+selectedMove score: 1676.8611
+selectedMove score: 1676.861
+selectedMove score: 1676.8611
+selectedMove score: 1677.6171
+selectedMove score: 682.65765
+selectedMove score: 1644.594
+selectedMove score: 739.6079
+selectedMove score: 1651.1316
+selectedMove score: 1651.1315
+selectedMove score: 1654.4824
+selectedMove score: 1738.6113
+selectedMove score: 1662.8135
+selectedMove score: 1664.0948
+selectedMove score: 1733.5262
+selectedMove score: 1725.5262
+selectedMove score: 1733.5261
+selectedMove score: 1665.3151
+selectedMove score: 1728.4999
+selectedMove score: 1667.6028
+selectedMove score: 1716.0033
+selectedMove score: 1714.0812
+selectedMove score: 1712.2506
+selectedMove score: 1673.315
+selectedMove score: 1620.6299
+selectedMove score: 685.9428
+selectedMove score: 1605.7197
+maxDepth: 3
+heuristic: 1605.7197
+UwU (White) placed a Round piece at column 9 after 421ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....wwwwr.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..R.
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 17 after 0ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+.......RW.W.......
+......wwW.W.......
+.w....wwwwr.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.Rwwww.RrR.Rr
+
+UwU (White) turn
+selectedMove score: 1676.7286
+selectedMove score: 710.10065
+selectedMove score: 656.8121
+selectedMove score: 1676.7286
+selectedMove score: 715.9893
+selectedMove score: 660.8121
+selectedMove score: 716.6383
+selectedMove score: 661.4611
+selectedMove score: 718.41144
+selectedMove score: 663.23425
+selectedMove score: 804.1182
+selectedMove score: 750.8297
+selectedMove score: 728.3203
+selectedMove score: 673.14307
+selectedMove score: 800.00684
+selectedMove score: 744.82983
+selectedMove score: 729.6017
+selectedMove score: 674.4245
+selectedMove score: 799.0331
+selectedMove score: 743.8561
+selectedMove score: 730.8221
+selectedMove score: 675.6449
+selectedMove score: 796.3734
+selectedMove score: 741.19635
+selectedMove score: 733.1097
+selectedMove score: 677.9325
+selectedMove score: 781.5102
+selectedMove score: 726.3332
+selectedMove score: 779.588
+selectedMove score: 724.41095
+selectedMove score: 777.75757
+selectedMove score: 722.5805
+selectedMove score: 738.8217
+selectedMove score: 683.64453
+selectedMove score: 738.8217
+selectedMove score: 683.64453
+selectedMove score: 738.8218
+selectedMove score: 683.64465
+selectedMove score: 739.57776
+selectedMove score: 684.40063
+selectedMove score: 739.57776
+selectedMove score: 739.57776
+selectedMove score: 684.40063
+selectedMove score: 774.3262
+selectedMove score: 719.1491
+selectedMove score: 741.02295
+selectedMove score: 685.8459
+selectedMove score: 743.0496
+selectedMove score: 687.8725
+selectedMove score: 765.75806
+selectedMove score: 710.581
+selectedMove score: 765.75806
+selectedMove score: 710.581
+selectedMove score: 765.75806
+selectedMove score: 710.581
+selectedMove score: 764.62396
+selectedMove score: 764.62396
+selectedMove score: 709.4469
+selectedMove score: 764.62396
+selectedMove score: 709.44696
+selectedMove score: 743.6929
+selectedMove score: 688.5158
+selectedMove score: 762.4561
+selectedMove score: 707.27905
+selectedMove score: 759.4162
+selectedMove score: 704.23914
+selectedMove score: 758.45123
+selectedMove score: 703.2741
+selectedMove score: 746.27783
+selectedMove score: 691.10077
+selectedMove score: 754.5738
+selectedMove score: 699.39667
+selectedMove score: 1708.6523
+selectedMove score: 710.10065
+selectedMove score: 1718.3356
+selectedMove score: 1717.0961
+selectedMove score: 1718.8693
+selectedMove score: 1800.3092
+selectedMove score: 1728.7781
+selectedMove score: 1802.3529
+selectedMove score: 1730.0593
+selectedMove score: 1799.4908
+selectedMove score: 1731.2797
+selectedMove score: 1796.831
+selectedMove score: 1733.5673
+selectedMove score: 1781.9679
+selectedMove score: 1780.0455
+selectedMove score: 1778.2151
+selectedMove score: 1739.2794
+selectedMove score: 1739.2793
+selectedMove score: 1739.2794
+selectedMove score: 656.8121
+selectedMove score: 1676.7286
+selectedMove score: 1714.3356
+selectedMove score: 715.9893
+selectedMove score: 1706.3356
+selectedMove score: 1710.9845
+selectedMove score: 1712.7577
+selectedMove score: 1800.3529
+selectedMove score: 1808.3529
+selectedMove score: 1722.6666
+selectedMove score: 1723.9479
+selectedMove score: 1793.3792
+selectedMove score: 1725.1682
+selectedMove score: 1790.7196
+selectedMove score: 1727.4558
+selectedMove score: 1775.8564
+selectedMove score: 1773.9342
+selectedMove score: 1772.1036
+selectedMove score: 1733.168
+selectedMove score: 1733.168
+selectedMove score: 1733.168
+selectedMove score: 1733.924
+selectedMove score: 660.8121
+selectedMove score: 1703.1488
+selectedMove score: 716.6383
+selectedMove score: 1709.0374
+selectedMove score: 1711.4596
+selectedMove score: 1713.5298
+selectedMove score: 1797.1664
+selectedMove score: 1721.3684
+selectedMove score: 1793.0548
+selectedMove score: 1722.6498
+selectedMove score: 1723.8701
+selectedMove score: 1789.4214
+selectedMove score: 1786.316
+selectedMove score: 1726.1576
+selectedMove score: 1774.5582
+selectedMove score: 1772.6359
+selectedMove score: 1770.8054
+selectedMove score: 662.9732
+selectedMove score: 1663.8843
+maxDepth: 3
+heuristic: 1663.8843
+UwU (White) placed a Round piece at column 6 after 422ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.w....wwwwr.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.Rwwww.RrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 11 after 0ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+........W.W.......
+........W.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.w....wwwwr.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+UwU (White) turn
+selectedMove score: 1763.828
+selectedMove score: 698.6997
+selectedMove score: 645.4111
+selectedMove score: 1763.828
+selectedMove score: 704.5884
+selectedMove score: 649.4111
+selectedMove score: 705.23737
+selectedMove score: 650.0601
+selectedMove score: 705.23737
+selectedMove score: 650.0602
+selectedMove score: 792.7173
+selectedMove score: 739.4289
+selectedMove score: 716.9194
+selectedMove score: 661.7421
+selectedMove score: 717.88654
+selectedMove score: 662.70935
+selectedMove score: 788.60596
+selectedMove score: 733.4289
+selectedMove score: 718.2008
+selectedMove score: 663.02356
+selectedMove score: 787.6322
+selectedMove score: 732.4552
+selectedMove score: 787.6322
+selectedMove score: 732.4552
+selectedMove score: 719.4212
+selectedMove score: 664.24396
+selectedMove score: 770.1094
+selectedMove score: 714.9323
+selectedMove score: 768.6585
+selectedMove score: 713.4814
+selectedMove score: 768.1871
+selectedMove score: 713.01
+selectedMove score: 766.3567
+selectedMove score: 711.17957
+selectedMove score: 727.42084
+selectedMove score: 672.24365
+selectedMove score: 727.4209
+selectedMove score: 672.24365
+selectedMove score: 727.4209
+selectedMove score: 672.24365
+selectedMove score: 728.1769
+selectedMove score: 672.99963
+selectedMove score: 728.17694
+selectedMove score: 666.0559
+selectedMove score: 728.1769
+selectedMove score: 672.9997
+selectedMove score: 729.62213
+selectedMove score: 674.4449
+selectedMove score: 731.64874
+selectedMove score: 676.47156
+selectedMove score: 754.3571
+selectedMove score: 699.18005
+selectedMove score: 754.3571
+selectedMove score: 699.18005
+selectedMove score: 754.3572
+selectedMove score: 699.18005
+selectedMove score: 753.223
+selectedMove score: 691.10223
+selectedMove score: 753.223
+selectedMove score: 698.04596
+selectedMove score: 753.2231
+selectedMove score: 698.046
+selectedMove score: 732.29205
+selectedMove score: 677.11487
+selectedMove score: 751.05524
+selectedMove score: 695.8781
+selectedMove score: 748.0153
+selectedMove score: 692.83813
+selectedMove score: 747.05035
+selectedMove score: 691.8732
+selectedMove score: 734.877
+selectedMove score: 679.6998
+selectedMove score: 743.1729
+selectedMove score: 687.9958
+selectedMove score: 1795.7517
+selectedMove score: 698.6997
+selectedMove score: 1805.4349
+selectedMove score: 1804.1954
+selectedMove score: 1804.1954
+selectedMove score: 1887.4087
+selectedMove score: 1815.8774
+selectedMove score: 1816.8448
+selectedMove score: 1889.4526
+selectedMove score: 1817.1589
+selectedMove score: 1886.5905
+selectedMove score: 1880.4789
+selectedMove score: 1886.5903
+selectedMove score: 1818.3792
+selectedMove score: 1869.0676
+selectedMove score: 1867.6168
+selectedMove score: 1831.8395
+selectedMove score: 1867.1453
+selectedMove score: 1865.3148
+selectedMove score: 1832.6068
+selectedMove score: 1826.3789
+selectedMove score: 1826.3789
+selectedMove score: 1826.3789
+selectedMove score: 1827.135
+selectedMove score: 645.4111
+selectedMove score: 1763.828
+selectedMove score: 1793.4349
+selectedMove score: 704.5884
+selectedMove score: 1801.4348
+selectedMove score: 1798.084
+selectedMove score: 1798.0839
+selectedMove score: 1887.4525
+selectedMove score: 1895.4525
+selectedMove score: 1809.7659
+selectedMove score: 1810.7332
+selectedMove score: 1811.0472
+selectedMove score: 1880.4789
+selectedMove score: 1872.4789
+selectedMove score: 1880.4789
+selectedMove score: 1812.2676
+selectedMove score: 1862.956
+selectedMove score: 1861.5052
+selectedMove score: 1823.8395
+selectedMove score: 1861.0337
+selectedMove score: 1859.2032
+selectedMove score: 1824.6067
+selectedMove score: 1820.2675
+selectedMove score: 1820.2673
+selectedMove score: 1820.2675
+selectedMove score: 1821.0233
+selectedMove score: 649.4111
+selectedMove score: 1790.2482
+selectedMove score: 1784.1367
+selectedMove score: 705.23737
+selectedMove score: 1796.1367
+selectedMove score: 1796.1367
+selectedMove score: 1788.1367
+selectedMove score: 1796.7858
+selectedMove score: 1788.7858
+selectedMove score: 1884.266
+selectedMove score: 1878.1545
+selectedMove score: 1808.4678
+selectedMove score: 1800.4678
+selectedMove score: 1809.435
+selectedMove score: 1801.435
+selectedMove score: 1880.1545
+selectedMove score: 1872.1545
+selectedMove score: 1809.7491
+selectedMove score: 1801.7491
+selectedMove score: 1879.1808
+selectedMove score: 1871.1808
+selectedMove score: 1810.9694
+selectedMove score: 1802.9694
+selectedMove score: 1861.658
+selectedMove score: 1853.658
+selectedMove score: 1860.2072
+selectedMove score: 1852.2072
+selectedMove score: 1859.7356
+selectedMove score: 1851.7356
+selectedMove score: 1857.9052
+selectedMove score: 1849.9052
+selectedMove score: 1818.9691
+selectedMove score: 1810.9692
+selectedMove score: 1818.9691
+selectedMove score: 1810.9691
+selectedMove score: 1818.9691
+selectedMove score: 1810.9691
+selectedMove score: 1819.7252
+selectedMove score: 1811.7252
+selectedMove score: 650.0601
+selectedMove score: 1790.2482
+selectedMove score: 705.23737
+selectedMove score: 1796.1367
+selectedMove score: 1796.7858
+selectedMove score: 1800.6292
+selectedMove score: 675.1517
+selectedMove score: 1733.7426
+maxDepth: 3
+heuristic: 1733.7426
+UwU (White) placed a Square piece at column 7 after 423ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+........W.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.w....wwwwr.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 2 after 0ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+........W.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+UwU (White) turn
+selectedMove score: 1822.0956
+selectedMove score: 763.33795
+selectedMove score: 714.78827
+selectedMove score: 1822.0956
+selectedMove score: 773.0211
+selectedMove score: 717.8441
+selectedMove score: 771.7816
+selectedMove score: 718.4931
+selectedMove score: 771.78156
+selectedMove score: 718.4931
+selectedMove score: 854.9949
+selectedMove score: 806.4452
+selectedMove score: 783.4635
+selectedMove score: 730.1751
+selectedMove score: 784.43066
+selectedMove score: 731.1423
+selectedMove score: 857.0387
+selectedMove score: 801.86163
+selectedMove score: 784.74493
+selectedMove score: 731.4565
+selectedMove score: 854.1764
+selectedMove score: 800.8879
+selectedMove score: 854.1764
+selectedMove score: 800.8879
+selectedMove score: 785.96533
+selectedMove score: 732.6769
+selectedMove score: 789.5955
+selectedMove score: 736.3071
+selectedMove score: 836.6535
+selectedMove score: 783.365
+selectedMove score: 835.2027
+selectedMove score: 781.9142
+selectedMove score: 834.73126
+selectedMove score: 781.4428
+selectedMove score: 832.9009
+selectedMove score: 779.61237
+selectedMove score: 793.96497
+selectedMove score: 740.6765
+selectedMove score: 793.96497
+selectedMove score: 740.6766
+selectedMove score: 793.965
+selectedMove score: 740.6765
+selectedMove score: 794.721
+selectedMove score: 734.4889
+selectedMove score: 794.721
+selectedMove score: 741.43256
+selectedMove score: 827.4554
+selectedMove score: 774.16693
+selectedMove score: 796.1662
+selectedMove score: 742.8778
+selectedMove score: 798.1929
+selectedMove score: 744.9044
+selectedMove score: 820.9013
+selectedMove score: 767.61285
+selectedMove score: 820.9013
+selectedMove score: 767.61285
+selectedMove score: 820.9013
+selectedMove score: 767.61285
+selectedMove score: 819.7672
+selectedMove score: 759.53503
+selectedMove score: 819.7672
+selectedMove score: 766.47876
+selectedMove score: 798.8362
+selectedMove score: 745.54767
+selectedMove score: 817.59937
+selectedMove score: 764.3109
+selectedMove score: 814.55945
+selectedMove score: 761.271
+selectedMove score: 813.5945
+selectedMove score: 760.30597
+selectedMove score: 801.42114
+selectedMove score: 748.1326
+selectedMove score: 809.7171
+selectedMove score: 756.4286
+selectedMove score: 1855.0162
+selectedMove score: 763.33795
+selectedMove score: 1863.7026
+selectedMove score: 1857.7242
+selectedMove score: 1857.7244
+selectedMove score: 1869.4064
+selectedMove score: 1940.7495
+selectedMove score: 1870.3735
+selectedMove score: 1947.7202
+selectedMove score: 1870.6876
+selectedMove score: 1940.1191
+selectedMove score: 1938.7466
+selectedMove score: 1940.1191
+selectedMove score: 1871.908
+selectedMove score: 1875.5382
+selectedMove score: 1922.5963
+selectedMove score: 1921.1454
+selectedMove score: 1890.1073
+selectedMove score: 1920.6738
+selectedMove score: 1918.8434
+selectedMove score: 1890.8746
+selectedMove score: 1879.9077
+selectedMove score: 1879.9077
+selectedMove score: 1879.9077
+selectedMove score: 1880.6638
+selectedMove score: 714.78827
+selectedMove score: 1822.0956
+selectedMove score: 1861.5911
+selectedMove score: 773.0211
+selectedMove score: 1854.5352
+selectedMove score: 1858.2399
+selectedMove score: 1858.2399
+selectedMove score: 1955.6086
+selectedMove score: 1946.1921
+selectedMove score: 1869.9221
+selectedMove score: 1870.8893
+selectedMove score: 1871.2034
+selectedMove score: 1940.635
+selectedMove score: 1932.635
+selectedMove score: 1940.6349
+selectedMove score: 1872.4237
+selectedMove score: 1876.0541
+selectedMove score: 1923.112
+selectedMove score: 1921.6614
+selectedMove score: 1883.9957
+selectedMove score: 1921.1898
+selectedMove score: 1919.3594
+selectedMove score: 1884.7631
+selectedMove score: 1880.4235
+selectedMove score: 1880.4235
+selectedMove score: 1880.4235
+selectedMove score: 717.8441
+selectedMove score: 1846.6099
+selectedMove score: 1845.2373
+selectedMove score: 771.7816
+selectedMove score: 1854.4045
+selectedMove score: 1856.293
+selectedMove score: 1848.2931
+selectedMove score: 1855.0536
+selectedMove score: 1848.942
+selectedMove score: 1938.2667
+selectedMove score: 1936.8942
+selectedMove score: 1866.7356
+selectedMove score: 1860.6241
+selectedMove score: 1867.7029
+selectedMove score: 1861.5914
+selectedMove score: 1940.3107
+selectedMove score: 1932.3107
+selectedMove score: 1868.017
+selectedMove score: 1861.9055
+selectedMove score: 1937.4484
+selectedMove score: 1931.3369
+selectedMove score: 1869.2373
+selectedMove score: 1863.1257
+selectedMove score: 1872.8676
+selectedMove score: 1866.7561
+selectedMove score: 1919.9255
+selectedMove score: 1913.8141
+selectedMove score: 1918.4747
+selectedMove score: 1912.3633
+selectedMove score: 1918.0032
+selectedMove score: 1911.8917
+selectedMove score: 1916.1727
+selectedMove score: 1910.0613
+selectedMove score: 1877.237
+selectedMove score: 1871.1255
+selectedMove score: 1877.237
+selectedMove score: 1871.1255
+selectedMove score: 1877.237
+selectedMove score: 1871.1255
+selectedMove score: 718.4931
+selectedMove score: 1846.6099
+selectedMove score: 771.78156
+selectedMove score: 1856.293
+selectedMove score: 764.37195
+selectedMove score: 1792.7653
+maxDepth: 3
+heuristic: 1792.7653
+UwU (White) placed a Square piece at column 7 after 421ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rr...wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 3 after 0ms
+..................
+..................
+..........w.......
+..........w.......
+..........r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+UwU (White) turn
+selectedMove score: 1850.5775
+selectedMove score: 840.878
+selectedMove score: 793.7009
+selectedMove score: 1850.5775
+selectedMove score: 849.5643
+selectedMove score: 794.38727
+selectedMove score: 843.58594
+selectedMove score: 795.03625
+selectedMove score: 843.58594
+selectedMove score: 795.0363
+selectedMove score: 855.2679
+selectedMove score: 806.71826
+selectedMove score: 926.61127
+selectedMove score: 879.4342
+selectedMove score: 856.23505
+selectedMove score: 807.6854
+selectedMove score: 933.58185
+selectedMove score: 878.4047
+selectedMove score: 856.5493
+selectedMove score: 807.99963
+selectedMove score: 925.9807
+selectedMove score: 877.43097
+selectedMove score: 925.9807
+selectedMove score: 877.431
+selectedMove score: 857.76965
+selectedMove score: 809.22003
+selectedMove score: 859.7813
+selectedMove score: 811.2316
+selectedMove score: 861.3999
+selectedMove score: 812.8503
+selectedMove score: 908.4579
+selectedMove score: 859.90814
+selectedMove score: 907.007
+selectedMove score: 858.4573
+selectedMove score: 906.53564
+selectedMove score: 857.9859
+selectedMove score: 904.7052
+selectedMove score: 856.15546
+selectedMove score: 865.7694
+selectedMove score: 817.2197
+selectedMove score: 865.7694
+selectedMove score: 817.2197
+selectedMove score: 901.68774
+selectedMove score: 853.13806
+selectedMove score: 866.5254
+selectedMove score: 811.03204
+selectedMove score: 866.5254
+selectedMove score: 817.97565
+selectedMove score: 899.25977
+selectedMove score: 850.71
+selectedMove score: 867.9706
+selectedMove score: 819.4209
+selectedMove score: 869.99725
+selectedMove score: 821.4476
+selectedMove score: 892.7057
+selectedMove score: 844.15594
+selectedMove score: 892.7057
+selectedMove score: 844.15594
+selectedMove score: 891.5716
+selectedMove score: 836.0781
+selectedMove score: 891.5716
+selectedMove score: 843.02185
+selectedMove score: 870.64056
+selectedMove score: 822.0908
+selectedMove score: 889.40375
+selectedMove score: 840.854
+selectedMove score: 886.36383
+selectedMove score: 837.8141
+selectedMove score: 885.39886
+selectedMove score: 836.8491
+selectedMove score: 873.2255
+selectedMove score: 824.6758
+selectedMove score: 881.5215
+selectedMove score: 832.9717
+selectedMove score: 1892.1844
+selectedMove score: 840.878
+selectedMove score: 1884.8335
+selectedMove score: 1884.8334
+selectedMove score: 1886.6067
+selectedMove score: 1896.5155
+selectedMove score: 1897.4827
+selectedMove score: 1976.202
+selectedMove score: 1897.7969
+selectedMove score: 1967.2284
+selectedMove score: 1967.2284
+selectedMove score: 1899.0171
+selectedMove score: 1964.5687
+selectedMove score: 1901.0287
+selectedMove score: 1902.6475
+selectedMove score: 1949.7054
+selectedMove score: 1948.2546
+selectedMove score: 1918.589
+selectedMove score: 1947.7831
+selectedMove score: 1945.9526
+selectedMove score: 1919.3563
+selectedMove score: 1907.0168
+selectedMove score: 1907.0168
+selectedMove score: 1942.9353
+selectedMove score: 793.7009
+selectedMove score: 1850.5775
+selectedMove score: 1894.8119
+selectedMove score: 849.5643
+selectedMove score: 1890.1255
+selectedMove score: 1891.4608
+selectedMove score: 1891.4608
+selectedMove score: 1988.8293
+selectedMove score: 1903.143
+selectedMove score: 1975.8588
+selectedMove score: 1904.1102
+selectedMove score: 1904.4243
+selectedMove score: 1973.8556
+selectedMove score: 1973.8557
+selectedMove score: 1965.8557
+selectedMove score: 1905.6445
+selectedMove score: 1907.6561
+selectedMove score: 1909.2749
+selectedMove score: 1956.3328
+selectedMove score: 1954.882
+selectedMove score: 1917.2164
+selectedMove score: 1954.4104
+selectedMove score: 1952.58
+selectedMove score: 1917.9836
+selectedMove score: 1913.6443
+selectedMove score: 1913.6443
+selectedMove score: 1949.5627
+selectedMove score: 794.38727
+selectedMove score: 1880.8275
+selectedMove score: 843.58594
+selectedMove score: 1882.8865
+selectedMove score: 1889.5138
+selectedMove score: 1881.5138
+selectedMove score: 1883.5354
+selectedMove score: 1882.1628
+selectedMove score: 1895.2174
+selectedMove score: 1893.8448
+selectedMove score: 1966.5607
+selectedMove score: 1896.1847
+selectedMove score: 1894.812
+selectedMove score: 1973.5314
+selectedMove score: 1965.5312
+selectedMove score: 1896.4988
+selectedMove score: 1895.1262
+selectedMove score: 1965.9303
+selectedMove score: 1964.5575
+selectedMove score: 1897.7191
+selectedMove score: 1896.3464
+selectedMove score: 1899.7307
+selectedMove score: 1898.358
+selectedMove score: 1901.3494
+selectedMove score: 1899.9768
+selectedMove score: 1948.4073
+selectedMove score: 1947.0347
+selectedMove score: 1946.9565
+selectedMove score: 1945.584
+selectedMove score: 1946.485
+selectedMove score: 1945.1124
+selectedMove score: 1944.6545
+selectedMove score: 1943.282
+selectedMove score: 1905.7188
+selectedMove score: 1904.3462
+selectedMove score: 1905.7188
+selectedMove score: 795.1144
+selectedMove score: 1847.9067
+maxDepth: 3
+heuristic: 1847.9067
+UwU (White) placed a Round piece at column 8 after 421ms
+..................
+..................
+..........w.......
+..........w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwww.....R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 13 after 0ms
+..................
+..................
+..........w.......
+..........w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwww..R..R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+UwU (White) turn
+selectedMove score: 1896.4987
+selectedMove score: 847.90906
+selectedMove score: 800.732
+selectedMove score: 1896.4987
+selectedMove score: 856.59534
+selectedMove score: 801.41833
+selectedMove score: 850.617
+selectedMove score: 802.0674
+selectedMove score: 854.4603
+selectedMove score: 805.9107
+selectedMove score: 860.5954
+selectedMove score: 812.0458
+selectedMove score: 862.29895
+selectedMove score: 813.7493
+selectedMove score: 933.64233
+selectedMove score: 886.4652
+selectedMove score: 863.2661
+selectedMove score: 814.7165
+selectedMove score: 940.613
+selectedMove score: 885.4358
+selectedMove score: 933.0118
+selectedMove score: 884.4621
+selectedMove score: 864.8008
+selectedMove score: 816.2511
+selectedMove score: 927.24695
+selectedMove score: 878.69714
+selectedMove score: 866.8123
+selectedMove score: 818.2627
+selectedMove score: 868.431
+selectedMove score: 819.88135
+selectedMove score: 918.0444
+selectedMove score: 869.4947
+selectedMove score: 915.48895
+selectedMove score: 866.9393
+selectedMove score: 914.03815
+selectedMove score: 865.4884
+selectedMove score: 911.7363
+selectedMove score: 863.1866
+selectedMove score: 872.8005
+selectedMove score: 824.25085
+selectedMove score: 872.8005
+selectedMove score: 824.2508
+selectedMove score: 908.7188
+selectedMove score: 860.1691
+selectedMove score: 873.55646
+selectedMove score: 818.0631
+selectedMove score: 873.55646
+selectedMove score: 825.00684
+selectedMove score: 906.2909
+selectedMove score: 857.7411
+selectedMove score: 875.0017
+selectedMove score: 826.4521
+selectedMove score: 877.0283
+selectedMove score: 828.47864
+selectedMove score: 899.73676
+selectedMove score: 851.187
+selectedMove score: 899.73676
+selectedMove score: 851.1871
+selectedMove score: 898.60266
+selectedMove score: 843.10925
+selectedMove score: 898.60266
+selectedMove score: 850.053
+selectedMove score: 877.67163
+selectedMove score: 829.12195
+selectedMove score: 896.4348
+selectedMove score: 847.8851
+selectedMove score: 893.39496
+selectedMove score: 844.8452
+selectedMove score: 892.43
+selectedMove score: 843.88025
+selectedMove score: 880.2566
+selectedMove score: 831.7069
+selectedMove score: 888.55255
+selectedMove score: 840.0028
+selectedMove score: 1938.1056
+selectedMove score: 847.90906
+selectedMove score: 1930.7546
+selectedMove score: 1932.5278
+selectedMove score: 1934.598
+selectedMove score: 1940.733
+selectedMove score: 1942.4366
+selectedMove score: 1943.4039
+selectedMove score: 2022.1234
+selectedMove score: 2013.1497
+selectedMove score: 1944.9384
+selectedMove score: 2010.49
+selectedMove score: 2007.3846
+selectedMove score: 1946.9501
+selectedMove score: 1948.5686
+selectedMove score: 1998.182
+selectedMove score: 1995.6268
+selectedMove score: 1994.1759
+selectedMove score: 1964.5104
+selectedMove score: 1991.8739
+selectedMove score: 1965.2777
+selectedMove score: 1952.9381
+selectedMove score: 1952.9382
+selectedMove score: 1988.8567
+selectedMove score: 800.732
+selectedMove score: 1896.4987
+selectedMove score: 1940.733
+selectedMove score: 856.59534
+selectedMove score: 1936.0466
+selectedMove score: 1937.382
+selectedMove score: 1941.2253
+selectedMove score: 1947.3605
+selectedMove score: 2034.7509
+selectedMove score: 1949.0641
+selectedMove score: 2021.7802
+selectedMove score: 1950.0312
+selectedMove score: 2019.777
+selectedMove score: 2011.777
+selectedMove score: 1951.5657
+selectedMove score: 2014.0121
+selectedMove score: 1953.5773
+selectedMove score: 1955.1959
+selectedMove score: 2004.8094
+selectedMove score: 2002.254
+selectedMove score: 2000.8033
+selectedMove score: 1963.1376
+selectedMove score: 1998.5013
+selectedMove score: 1963.9049
+selectedMove score: 1959.5654
+selectedMove score: 1959.5654
+selectedMove score: 1995.484
+selectedMove score: 801.41833
+selectedMove score: 1926.7487
+selectedMove score: 850.617
+selectedMove score: 1935.4349
+selectedMove score: 1927.4349
+selectedMove score: 1928.8076
+selectedMove score: 1933.2999
+selectedMove score: 1931.9274
+selectedMove score: 1939.435
+selectedMove score: 1938.0624
+selectedMove score: 1941.1387
+selectedMove score: 1939.766
+selectedMove score: 2012.482
+selectedMove score: 1942.1058
+selectedMove score: 1940.7332
+selectedMove score: 2019.4528
+selectedMove score: 2011.4526
+selectedMove score: 1943.6403
+selectedMove score: 1942.2676
+selectedMove score: 2006.0865
+selectedMove score: 2004.7139
+selectedMove score: 1945.652
+selectedMove score: 1944.2792
+selectedMove score: 1947.2705
+selectedMove score: 1945.898
+selectedMove score: 1996.8839
+selectedMove score: 1995.5114
+selectedMove score: 1994.3287
+selectedMove score: 1992.956
+selectedMove score: 1992.8779
+selectedMove score: 1991.5052
+selectedMove score: 1990.5758
+selectedMove score: 803.5794
+selectedMove score: 1886.1412
+maxDepth: 3
+heuristic: 1886.1412
+UwU (White) placed a Round piece at column 8 after 423ms
+..................
+..................
+..........w.......
+........w.w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwww..R..R.
+rrrR..rwrww..R..RR
+rrRRR.RwwwwrRrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 11 after 0ms
+..................
+..................
+..........w.......
+........w.w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwww..R..R.
+rrrR..rwrwwR.R..RR
+rrRRR.RwwwwrRrR.Rr
+
+UwU (White) turn
+selectedMove score: 1934.4192
+selectedMove score: 859.41205
+selectedMove score: 812.235
+selectedMove score: 1934.4192
+selectedMove score: 868.0983
+selectedMove score: 812.9213
+selectedMove score: 862.12006
+selectedMove score: 813.5704
+selectedMove score: 869.867
+selectedMove score: 821.3173
+selectedMove score: 871.0116
+selectedMove score: 822.4619
+selectedMove score: 872.0984
+selectedMove score: 823.54877
+selectedMove score: 873.80194
+selectedMove score: 825.2523
+selectedMove score: 945.1453
+selectedMove score: 897.9682
+selectedMove score: 952.1159
+selectedMove score: 896.9388
+selectedMove score: 944.51483
+selectedMove score: 895.9651
+selectedMove score: 876.3038
+selectedMove score: 827.75415
+selectedMove score: 878.3153
+selectedMove score: 829.76575
+selectedMove score: 879.93396
+selectedMove score: 831.38434
+selectedMove score: 932.89435
+selectedMove score: 884.34467
+selectedMove score: 931.17755
+selectedMove score: 882.62775
+selectedMove score: 929.5474
+selectedMove score: 880.9976
+selectedMove score: 926.99194
+selectedMove score: 878.4422
+selectedMove score: 923.2393
+selectedMove score: 874.6895
+selectedMove score: 884.30347
+selectedMove score: 835.75385
+selectedMove score: 884.30347
+selectedMove score: 835.75385
+selectedMove score: 920.22186
+selectedMove score: 871.6721
+selectedMove score: 885.05945
+selectedMove score: 829.56616
+selectedMove score: 885.05945
+selectedMove score: 836.5098
+selectedMove score: 917.7939
+selectedMove score: 869.2441
+selectedMove score: 886.5047
+selectedMove score: 837.955
+selectedMove score: 888.5313
+selectedMove score: 839.9817
+selectedMove score: 911.2398
+selectedMove score: 862.69
+selectedMove score: 911.2398
+selectedMove score: 862.69006
+selectedMove score: 910.1057
+selectedMove score: 854.61224
+selectedMove score: 910.1057
+selectedMove score: 861.55597
+selectedMove score: 889.1746
+selectedMove score: 840.625
+selectedMove score: 907.93787
+selectedMove score: 859.38806
+selectedMove score: 904.89795
+selectedMove score: 856.3482
+selectedMove score: 903.9329
+selectedMove score: 855.38324
+selectedMove score: 891.7596
+selectedMove score: 843.20996
+selectedMove score: 900.0555
+selectedMove score: 851.50586
+selectedMove score: 1976.0264
+selectedMove score: 859.41205
+selectedMove score: 1968.6753
+selectedMove score: 1970.4485
+selectedMove score: 1976.4224
+selectedMove score: 1977.5668
+selectedMove score: 1978.6537
+selectedMove score: 1980.3573
+selectedMove score: 2060.044
+selectedMove score: 2051.0703
+selectedMove score: 1982.8589
+selectedMove score: 2048.4106
+selectedMove score: 1984.8706
+selectedMove score: 1986.4893
+selectedMove score: 2039.4496
+selectedMove score: 2037.7329
+selectedMove score: 2036.1027
+selectedMove score: 2033.5474
+selectedMove score: 2029.7944
+selectedMove score: 1990.8586
+selectedMove score: 1990.8586
+selectedMove score: 2026.7772
+selectedMove score: 812.235
+selectedMove score: 1934.4192
+selectedMove score: 1978.6536
+selectedMove score: 868.0983
+selectedMove score: 1973.9673
+selectedMove score: 1975.3026
+selectedMove score: 1983.0497
+selectedMove score: 1984.1942
+selectedMove score: 1985.2811
+selectedMove score: 2072.6714
+selectedMove score: 1986.9846
+selectedMove score: 2059.7007
+selectedMove score: 2057.6978
+selectedMove score: 2049.6978
+selectedMove score: 1989.4862
+selectedMove score: 1991.4979
+selectedMove score: 1993.1166
+selectedMove score: 2046.077
+selectedMove score: 2044.3602
+selectedMove score: 2042.73
+selectedMove score: 2040.1747
+selectedMove score: 2036.4219
+selectedMove score: 1997.486
+selectedMove score: 1997.486
+selectedMove score: 2033.4047
+selectedMove score: 812.9213
+selectedMove score: 1964.6691
+selectedMove score: 862.12006
+selectedMove score: 1973.3556
+selectedMove score: 1965.3556
+selectedMove score: 1966.7283
+selectedMove score: 1975.1243
+selectedMove score: 1973.7516
+selectedMove score: 1976.2688
+selectedMove score: 1974.8961
+selectedMove score: 1977.3556
+selectedMove score: 1975.983
+selectedMove score: 1979.0592
+selectedMove score: 1977.6866
+selectedMove score: 2050.4026
+selectedMove score: 2057.3733
+selectedMove score: 2049.3733
+selectedMove score: 1981.5609
+selectedMove score: 1980.1881
+selectedMove score: 1983.5725
+selectedMove score: 1982.1998
+selectedMove score: 1985.1912
+selectedMove score: 823.7865
+selectedMove score: 1916.2544
+maxDepth: 3
+heuristic: 1916.2544
+UwU (White) placed a Round piece at column 8 after 422ms
+..................
+..................
+........w.w.......
+........w.w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwww..R..R.
+rrrR..rwrwwR.R..RR
+rrRRR.RwwwwrRrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 14 after 0ms
+..................
+..................
+........w.w.......
+........w.w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwww..R..R.
+rrrR..rwrwwR.RR.RR
+rrRRR.RwwwwrRrR.Rr
+
+UwU (White) turn
+selectedMove score: 1974.0667
+selectedMove score: 855.7501
+selectedMove score: 808.57306
+selectedMove score: 1974.0667
+selectedMove score: 864.4364
+selectedMove score: 809.25934
+selectedMove score: 858.45807
+selectedMove score: 809.90845
+selectedMove score: 867.3496
+selectedMove score: 818.7999
+selectedMove score: 868.43646
+selectedMove score: 819.8868
+selectedMove score: 870.14
+selectedMove score: 821.59033
+selectedMove score: 870.14
+selectedMove score: 821.59033
+selectedMove score: 941.4834
+selectedMove score: 894.3062
+selectedMove score: 948.4539
+selectedMove score: 893.27686
+selectedMove score: 940.8529
+selectedMove score: 892.30316
+selectedMove score: 872.6418
+selectedMove score: 824.09216
+selectedMove score: 874.6533
+selectedMove score: 826.1037
+selectedMove score: 876.27203
+selectedMove score: 827.72235
+selectedMove score: 927.5156
+selectedMove score: 878.9658
+selectedMove score: 925.8855
+selectedMove score: 877.3357
+selectedMove score: 878.4239
+selectedMove score: 829.8743
+selectedMove score: 923.3301
+selectedMove score: 874.7802
+selectedMove score: 923.33
+selectedMove score: 874.7802
+selectedMove score: 919.5774
+selectedMove score: 871.0276
+selectedMove score: 880.64154
+selectedMove score: 832.09186
+selectedMove score: 916.5599
+selectedMove score: 868.01013
+selectedMove score: 881.3975
+selectedMove score: 825.9042
+selectedMove score: 881.3975
+selectedMove score: 832.8479
+selectedMove score: 914.13196
+selectedMove score: 865.58215
+selectedMove score: 882.8427
+selectedMove score: 834.2931
+selectedMove score: 910.9041
+selectedMove score: 862.3544
+selectedMove score: 884.8694
+selectedMove score: 836.31976
+selectedMove score: 907.57776
+selectedMove score: 859.0281
+selectedMove score: 906.44366
+selectedMove score: 850.9503
+selectedMove score: 906.44366
+selectedMove score: 857.894
+selectedMove score: 885.5127
+selectedMove score: 836.963
+selectedMove score: 904.2759
+selectedMove score: 855.72614
+selectedMove score: 901.23596
+selectedMove score: 852.6863
+selectedMove score: 900.271
+selectedMove score: 851.7213
+selectedMove score: 888.09766
+selectedMove score: 839.548
+selectedMove score: 896.39355
+selectedMove score: 847.8439
+selectedMove score: 2015.6736
+selectedMove score: 855.7501
+selectedMove score: 2008.3224
+selectedMove score: 2010.0957
+selectedMove score: 2017.2141
+selectedMove score: 2018.301
+selectedMove score: 2020.0046
+selectedMove score: 2020.0046
+selectedMove score: 2099.6912
+selectedMove score: 2090.7175
+selectedMove score: 2022.5062
+selectedMove score: 2088.0576
+selectedMove score: 2024.518
+selectedMove score: 2026.1366
+selectedMove score: 2077.3801
+selectedMove score: 2075.7498
+selectedMove score: 2028.2885
+selectedMove score: 2073.1946
+selectedMove score: 2073.1946
+selectedMove score: 2069.442
+selectedMove score: 2030.506
+selectedMove score: 2066.4246
+selectedMove score: 808.57306
+selectedMove score: 1974.0667
+selectedMove score: 2018.301
+selectedMove score: 864.4364
+selectedMove score: 2013.6145
+selectedMove score: 2014.95
+selectedMove score: 2023.8416
+selectedMove score: 2024.9285
+selectedMove score: 2112.3186
+selectedMove score: 2026.6321
+selectedMove score: 2026.6321
+selectedMove score: 2099.348
+selectedMove score: 2097.345
+selectedMove score: 2089.3447
+selectedMove score: 2029.1335
+selectedMove score: 2031.1453
+selectedMove score: 2032.764
+selectedMove score: 2084.0073
+selectedMove score: 2082.3772
+selectedMove score: 2034.9158
+selectedMove score: 2079.822
+selectedMove score: 2079.822
+selectedMove score: 2076.069
+selectedMove score: 2037.1334
+selectedMove score: 2073.052
+selectedMove score: 2037.8894
+selectedMove score: 809.25934
+selectedMove score: 2004.3164
+selectedMove score: 2004.3163
+selectedMove score: 858.45807
+selectedMove score: 2013.0029
+selectedMove score: 2005.0027
+selectedMove score: 2006.3752
+selectedMove score: 2015.9161
+selectedMove score: 2014.5435
+selectedMove score: 2017.0029
+selectedMove score: 2015.6304
+selectedMove score: 2018.7065
+selectedMove score: 2017.334
+selectedMove score: 2018.7065
+selectedMove score: 2017.334
+selectedMove score: 2090.0498
+selectedMove score: 2097.0205
+selectedMove score: 2089.0203
+selectedMove score: 2021.2081
+selectedMove score: 823.39667
+selectedMove score: 1953.6128
+maxDepth: 3
+heuristic: 1953.6128
+UwU (White) placed a Round piece at column 11 after 424ms
+..................
+..................
+........w.w.......
+........w.w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwwww.R..R.
+rrrR..rwrwwR.RR.RR
+rrRRR.RwwwwrRrR.Rr
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 15 after 0ms
+..................
+..................
+........w.w.......
+........w.w.......
+........w.r.......
+........r.R.......
+.......WW.W.......
+.......WW.W.......
+.......rr.W.......
+......wRW.W.......
+......wwW.W.......
+.wr...wwwwr.......
+.rrR..wwwwww.R..R.
+rrrR..rwrwwR.RR.RR
+rrRRR.RwwwwrRrRrRr
+
+Winner is Random (Red)
+Solution=(0,11)(0,12)(0,13)(0,14)(0,15)(0,16)(0,17)

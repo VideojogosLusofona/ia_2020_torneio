@@ -1,0 +1,214 @@
+=> TrouxaBot_V1 (White) vs G01_PunksNotDead_v3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 0 after 39ms
+.......
+.......
+.......
+.......
+.......
+w......
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.5319 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 3ms
+.......
+.......
+.......
+.......
+R......
+w......
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 0 after 41ms
+.......
+.......
+.......
+w......
+R......
+w......
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.6386 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 3ms
+.......
+.......
+R......
+w......
+R......
+w......
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 0 after 42ms
+.......
+w......
+R......
+w......
+R......
+w......
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.4053 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.......
+w......
+R......
+w......
+R......
+w.....R
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 0 after 41ms
+w......
+w......
+R......
+w......
+R......
+w.....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.0024 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+w......
+w......
+R......
+w......
+R.....R
+w.....R
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 1 after 30ms
+w......
+w......
+R......
+w......
+R.....R
+ww....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.8291 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 2ms
+w......
+w......
+R......
+w.....R
+R.....R
+ww....R
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 6 after 22ms
+w......
+w......
+R.....w
+w.....R
+R.....R
+ww....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.1395 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+w......
+w.....R
+R.....w
+w.....R
+R.....R
+ww....R
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 1 after 26ms
+w......
+w.....R
+R.....w
+w.....R
+Rw....R
+ww....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.4317 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+w.....R
+w.....R
+R.....w
+w.....R
+Rw....R
+ww....R
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 1 after 16ms
+w.....R
+w.....R
+R.....w
+ww....R
+Rw....R
+ww....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.199 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 1 after 2ms
+w.....R
+w.....R
+RR....w
+ww....R
+Rw....R
+ww....R
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 1 after 16ms
+w.....R
+ww....R
+RR....w
+ww....R
+Rw....R
+ww....R
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 1.8717 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 1ms
+w.....R
+ww....R
+RR....w
+ww....R
+Rw....R
+ww...RR
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) placed a Round piece at column 1 after 11ms
+ww....R
+ww....R
+RR....w
+ww....R
+Rw....R
+ww...RR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 0.5639 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 3 after 0ms
+ww....R
+ww....R
+RR....w
+ww....R
+Rw....R
+ww.R.RR
+
+TrouxaBot_V1 (White) turn
+TrouxaBot_V1 (White) loses match! Reason: Thinker unable to perform move
+ww....R
+ww....R
+RR....w
+ww....R
+Rw....R
+ww.R.RR
+
+Winner is G01_PunksNotDead_v3 (Red)

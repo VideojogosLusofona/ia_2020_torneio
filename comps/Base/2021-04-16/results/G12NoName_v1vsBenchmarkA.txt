@@ -1,0 +1,132 @@
+=> G12NoName_v1 (White) vs BenchmarkA (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 4 after 7ms
+.......
+.......
+.......
+.......
+.......
+....w..
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 4 after 153ms
+.......
+.......
+.......
+.......
+....R..
+....w..
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 5 after 1ms
+.......
+.......
+.......
+.......
+....R..
+....ww.
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 4 after 152ms
+.......
+.......
+.......
+....R..
+....R..
+....ww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 4 after 1ms
+.......
+.......
+....w..
+....R..
+....R..
+....ww.
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 3 after 152ms
+.......
+.......
+....w..
+....R..
+....R..
+...Rww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 4 after 1ms
+.......
+....w..
+....w..
+....R..
+....R..
+...Rww.
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 3 after 153ms
+.......
+....w..
+....w..
+....R..
+...RR..
+...Rww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 4 after 2ms
+....w..
+....w..
+....w..
+....R..
+...RR..
+...Rww.
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Square piece at column 5 after 152ms
+....w..
+....w..
+....w..
+....R..
+...RRR.
+...Rww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) placed a Round piece at column 5 after 2ms
+....w..
+....w..
+....w..
+....Rw.
+...RRR.
+...Rww.
+
+BenchmarkA (Red) turn
+BenchmarkA (Red) placed a Round piece at column 2 after 152ms
+....w..
+....w..
+....w..
+....Rw.
+...RRR.
+..rRww.
+
+G12NoName_v1 (White) turn
+G12NoName_v1 (White) loses match! Reason: Thinker unable to perform move
+....w..
+....w..
+....w..
+....Rw.
+...RRR.
+..rRww.
+
+Winner is BenchmarkA (Red)

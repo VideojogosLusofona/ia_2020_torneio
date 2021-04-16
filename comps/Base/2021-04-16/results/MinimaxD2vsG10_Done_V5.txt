@@ -1,0 +1,241 @@
+=> MinimaxD2 (White) vs G10_Done_V5 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 43ms
+.......
+.......
+.......
+.......
+.......
+r....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.......
+.....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 41ms
+.......
+.......
+.......
+.......
+r....w.
+r....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.......
+.......
+.....w.
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 5 after 34ms
+.......
+.......
+.....R.
+.....w.
+r....w.
+r....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 0 after 42ms
+.......
+.....w.
+.....R.
+R....w.
+r....w.
+r....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 3ms
+.......
+.....w.
+w....R.
+R....w.
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 44ms
+.......
+r....w.
+w....R.
+R....w.
+r....w.
+r....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.....w.
+r....w.
+w....R.
+R....w.
+r....w.
+r....w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 0 after 27ms
+r....w.
+r....w.
+w....R.
+R....w.
+r....w.
+r....w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 1ms
+r....w.
+r....w.
+w....R.
+R....w.
+r....w.
+rw...w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 1 after 17ms
+r....w.
+r....w.
+w....R.
+R....w.
+rr...w.
+rw...w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 1ms
+r....w.
+r....w.
+w....R.
+Rw...w.
+rr...w.
+rw...w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 1 after 14ms
+r....w.
+r....w.
+wR...R.
+Rw...w.
+rr...w.
+rw...w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 1ms
+r....w.
+rw...w.
+wR...R.
+Rw...w.
+rr...w.
+rw...w.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 1 after 16ms
+rr...w.
+rw...w.
+wR...R.
+Rw...w.
+rr...w.
+rw...w.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 1ms
+rr...w.
+rw...w.
+wR...R.
+Rw...w.
+rr...w.
+rw..ww.
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 4 after 4ms
+rr...w.
+rw...w.
+wR...R.
+Rw...w.
+rr..rw.
+rw..ww.
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
+rr...w.
+rw...w.
+wR...R.
+Rw...w.
+rr..rw.
+rw..wwW
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Round piece at column 3 after 4ms
+rr...w.
+rw...w.
+wR...R.
+Rw...w.
+rr..rw.
+rw.rwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
+rr...w.
+rw...w.
+wR...R.
+Rw...w.
+rr..rwW
+rw.rwwW
+
+G10_Done_V5 (Red) turn
+G10_Done_V5 (Red) placed a Square piece at column 6 after 4ms
+rr...w.
+rw...w.
+wR...R.
+Rw...wR
+rr..rwW
+rw.rwwW
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 6 after 0ms
+rr...w.
+rw...w.
+wR...RW
+Rw...wR
+rr..rwW
+rw.rwwW
+
+Winner is G10_Done_V5 (Red)
+Solution=(0,6)(1,6)(2,6)(3,6)

@@ -1,0 +1,160 @@
+=> Random (White) vs G04_Hal_V5 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+Random (White) turn
+Random (White) placed a Round piece at column 6 after 0ms
+.......
+.......
+.......
+.......
+.......
+......w
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 6 after 10ms
+.......
+.......
+.......
+.......
+......R
+......w
+
+Random (White) turn
+Random (White) placed a Round piece at column 0 after 0ms
+.......
+.......
+.......
+.......
+......R
+w.....w
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 0 after 15ms
+.......
+.......
+.......
+.......
+R.....R
+w.....w
+
+Random (White) turn
+Random (White) placed a Square piece at column 6 after 0ms
+.......
+.......
+.......
+......W
+R.....R
+w.....w
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 6 after 13ms
+.......
+.......
+......R
+......W
+R.....R
+w.....w
+
+Random (White) turn
+Random (White) placed a Round piece at column 6 after 0ms
+.......
+......w
+......R
+......W
+R.....R
+w.....w
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 6 after 16ms
+......R
+......w
+......R
+......W
+R.....R
+w.....w
+
+Random (White) turn
+Random (White) placed a Square piece at column 5 after 0ms
+......R
+......w
+......R
+......W
+R.....R
+w....Ww
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 4 after 6ms
+......R
+......w
+......R
+......W
+R.....R
+w...RWw
+
+Random (White) turn
+Random (White) placed a Round piece at column 4 after 0ms
+......R
+......w
+......R
+......W
+R...w.R
+w...RWw
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 5 after 6ms
+......R
+......w
+......R
+......W
+R...wRR
+w...RWw
+
+Random (White) turn
+Random (White) placed a Round piece at column 2 after 0ms
+......R
+......w
+......R
+......W
+R...wRR
+w.w.RWw
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 5 after 7ms
+......R
+......w
+......R
+.....RW
+R...wRR
+w.w.RWw
+
+Random (White) turn
+Random (White) placed a Round piece at column 4 after 0ms
+......R
+......w
+......R
+....wRW
+R...wRR
+w.w.RWw
+
+G04_Hal_V5 (Red) turn
+G04_Hal_V5 (Red) placed a Square piece at column 5 after 15ms
+......R
+......w
+.....RR
+....wRW
+R...wRR
+w.w.RWw
+
+Winner is G04_Hal_V5 (Red)
+Solution=(0,5)(1,5)(2,5)(3,5)
