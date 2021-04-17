@@ -1,0 +1,234 @@
+=> G02_G8KEEPER_V0.7 (White) vs G01_PunksNotDead_v3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 5 after 4ms
+.......
+.......
+.......
+.......
+.......
+.....w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 7.042 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 7ms
+.......
+.......
+.......
+.......
+.......
+R....w.
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 0 after 2ms
+.......
+.......
+.......
+.......
+w......
+R....w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.6998 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 0 after 3ms
+.......
+.......
+.......
+R......
+w......
+R....w.
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 0 after 0ms
+.......
+.......
+w......
+R......
+w......
+R....w.
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.7748 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.......
+.......
+w......
+R......
+w......
+R....wR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 0 after 2ms
+.......
+w......
+w......
+R......
+w......
+R....wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.4312 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.......
+w......
+w......
+R......
+w.....R
+R....wR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 6 after 2ms
+.......
+w......
+w......
+R.....w
+w.....R
+R....wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.4973 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.......
+w......
+w.....R
+R.....w
+w.....R
+R....wR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 1 after 1ms
+.......
+w......
+w.....R
+R.....w
+w.....R
+Rw...wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.7308 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+.......
+w.....R
+w.....R
+R.....w
+w.....R
+Rw...wR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 5 after 1ms
+.......
+w.....R
+w.....R
+R.....w
+w....wR
+Rw...wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 3.5941 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 6 after 3ms
+......R
+w.....R
+w.....R
+R.....w
+w....wR
+Rw...wR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 0 after 1ms
+w.....R
+w.....R
+w.....R
+R.....w
+w....wR
+Rw...wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.3287 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 2ms
+w.....R
+w.....R
+w.....R
+R....Rw
+w....wR
+Rw...wR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 5 after 1ms
+w.....R
+w.....R
+w....wR
+R....Rw
+w....wR
+Rw...wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 2.3381 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 5 after 2ms
+w.....R
+w....RR
+w....wR
+R....Rw
+w....wR
+Rw...wR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Round piece at column 5 after 1ms
+w....wR
+w....RR
+w....wR
+R....Rw
+w....wR
+Rw...wR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 1.4915 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 4 after 1ms
+w....wR
+w....RR
+w....wR
+R....Rw
+w....wR
+Rw..RwR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Square piece at column 2 after 0ms
+w....wR
+w....RR
+w....wR
+R....Rw
+w....wR
+RwW.RwR
+
+G01_PunksNotDead_v3 (Red) turn
+PunksNotDead took 0.8363 ms
+G01_PunksNotDead_v3 (Red) placed a Square piece at column 3 after 0ms
+w....wR
+w....RR
+w....wR
+R....Rw
+w....wR
+RwWRRwR
+
+G02_G8KEEPER_V0.7 (White) turn
+G02_G8KEEPER_V0.7 (White) placed a Square piece at column 4 after 0ms
+w....wR
+w....RR
+w....wR
+R....Rw
+w...WwR
+RwWRRwR
+
+Winner is G01_PunksNotDead_v3 (Red)
+Solution=(0,3)(1,4)(2,5)(3,6)

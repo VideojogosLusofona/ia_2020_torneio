@@ -1,0 +1,696 @@
+=> MinimaxD2 (White) vs BenchmarkB (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 7 after 8ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......w.
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Round piece at column 8 after 270ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......wr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 16ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........w
+.......wr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 6 after 270ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........w
+......Rwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........w
+........w
+......Rwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 8 after 270ms
+.........
+.........
+.........
+.........
+.........
+.........
+........R
+........w
+........w
+......Rwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 17ms
+.........
+.........
+.........
+.........
+.........
+........w
+........R
+........w
+........w
+......Rwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 5 after 272ms
+.........
+.........
+.........
+.........
+.........
+........w
+........R
+........w
+........w
+.....RRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 10ms
+.........
+.........
+.........
+.........
+........w
+........w
+........R
+........w
+........w
+.....RRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 270ms
+.........
+.........
+.........
+.........
+........w
+........w
+........R
+........w
+........w
+....RRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 8 after 15ms
+.........
+.........
+.........
+........w
+........w
+........w
+........R
+........w
+........w
+....RRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 3 after 270ms
+.........
+.........
+.........
+........w
+........w
+........w
+........R
+........w
+........w
+...RRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 9ms
+.........
+.........
+.........
+........w
+........w
+........w
+........R
+........w
+........w
+..wRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 5 after 270ms
+.........
+.........
+.........
+........w
+........w
+........w
+........R
+........w
+.....R..w
+..wRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 15ms
+.........
+.........
+.........
+........w
+........w
+........w
+........R
+.....w..w
+.....R..w
+..wRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 270ms
+.........
+.........
+.........
+........w
+........w
+........w
+........R
+.....w..w
+....RR..w
+..wRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 22ms
+.........
+.........
+.........
+........w
+........w
+........w
+.....w..R
+.....w..w
+....RR..w
+..wRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 3 after 270ms
+.........
+.........
+.........
+........w
+........w
+........w
+.....w..R
+.....w..w
+...RRR..w
+..wRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 10ms
+.........
+.........
+.........
+........w
+........w
+.....w..w
+.....w..R
+.....w..w
+...RRR..w
+..wRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 2 after 270ms
+.........
+.........
+.........
+........w
+........w
+.....w..w
+.....w..R
+.....w..w
+..RRRR..w
+..wRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 16ms
+.........
+.........
+.........
+........w
+........w
+.....w..w
+.....w..R
+.....w..w
+..RRRRw.w
+..wRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Round piece at column 1 after 270ms
+.........
+.........
+.........
+........w
+........w
+.....w..w
+.....w..R
+.....w..w
+..RRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 1 after 11ms
+.........
+.........
+.........
+........w
+........w
+.....w..w
+.....w..R
+.....w..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 270ms
+.........
+.........
+.........
+........w
+........w
+.....w..w
+.....w..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 11ms
+.........
+.........
+.........
+........w
+.....w..w
+.....w..w
+.....w..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 5 after 270ms
+.........
+.........
+.........
+.....R..w
+.....w..w
+.....w..w
+.....w..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 12ms
+.........
+.........
+.....w...
+.....R..w
+.....w..w
+.....w..w
+.....w..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 270ms
+.........
+.........
+.....w...
+.....R..w
+.....w..w
+.....w..w
+....Rw..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 10ms
+.........
+.........
+.....w...
+.....R..w
+.....w..w
+....ww..w
+....Rw..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 8 after 270ms
+.........
+.........
+.....w..R
+.....R..w
+.....w..w
+....ww..w
+....Rw..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 18ms
+.........
+.........
+.....w..R
+.....R..w
+....ww..w
+....ww..w
+....Rw..R
+....Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 1 after 270ms
+.........
+.........
+.....w..R
+.....R..w
+....ww..w
+....ww..w
+....Rw..R
+.R..Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 11ms
+.........
+.........
+.....w..R
+....wR..w
+....ww..w
+....ww..w
+....Rw..R
+.R..Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 2 after 270ms
+.........
+.........
+.....w..R
+....wR..w
+....ww..w
+....ww..w
+....Rw..R
+.RR.Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 4 after 12ms
+.........
+.........
+....ww..R
+....wR..w
+....ww..w
+....ww..w
+....Rw..R
+.RR.Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 270ms
+.........
+....R....
+....ww..R
+....wR..w
+....ww..w
+....ww..w
+....Rw..R
+.RR.Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 16ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+....ww..w
+....Rw..R
+.RR.Rw..w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 6 after 270ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+....ww..w
+....Rw..R
+.RR.RwR.w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 11ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+....ww..w
+....Rww.R
+.RR.RwR.w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 3 after 270ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+....ww..w
+....Rww.R
+.RRRRwR.w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 6 after 11ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+....www.w
+....Rww.R
+.RRRRwR.w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 3 after 270ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+....www.w
+...RRww.R
+.RRRRwR.w
+.wRRRRw.w
+.rwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 18ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+...wwww.w
+...RRww.R
+.RRRRwR.w
+.wRRRRw.w
+.rwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 0 after 270ms
+.........
+....Rw...
+....ww..R
+....wR..w
+....ww..w
+...wwww.w
+...RRww.R
+.RRRRwR.w
+.wRRRRw.w
+RrwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 12ms
+.........
+....Rw...
+....ww..R
+....wR..w
+...www..w
+...wwww.w
+...RRww.R
+.RRRRwR.w
+.wRRRRw.w
+RrwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Round piece at column 0 after 270ms
+.........
+....Rw...
+....ww..R
+....wR..w
+...www..w
+...wwww.w
+...RRww.R
+.RRRRwR.w
+rwRRRRw.w
+RrwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 0 after 12ms
+.........
+....Rw...
+....ww..R
+....wR..w
+...www..w
+...wwww.w
+...RRww.R
+wRRRRwR.w
+rwRRRRw.w
+RrwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 1 after 270ms
+.........
+....Rw...
+....ww..R
+....wR..w
+...www..w
+...wwww.w
+.R.RRww.R
+wRRRRwR.w
+rwRRRRw.w
+RrwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 3 after 12ms
+.........
+....Rw...
+....ww..R
+...wwR..w
+...www..w
+...wwww.w
+.R.RRww.R
+wRRRRwR.w
+rwRRRRw.w
+RrwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 0 after 270ms
+.........
+....Rw...
+....ww..R
+...wwR..w
+...www..w
+...wwww.w
+RR.RRww.R
+wRRRRwR.w
+rwRRRRw.w
+RrwRRRRwr
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Square piece at column 8 after 16ms
+.........
+....Rw..W
+....ww..R
+...wwR..w
+...www..w
+...wwww.w
+RR.RRww.R
+wRRRRwR.w
+rwRRRRw.w
+RrwRRRRwr
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 0 after 270ms
+.........
+....Rw..W
+....ww..R
+...wwR..w
+...www..w
+R..wwww.w
+RR.RRww.R
+wRRRRwR.w
+rwRRRRw.w
+RrwRRRRwr
+
+Winner is BenchmarkB (Red)
+Solution=(0,4)(1,3)(2,2)(3,1)(4,0)
