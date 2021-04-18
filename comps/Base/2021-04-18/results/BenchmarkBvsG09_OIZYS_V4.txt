@@ -1,0 +1,268 @@
+=> BenchmarkB (White) vs G09_OIZYS_V4 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 3 after 180ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 1 after 7ms
+.......
+.......
+.......
+.......
+.......
+.R.w...
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 6 after 180ms
+.......
+.......
+.......
+.......
+.......
+.R.w..w
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 7ms
+.......
+.......
+.......
+.......
+...R...
+.R.w..w
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 4 after 180ms
+.......
+.......
+.......
+.......
+...R...
+.R.ww.w
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 5 after 15ms
+.......
+.......
+.......
+.......
+...R...
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 6 after 180ms
+.......
+.......
+.......
+.......
+...R..w
+.R.wwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 14ms
+.......
+.......
+.......
+.......
+...RR.w
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 6 after 180ms
+.......
+.......
+.......
+......w
+...RR.w
+.R.wwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 6 after 24ms
+.......
+.......
+......R
+......w
+...RR.w
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 4 after 180ms
+.......
+.......
+......R
+....w.w
+...RR.w
+.R.wwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 5 after 16ms
+.......
+.......
+......R
+....w.w
+...RRRw
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 5 after 180ms
+.......
+.......
+......R
+....www
+...RRRw
+.R.wwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 9ms
+.......
+.......
+......R
+...Rwww
+...RRRw
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 4 after 180ms
+.......
+.......
+....w.R
+...Rwww
+...RRRw
+.R.wwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 17ms
+.......
+....R..
+....w.R
+...Rwww
+...RRRw
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 5 after 180ms
+.......
+....R..
+....wwR
+...Rwww
+...RRRw
+.R.wwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 5 after 9ms
+.......
+....RR.
+....wwR
+...Rwww
+...RRRw
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 3 after 180ms
+.......
+....RR.
+...wwwR
+...Rwww
+...RRRw
+.R.wwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 3ms
+.......
+...RRR.
+...wwwR
+...Rwww
+...RRRw
+.R.wwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Square piece at column 2 after 180ms
+.......
+...RRR.
+...wwwR
+...Rwww
+...RRRw
+.RWwwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Round piece at column 0 after 0ms
+.......
+...RRR.
+...wwwR
+...Rwww
+...RRRw
+rRWwwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Square piece at column 4 after 180ms
+....W..
+...RRR.
+...wwwR
+...Rwww
+...RRRw
+rRWwwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Round piece at column 0 after 0ms
+....W..
+...RRR.
+...wwwR
+...Rwww
+r..RRRw
+rRWwwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Square piece at column 1 after 180ms
+....W..
+...RRR.
+...wwwR
+...Rwww
+rW.RRRw
+rRWwwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Round piece at column 0 after 0ms
+....W..
+...RRR.
+...wwwR
+r..Rwww
+rW.RRRw
+rRWwwRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Square piece at column 1 after 180ms
+....W..
+...RRR.
+...wwwR
+rW.Rwww
+rW.RRRw
+rRWwwRw
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 0 after 0ms
+....W..
+...RRR.
+R..wwwR
+rW.Rwww
+rW.RRRw
+rRWwwRw
+
+Winner is G09_OIZYS_V4 (Red)
+Solution=(0,0)(1,0)(2,0)(3,0)

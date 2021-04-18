@@ -1,0 +1,243 @@
+=> BenchmarkA (White) vs G01_PunksNotDead_v6 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 3 after 152ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.8806 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 0 after 3ms
+.......
+.......
+.......
+.......
+.......
+R..w...
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 1 after 155ms
+.......
+.......
+.......
+.......
+.......
+Rw.w...
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 32.2751 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 32ms
+.......
+.......
+.......
+.......
+.......
+Rw.w..R
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 5 after 153ms
+.......
+.......
+.......
+.......
+.......
+Rw.w.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 43.8445 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 43ms
+.......
+.......
+.......
+.......
+......R
+Rw.w.wR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 6 after 152ms
+.......
+.......
+.......
+......w
+......R
+Rw.w.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 45.0474 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 45ms
+.......
+.......
+......R
+......w
+......R
+Rw.w.wR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 1 after 152ms
+.......
+.......
+......R
+......w
+.w....R
+Rw.w.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 44.4644 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 44ms
+.......
+......R
+......R
+......w
+.w....R
+Rw.w.wR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 5 after 152ms
+.......
+......R
+......R
+......w
+.w...wR
+Rw.w.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 42.4164 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 42ms
+......R
+......R
+......R
+......w
+.w...wR
+Rw.w.wR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 1 after 153ms
+......R
+......R
+......R
+.w....w
+.w...wR
+Rw.w.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 20.9711 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 1 after 21ms
+......R
+......R
+.R....R
+.w....w
+.w...wR
+Rw.w.wR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 5 after 152ms
+......R
+......R
+.R....R
+.w...ww
+.w...wR
+Rw.w.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 22.1482 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 5 after 22ms
+......R
+......R
+.R...RR
+.w...ww
+.w...wR
+Rw.w.wR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Round piece at column 5 after 152ms
+......R
+.....wR
+.R...RR
+.w...ww
+.w...wR
+Rw.w.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 27.3104 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 5 after 27ms
+.....RR
+.....wR
+.R...RR
+.w...ww
+.w...wR
+Rw.w.wR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Square piece at column 2 after 151ms
+.....RR
+.....wR
+.R...RR
+.w...ww
+.w...wR
+RwWw.wR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 14.5352 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 4 after 14ms
+.....RR
+.....wR
+.R...RR
+.w...ww
+.w...wR
+RwWwRwR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Square piece at column 1 after 151ms
+.....RR
+.W...wR
+.R...RR
+.w...ww
+.w...wR
+RwWwRwR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 10.5464 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 4 after 10ms
+.....RR
+.W...wR
+.R...RR
+.w...ww
+.w..RwR
+RwWwRwR
+
+BenchmarkA (White) turn
+BenchmarkA (White) placed a Square piece at column 3 after 151ms
+.....RR
+.W...wR
+.R...RR
+.w...ww
+.w.WRwR
+RwWwRwR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 2.9711 ms
+G01_PunksNotDead_v6 (Red) loses match! Reason: Thinker exception: 'No more RedSquare pieces available'
+.....RR
+.W...wR
+.R...RR
+.w...ww
+.w.WRwR
+RwWwRwR
+
+Winner is BenchmarkA (White)

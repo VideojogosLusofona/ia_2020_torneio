@@ -1,0 +1,243 @@
+=> G02_G8KEEPER_V0.9 (White) vs G01_PunksNotDead_v6 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 3 after 7ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 5.1255 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 0 after 5ms
+.......
+.......
+.......
+.......
+.......
+R..w...
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 3 after 5ms
+.......
+.......
+.......
+.......
+...w...
+R..w...
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.9532 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 3 after 3ms
+.......
+.......
+.......
+...R...
+...w...
+R..w...
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 3 after 4ms
+.......
+.......
+...w...
+...R...
+...w...
+R..w...
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 4.1479 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 3 after 4ms
+.......
+...R...
+...w...
+...R...
+...w...
+R..w...
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 3 after 4ms
+...w...
+...R...
+...w...
+...R...
+...w...
+R..w...
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.2056 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 3ms
+...w...
+...R...
+...w...
+...R...
+...w...
+R..w..R
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Square piece at column 6 after 3ms
+...w...
+...R...
+...w...
+...R...
+...w..W
+R..w..R
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.1477 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 3ms
+...w...
+...R...
+...w...
+...R..R
+...w..W
+R..w..R
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 6 after 5ms
+...w...
+...R...
+...w..w
+...R..R
+...w..W
+R..w..R
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.1863 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 3ms
+...w...
+...R..R
+...w..w
+...R..R
+...w..W
+R..w..R
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Square piece at column 0 after 3ms
+...w...
+...R..R
+...w..w
+...R..R
+W..w..W
+R..w..R
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.1086 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 6 after 3ms
+...w..R
+...R..R
+...w..w
+...R..R
+W..w..W
+R..w..R
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Square piece at column 5 after 2ms
+...w..R
+...R..R
+...w..w
+...R..R
+W..w..W
+R..w.WR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.212 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 5 after 3ms
+...w..R
+...R..R
+...w..w
+...R..R
+W..w.RW
+R..w.WR
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Square piece at column 1 after 2ms
+...w..R
+...R..R
+...w..w
+...R..R
+W..w.RW
+RW.w.WR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.872 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 5 after 3ms
+...w..R
+...R..R
+...w..w
+...R.RR
+W..w.RW
+RW.w.WR
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 5 after 3ms
+...w..R
+...R..R
+...w.ww
+...R.RR
+W..w.RW
+RW.w.WR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 3.9384 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 5 after 4ms
+...w..R
+...R.RR
+...w.ww
+...R.RR
+W..w.RW
+RW.w.WR
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 5 after 3ms
+...w.wR
+...R.RR
+...w.ww
+...R.RR
+W..w.RW
+RW.w.WR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 4.0139 ms
+G01_PunksNotDead_v6 (Red) placed a Square piece at column 4 after 4ms
+...w.wR
+...R.RR
+...w.ww
+...R.RR
+W..w.RW
+RW.wRWR
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Square piece at column 2 after 1ms
+...w.wR
+...R.RR
+...w.ww
+...R.RR
+W..w.RW
+RWWwRWR
+
+G01_PunksNotDead_v6 (Red) turn
+PunksNotDead took 1.9235 ms
+G01_PunksNotDead_v6 (Red) loses match! Reason: Thinker exception: 'No more RedSquare pieces available'
+...w.wR
+...R.RR
+...w.ww
+...R.RR
+W..w.RW
+RWWwRWR
+
+Winner is G02_G8KEEPER_V0.9 (White)

@@ -1,0 +1,1085 @@
+=> G08KD6-3.7V2 (White) vs G12_NoName_v2.2 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 2 after 294ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+..w......
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+..w...R..
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 1 after 295ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.ww...R..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 1 after 4ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.R.......
+.ww...R..
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 2 after 294ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.RW......
+.ww...R..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 7 after 4ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.RW......
+.ww...RR.
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 3 after 295ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.RW......
+.www..RR.
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 4 after 10ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.RW......
+.wwwR.RR.
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 8 after 294ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.RW......
+.wwwR.RRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 3 after 4ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.RWR.....
+.wwwR.RRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 4 after 295ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.RWRw....
+.wwwR.RRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 5ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+..R......
+.RWRw....
+.wwwR.RRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 6 after 294ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+..R......
+.RWRw.w..
+.wwwR.RRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 5ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+..R...R..
+.RWRw.w..
+.wwwR.RRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 8 after 294ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+..R...R..
+.RWRw.w.w
+.wwwR.RRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 11ms
+.........
+.........
+.........
+.........
+.........
+.........
+......R..
+..R...R..
+.RWRw.w.w
+.wwwR.RRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 5 after 294ms
+.........
+.........
+.........
+.........
+.........
+.........
+......R..
+..R...R..
+.RWRw.w.w
+.wwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 6ms
+.........
+.........
+.........
+.........
+.........
+......R..
+......R..
+..R...R..
+.RWRw.w.w
+.wwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 7 after 294ms
+.........
+.........
+.........
+.........
+.........
+......R..
+......R..
+..R...R..
+.RWRw.www
+.wwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 12ms
+.........
+.........
+.........
+.........
+.........
+......R..
+......R..
+..R...R..
+.RWRwRwww
+.wwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 0 after 294ms
+.........
+.........
+.........
+.........
+.........
+......R..
+......R..
+..R...R..
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 7ms
+.........
+.........
+.........
+.........
+......R..
+......R..
+......R..
+..R...R..
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 6 after 294ms
+.........
+.........
+.........
+......w..
+......R..
+......R..
+......R..
+..R...R..
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 6ms
+.........
+.........
+......R..
+......w..
+......R..
+......R..
+......R..
+..R...R..
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 4 after 294ms
+.........
+.........
+......R..
+......w..
+......R..
+......R..
+......R..
+..R.w.R..
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 7ms
+.........
+.........
+......R..
+......w..
+......R..
+......R..
+..R...R..
+..R.w.R..
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 4 after 295ms
+.........
+.........
+......R..
+......w..
+......R..
+......R..
+..R.w.R..
+..R.w.R..
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 8ms
+.........
+.........
+......R..
+......w..
+......R..
+..R...R..
+..R.w.R..
+..R.w.R..
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 2 after 294ms
+.........
+.........
+......R..
+......w..
+..w...R..
+..R...R..
+..R.w.R..
+..R.w.R..
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 8ms
+.........
+.........
+......R..
+..R...w..
+..w...R..
+..R...R..
+..R.w.R..
+..R.w.R..
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 5 after 294ms
+.........
+.........
+......R..
+..R...w..
+..w...R..
+..R...R..
+..R.w.R..
+..R.wwR..
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 9ms
+.........
+.........
+......R..
+..R...w..
+..w...R..
+..R...R..
+..R.wRR..
+..R.wwR..
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 7 after 295ms
+.........
+.........
+......R..
+..R...w..
+..w...R..
+..R...R..
+..R.wRR..
+..R.wwRw.
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 9ms
+.........
+.........
+......R..
+..R...w..
+..w...R..
+..R..RR..
+..R.wRR..
+..R.wwRw.
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 8 after 294ms
+.........
+.........
+......R..
+..R...w..
+..w...R..
+..R..RR..
+..R.wRR..
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 17ms
+.........
+.........
+......R..
+..R...w..
+..w..RR..
+..R..RR..
+..R.wRR..
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 4 after 294ms
+.........
+.........
+......R..
+..R...w..
+..w..RR..
+..R.wRR..
+..R.wRR..
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 4 after 5ms
+.........
+.........
+......R..
+..R...w..
+..w.RRR..
+..R.wRR..
+..R.wRR..
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 7 after 294ms
+.........
+.........
+......R..
+..R...w..
+..w.RRR..
+..R.wRR..
+..R.wRRw.
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 8ms
+.........
+.........
+......R..
+..R..Rw..
+..w.RRR..
+..R.wRR..
+..R.wRRw.
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 5 after 294ms
+.........
+.........
+.....wR..
+..R..Rw..
+..w.RRR..
+..R.wRR..
+..R.wRRw.
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 4 after 14ms
+.........
+.........
+.....wR..
+..R.RRw..
+..w.RRR..
+..R.wRR..
+..R.wRRw.
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 8 after 294ms
+.........
+.........
+.....wR..
+..R.RRw..
+..w.RRR..
+..R.wRR..
+..R.wRRww
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 8 after 14ms
+.........
+.........
+.....wR..
+..R.RRw..
+..w.RRR..
+..R.wRR.R
+..R.wRRww
+..R.wwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 3 after 294ms
+.........
+.........
+.....wR..
+..R.RRw..
+..w.RRR..
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 4 after 8ms
+.........
+.........
+....RwR..
+..R.RRw..
+..w.RRR..
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 4 after 294ms
+.........
+....w....
+....RwR..
+..R.RRw..
+..w.RRR..
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 5ms
+.........
+....w....
+..R.RwR..
+..R.RRw..
+..w.RRR..
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 2 after 294ms
+.........
+..W.w....
+..R.RwR..
+..R.RRw..
+..w.RRR..
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 7ms
+.........
+..W.wR...
+..R.RwR..
+..R.RRw..
+..w.RRR..
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 8 after 294ms
+.........
+..W.wR...
+..R.RwR..
+..R.RRw..
+..w.RRR.w
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 5 after 4ms
+.....r...
+..W.wR...
+..R.RwR..
+..R.RRw..
+..w.RRR.w
+..R.wRR.R
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 7 after 294ms
+.....r...
+..W.wR...
+..R.RwR..
+..R.RRw..
+..w.RRR.w
+..R.wRRwR
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 7 after 8ms
+.....r...
+..W.wR...
+..R.RwR..
+..R.RRw..
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+..RwwwRww
+.RWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 0 after 296ms
+.....r...
+..W.wR...
+..R.RwR..
+..R.RRw..
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+..RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 6 after 9ms
+.....r...
+..W.wRr..
+..R.RwR..
+..R.RRw..
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+..RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 0 after 294ms
+.....r...
+..W.wRr..
+..R.RwR..
+..R.RRw..
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 6 after 3ms
+.....rr..
+..W.wRr..
+..R.RwR..
+..R.RRw..
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 4 after 294ms
+....wrr..
+..W.wRr..
+..R.RwR..
+..R.RRw..
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 2 after 5ms
+..r.wrr..
+..W.wRr..
+..R.RwR..
+..R.RRw..
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 8 after 294ms
+..r.wrr..
+..W.wRr..
+..R.RwR..
+..R.RRw.W
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 2ms
+..r.wrr..
+..W.wRr..
+..R.RwR.r
+..R.RRw.W
+..w.RRRRw
+..R.wRRwR
+..R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 0 after 294ms
+..r.wrr..
+..W.wRr..
+..R.RwR.r
+..R.RRw.W
+..w.RRRRw
+..R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 0 after 1ms
+..r.wrr..
+..W.wRr..
+..R.RwR.r
+..R.RRw.W
+..w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 7 after 294ms
+..r.wrr..
+..W.wRr..
+..R.RwR.r
+..R.RRwWW
+..w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 2ms
+..r.wrr..
+..W.wRr.r
+..R.RwR.r
+..R.RRwWW
+..w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 8 after 294ms
+..r.wrr.w
+..W.wRr.r
+..R.RwR.r
+..R.RRwWW
+..w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 0 after 1ms
+..r.wrr.w
+..W.wRr.r
+..R.RwR.r
+..R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 7 after 294ms
+..r.wrr.w
+..W.wRr.r
+..R.RwRWr
+..R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 0 after 1ms
+..r.wrr.w
+..W.wRr.r
+..R.RwRWr
+r.R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Round piece at column 0 after 294ms
+..r.wrr.w
+..W.wRr.r
+w.R.RwRWr
+r.R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 0 after 0ms
+..r.wrr.w
+R.W.wRr.r
+w.R.RwRWr
+r.R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 0 after 294ms
+W.r.wrr.w
+R.W.wRr.r
+w.R.RwRWr
+r.R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+w.RwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 1 after 2ms
+W.r.wrr.w
+R.W.wRr.r
+w.R.RwRWr
+r.R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+W.R.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 1 after 294ms
+W.r.wrr.w
+R.W.wRr.r
+w.R.RwRWr
+r.R.RRwWW
+r.w.RRRRw
+r.R.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 1 after 1ms
+W.r.wrr.w
+R.W.wRr.r
+w.R.RwRWr
+r.R.RRwWW
+r.w.RRRRw
+rrR.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 1 after 294ms
+W.r.wrr.w
+R.W.wRr.r
+w.R.RwRWr
+r.R.RRwWW
+rWw.RRRRw
+rrR.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 1 after 1ms
+W.r.wrr.w
+R.W.wRr.r
+w.R.RwRWr
+rrR.RRwWW
+rWw.RRRRw
+rrR.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 1 after 294ms
+W.r.wrr.w
+R.W.wRr.r
+wWR.RwRWr
+rrR.RRwWW
+rWw.RRRRw
+rrR.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Round piece at column 1 after 2ms
+W.r.wrr.w
+RrW.wRr.r
+wWR.RwRWr
+rrR.RRwWW
+rWw.RRRRw
+rrR.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G08KD6-3.7V2 (White) turn
+G08KD6-3.7V2 (White) placed a Square piece at column 1 after 294ms
+WWr.wrr.w
+RrW.wRr.r
+wWR.RwRWr
+rrR.RRwWW
+rWw.RRRRw
+rrR.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) loses match! Reason: Thinker unable to perform move
+WWr.wrr.w
+RrW.wRr.r
+wWR.RwRWr
+rrR.RRwWW
+rWw.RRRRw
+rrR.wRRwR
+WWR.wRRww
+wrRwwwRww
+WRWRwRwww
+wwwwRwRRw
+
+Winner is G08KD6-3.7V2 (White)

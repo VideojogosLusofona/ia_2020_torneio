@@ -1,0 +1,254 @@
+=> G02_G8KEEPER_V0.9 (White) vs G12_NoName_v2.2 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 6 after 18ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+......w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 4ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+......R..
+......w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 6 after 13ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+......w..
+......R..
+......w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 5ms
+.........
+.........
+.........
+.........
+.........
+.........
+......R..
+......w..
+......R..
+......w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 6 after 14ms
+.........
+.........
+.........
+.........
+.........
+......w..
+......R..
+......w..
+......R..
+......w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 8ms
+.........
+.........
+.........
+.........
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 6 after 13ms
+.........
+.........
+.........
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 6ms
+.........
+.........
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 6 after 7ms
+.........
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 4ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Square piece at column 1 after 5ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+.W....w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 3 after 3ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+.W.R..w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 3 after 6ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+...w..R..
+.W.R..w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 4 after 4ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+...w..R..
+.W.RR.w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Round piece at column 4 after 8ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+...ww.R..
+.W.RR.w..
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 4ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+...ww.R..
+.WRRR.w..
+
+G02_G8KEEPER_V0.9 (White) turn
+G02_G8KEEPER_V0.9 (White) placed a Square piece at column 8 after 14ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+...ww.R..
+.WRRR.w.W
+
+G12_NoName_v2.2 (Red) turn
+G12_NoName_v2.2 (Red) placed a Square piece at column 0 after 0ms
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+......R..
+......w..
+...ww.R..
+RWRRR.w.W
+
+Winner is G12_NoName_v2.2 (Red)
+Solution=(0,0)(0,1)(0,2)(0,3)(0,4)
