@@ -1,0 +1,267 @@
+=> G06_UwU_v3 (White) vs G09_OIZYS_V4 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 3 after 188ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 1 after 7ms
+.......
+.......
+.......
+.......
+.......
+.R.w...
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 3 after 188ms
+.......
+.......
+.......
+.......
+...w...
+.R.w...
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 9ms
+.......
+.......
+.......
+...R...
+...w...
+.R.w...
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 5 after 188ms
+.......
+.......
+.......
+...R...
+...w...
+.R.w.w.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 11ms
+.......
+.......
+.......
+...R...
+...w...
+.R.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 5 after 188ms
+.......
+.......
+.......
+...R...
+...w.w.
+.R.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 12ms
+.......
+.......
+...R...
+...R...
+...w.w.
+.R.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 4 after 188ms
+.......
+.......
+...R...
+...R...
+...www.
+.R.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 12ms
+.......
+...R...
+...R...
+...R...
+...www.
+.R.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 3 after 188ms
+...w...
+...R...
+...R...
+...R...
+...www.
+.R.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 5 after 10ms
+...w...
+...R...
+...R...
+...R.R.
+...www.
+.R.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 5 after 188ms
+...w...
+...R...
+...R.w.
+...R.R.
+...www.
+.R.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 7ms
+...w...
+...R...
+...R.w.
+...RRR.
+...www.
+.R.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 4 after 188ms
+...w...
+...R...
+...Rww.
+...RRR.
+...www.
+.R.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 7ms
+...w...
+...RR..
+...Rww.
+...RRR.
+...www.
+.R.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 5 after 188ms
+...w...
+...RRW.
+...Rww.
+...RRR.
+...www.
+.R.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 4 after 5ms
+...wR..
+...RRW.
+...Rww.
+...RRR.
+...www.
+.R.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 0 after 188ms
+...wR..
+...RRW.
+...Rww.
+...RRR.
+...www.
+WR.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 5 after 3ms
+...wRR.
+...RRW.
+...Rww.
+...RRR.
+...www.
+WR.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 1 after 188ms
+...wRR.
+...RRW.
+...Rww.
+...RRR.
+.w.www.
+WR.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Round piece at column 0 after 2ms
+...wRR.
+...RRW.
+...Rww.
+...RRR.
+rw.www.
+WR.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 0 after 188ms
+...wRR.
+...RRW.
+...Rww.
+w..RRR.
+rw.www.
+WR.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Round piece at column 0 after 1ms
+...wRR.
+...RRW.
+r..Rww.
+w..RRR.
+rw.www.
+WR.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 1 after 188ms
+...wRR.
+...RRW.
+r..Rww.
+wW.RRR.
+rw.www.
+WR.wRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) placed a Square piece at column 1 after 1ms
+...wRR.
+...RRW.
+rR.Rww.
+wW.RRR.
+rw.www.
+WR.wRw.
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 2 after 188ms
+...wRR.
+...RRW.
+rR.Rww.
+wW.RRR.
+rw.www.
+WRWwRw.
+
+G09_OIZYS_V4 (Red) turn
+G09_OIZYS_V4 (Red) loses match! Reason: Thinker unable to perform move
+...wRR.
+...RRW.
+rR.Rww.
+wW.RRR.
+rw.www.
+WRWwRw.
+
+Winner is G06_UwU_v3 (White)

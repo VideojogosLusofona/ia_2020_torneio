@@ -1,0 +1,207 @@
+=> G01_PunksNotDead_v7 (White) vs BenchmarkB (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 17.3785 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 3 after 17ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 180ms
+.......
+.......
+.......
+.......
+.......
+...wR..
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 13.1412 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 3 after 13ms
+.......
+.......
+.......
+.......
+...w...
+...wR..
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 180ms
+.......
+.......
+.......
+.......
+...wR..
+...wR..
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 18.1778 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 4 after 18ms
+.......
+.......
+.......
+....w..
+...wR..
+...wR..
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 3 after 180ms
+.......
+.......
+.......
+...Rw..
+...wR..
+...wR..
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 13.9445 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 3 after 14ms
+.......
+.......
+...w...
+...Rw..
+...wR..
+...wR..
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 6 after 180ms
+.......
+.......
+...w...
+...Rw..
+...wR..
+...wR.R
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 18.0042 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 3 after 18ms
+.......
+...w...
+...w...
+...Rw..
+...wR..
+...wR.R
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 1 after 180ms
+.......
+...w...
+...w...
+...Rw..
+...wR..
+.R.wR.R
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 17.0184 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 4 after 17ms
+.......
+...w...
+...ww..
+...Rw..
+...wR..
+.R.wR.R
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 6 after 180ms
+.......
+...w...
+...ww..
+...Rw..
+...wR.R
+.R.wR.R
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 21.853 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 4 after 21ms
+.......
+...ww..
+...ww..
+...Rw..
+...wR.R
+.R.wR.R
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 4 after 180ms
+....R..
+...ww..
+...ww..
+...Rw..
+...wR.R
+.R.wR.R
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 11.5975 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 3 after 11ms
+...wR..
+...ww..
+...ww..
+...Rw..
+...wR.R
+.R.wR.R
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 1 after 180ms
+...wR..
+...ww..
+...ww..
+...Rw..
+.R.wR.R
+.R.wR.R
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 8.6327 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Round piece at column 2 after 8ms
+...wR..
+...ww..
+...ww..
+...Rw..
+.R.wR.R
+.RwwR.R
+
+BenchmarkB (Red) turn
+BenchmarkB (Red) placed a Square piece at column 6 after 180ms
+...wR..
+...ww..
+...ww..
+...Rw.R
+.R.wR.R
+.RwwR.R
+
+G01_PunksNotDead_v7 (White) turn
+PunksNotDead took 8.1155 ms
+PunksNotDead evaluated 0 times.
+G01_PunksNotDead_v7 (White) placed a Square piece at column 6 after 8ms
+...wR..
+...ww..
+...ww.W
+...Rw.R
+.R.wR.R
+.RwwR.R
+
+Winner is BenchmarkB (Red)
+Solution=(0,6)(1,6)(2,6)(3,6)

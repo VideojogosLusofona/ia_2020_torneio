@@ -1,0 +1,222 @@
+=> G12_NoName_v2.2 (White) vs G06_UwU_v3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 1 after 1ms
+.......
+.......
+.......
+.......
+.......
+.w.....
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 2 after 188ms
+.......
+.......
+.......
+.......
+.......
+.wR....
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 4 after 1ms
+.......
+.......
+.......
+.......
+.......
+.wR.w..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 4 after 188ms
+.......
+.......
+.......
+.......
+....R..
+.wR.w..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 4 after 2ms
+.......
+.......
+.......
+....w..
+....R..
+.wR.w..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 4 after 188ms
+.......
+.......
+....R..
+....w..
+....R..
+.wR.w..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 4 after 1ms
+.......
+....w..
+....R..
+....w..
+....R..
+.wR.w..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 2 after 188ms
+.......
+....w..
+....R..
+....w..
+..R.R..
+.wR.w..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 4 after 2ms
+....w..
+....w..
+....R..
+....w..
+..R.R..
+.wR.w..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 2 after 188ms
+....w..
+....w..
+....R..
+..R.w..
+..R.R..
+.wR.w..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 2 after 0ms
+....w..
+....w..
+..w.R..
+..R.w..
+..R.R..
+.wR.w..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 3 after 188ms
+....w..
+....w..
+..w.R..
+..R.w..
+..R.R..
+.wRRw..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 2 after 1ms
+....w..
+..w.w..
+..w.R..
+..R.w..
+..R.R..
+.wRRw..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 1 after 188ms
+....w..
+..w.w..
+..w.R..
+..R.w..
+.RR.R..
+.wRRw..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Round piece at column 3 after 1ms
+....w..
+..w.w..
+..w.R..
+..R.w..
+.RRwR..
+.wRRw..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 0 after 188ms
+....w..
+..w.w..
+..w.R..
+..R.w..
+.RRwR..
+RwRRw..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Square piece at column 2 after 1ms
+..W.w..
+..w.w..
+..w.R..
+..R.w..
+.RRwR..
+RwRRw..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 1 after 188ms
+..W.w..
+..w.w..
+..w.R..
+.RR.w..
+.RRwR..
+RwRRw..
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Square piece at column 6 after 1ms
+..W.w..
+..w.w..
+..w.R..
+.RR.w..
+.RRwR..
+RwRRw.W
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 0 after 188ms
+..W.w..
+..w.w..
+..w.R..
+.RR.w..
+RRRwR..
+RwRRw.W
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) placed a Square piece at column 6 after 1ms
+..W.w..
+..w.w..
+..w.R..
+.RR.w..
+RRRwR.W
+RwRRw.W
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 0 after 188ms
+..W.w..
+..w.w..
+..w.R..
+RRR.w..
+RRRwR.W
+RwRRw.W
+
+G12_NoName_v2.2 (White) turn
+G12_NoName_v2.2 (White) loses match! Reason: Thinker unable to perform move
+..W.w..
+..w.w..
+..w.R..
+RRR.w..
+RRRwR.W
+RwRRw.W
+
+Winner is G06_UwU_v3 (Red)

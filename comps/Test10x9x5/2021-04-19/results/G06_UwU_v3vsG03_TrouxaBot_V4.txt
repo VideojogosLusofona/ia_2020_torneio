@@ -1,0 +1,800 @@
+=> G06_UwU_v3 (White) vs G03_TrouxaBot_V4 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 8 after 282ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........w
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 8 after 8ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........R
+........w
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 7 after 283ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........R
+.......ww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 8 after 15ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........R
+........R
+.......ww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 4 after 282ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+........R
+........R
+....w..ww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 8 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+........R
+........R
+........R
+....w..ww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 8 after 282ms
+.........
+.........
+.........
+.........
+.........
+........w
+........R
+........R
+........R
+....w..ww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 8 after 16ms
+.........
+.........
+.........
+.........
+........R
+........w
+........R
+........R
+........R
+....w..ww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 5 after 282ms
+.........
+.........
+.........
+.........
+........R
+........w
+........R
+........R
+........R
+....ww.ww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 9ms
+.........
+.........
+.........
+.........
+........R
+........w
+........R
+........R
+........R
+....wwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 5 after 282ms
+.........
+.........
+.........
+.........
+........R
+........w
+........R
+........R
+.....w..R
+....wwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 5 after 10ms
+.........
+.........
+.........
+.........
+........R
+........w
+........R
+.....R..R
+.....w..R
+....wwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 8 after 282ms
+.........
+.........
+.........
+........w
+........R
+........w
+........R
+.....R..R
+.....w..R
+....wwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 5 after 16ms
+.........
+.........
+.........
+........w
+........R
+........w
+.....R..R
+.....R..R
+.....w..R
+....wwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 6 after 282ms
+.........
+.........
+.........
+........w
+........R
+........w
+.....R..R
+.....R..R
+.....ww.R
+....wwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 5 after 10ms
+.........
+.........
+.........
+........w
+........R
+.....R..w
+.....R..R
+.....R..R
+.....ww.R
+....wwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 5 after 282ms
+.........
+.........
+.........
+........w
+.....w..R
+.....R..w
+.....R..R
+.....R..R
+.....ww.R
+....wwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 5 after 17ms
+.........
+.........
+.........
+.....R..w
+.....w..R
+.....R..w
+.....R..R
+.....R..R
+.....ww.R
+....wwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 6 after 282ms
+.........
+.........
+.........
+.....R..w
+.....w..R
+.....R..w
+.....R..R
+.....Rw.R
+.....ww.R
+....wwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 5 after 10ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....R..w
+.....R..R
+.....Rw.R
+.....ww.R
+....wwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 2 after 282ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....R..w
+.....R..R
+.....Rw.R
+.....ww.R
+..w.wwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 19ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....R..w
+.....RR.R
+.....Rw.R
+.....ww.R
+..w.wwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 1 after 282ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....R..w
+.....RR.R
+.....Rw.R
+.....ww.R
+.ww.wwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 9ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....R..w
+.....RR.R
+.....Rw.R
+.....ww.R
+.wwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 7 after 282ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....R..w
+.....RR.R
+.....Rw.R
+.....wwwR
+.wwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 18ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....RR.w
+.....RR.R
+.....Rw.R
+.....wwwR
+.wwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 3 after 282ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....RR.w
+.....RR.R
+.....Rw.R
+...w.wwwR
+.wwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 4 after 10ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....RR.w
+.....RR.R
+.....Rw.R
+...wRwwwR
+.wwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 1 after 282ms
+.........
+.........
+.....R...
+.....R..w
+.....w..R
+.....RR.w
+.....RR.R
+.....Rw.R
+.w.wRwwwR
+.wwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 19ms
+.........
+.........
+.....R...
+.....R..w
+.....wR.R
+.....RR.w
+.....RR.R
+.....Rw.R
+.w.wRwwwR
+.wwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 6 after 283ms
+.........
+.........
+.....R...
+.....Rw.w
+.....wR.R
+.....RR.w
+.....RR.R
+.....Rw.R
+.w.wRwwwR
+.wwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 11ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.....RR.w
+.....RR.R
+.....Rw.R
+.w.wRwwwR
+.wwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 0 after 283ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.....RR.w
+.....RR.R
+.....Rw.R
+.w.wRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 19ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.....RR.w
+.....RR.R
+...R.Rw.R
+.w.wRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 1 after 282ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.....RR.w
+.....RR.R
+.w.R.Rw.R
+.w.wRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 11ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.....RR.w
+...R.RR.R
+.w.R.Rw.R
+.w.wRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 1 after 282ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.....RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.w.wRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 1 after 18ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.R...RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.w.wRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 2 after 283ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.R...RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 12ms
+.........
+.........
+.....RR..
+.....Rw.w
+.....wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 1 after 283ms
+.........
+.........
+.....RR..
+.....Rw.w
+.W...wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 20ms
+.........
+.........
+.....RR..
+.....Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 3 after 282ms
+.........
+.........
+.....RR..
+...w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 12ms
+.........
+.........
+...R.RR..
+...w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 8 after 282ms
+.........
+.........
+...R.RR.w
+...w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 1 after 12ms
+.........
+.........
+...R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 1 after 282ms
+.........
+.........
+.w.R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.w.R.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 19ms
+.........
+.........
+.w.R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.wRR.Rw.R
+.wwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 0 after 282ms
+.........
+.........
+.w.R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.w.R.RR.R
+.wRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 20ms
+.........
+.........
+.w.R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.wRR.RR.R
+.wRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 3 after 282ms
+.........
+...W.....
+.w.R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.R.R.RR.w
+.wRR.RR.R
+.wRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 12ms
+.........
+...W.....
+.w.R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.RRR.RR.w
+.wRR.RR.R
+.wRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 0 after 282ms
+.........
+...W.....
+.w.R.RR.w
+.R.w.Rw.w
+.W.R.wR.R
+.RRR.RR.w
+.wRR.RR.R
+WwRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 25ms
+.........
+...W.....
+.w.R.RR.w
+.R.w.Rw.w
+.WRR.wR.R
+.RRR.RR.w
+.wRR.RR.R
+WwRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 2 after 283ms
+.........
+...W.....
+.w.R.RR.w
+.Rww.Rw.w
+.WRR.wR.R
+.RRR.RR.w
+.wRR.RR.R
+WwRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 12ms
+.........
+...W.....
+.wRR.RR.w
+.Rww.Rw.w
+.WRR.wR.R
+.RRR.RR.w
+.wRR.RR.R
+WwRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Round piece at column 3 after 282ms
+...w.....
+...W.....
+.wRR.RR.w
+.Rww.Rw.w
+.WRR.wR.R
+.RRR.RR.w
+.wRR.RR.R
+WwRR.Rw.R
+wwwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 4 after 10ms
+...w.....
+...W.....
+.wRR.RR.w
+.Rww.Rw.w
+.WRR.wR.R
+.RRR.RR.w
+.wRR.RR.R
+WwRRRRw.R
+wwwwRwwwR
+wwwRwwRww
+
+G06_UwU_v3 (White) turn
+G06_UwU_v3 (White) placed a Square piece at column 2 after 282ms
+...w.....
+..WW.....
+.wRR.RR.w
+.Rww.Rw.w
+.WRR.wR.R
+.RRR.RR.w
+.wRR.RR.R
+WwRRRRw.R
+wwwwRwwwR
+wwwRwwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Round piece at column 4 after 8ms
+...w.....
+..WW.....
+.wRR.RR.w
+.Rww.Rw.w
+.WRR.wR.R
+.RRR.RR.w
+.wRRrRR.R
+WwRRRRw.R
+wwwwRwwwR
+wwwRwwRww
+
+Winner is G03_TrouxaBot_V4 (Red)
+Solution=(3,2)(3,3)(3,4)(3,5)(3,6)

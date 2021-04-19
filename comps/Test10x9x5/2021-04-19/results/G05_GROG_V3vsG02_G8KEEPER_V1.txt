@@ -1,0 +1,943 @@
+=> G05_GROG_V3 (White) vs G02_G8KEEPER_V1 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......w.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 7 after 14ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......R.
+.......w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+.......w.
+.......R.
+.......w.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 7 after 14ms
+.........
+.........
+.........
+.........
+.........
+.........
+.......R.
+.......w.
+.......R.
+.......w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
+.........
+.........
+.........
+.........
+.........
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 7 after 15ms
+.........
+.........
+.........
+.........
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
+.........
+.........
+.........
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 7 after 8ms
+.........
+.........
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
+.........
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Round piece at column 1 after 7ms
+.........
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.r.....w.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
+.......w.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.r.....w.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 6 after 9ms
+.......w.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.r....Rw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 7ms
+.......w.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.w.....R.
+.r....Rw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Round piece at column 3 after 8ms
+.......w.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.w.....R.
+.r.r..Rw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 8ms
+.......w.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.......R.
+.w.....w.
+.w.....R.
+.r.r..Rw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 1 after 6ms
+.......w.
+.......w.
+.......R.
+.......w.
+.......R.
+.......w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.r..Rw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 8ms
+.......w.
+.......w.
+.......R.
+.......w.
+.......R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.r..Rw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 1 after 5ms
+.......w.
+.......w.
+.......R.
+.......w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.r..Rw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 8ms
+.......w.
+.......w.
+.......R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.r..Rw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Round piece at column 5 after 5ms
+.......w.
+.......w.
+.......R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.r.rRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 1 after 8ms
+.......w.
+.......w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.r.rRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 1 after 6ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.r.rRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 4 after 8ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.r.rwrRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 2 after 7ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w.....R.
+.rRrwrRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 6 after 8ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.w....wR.
+.rRrwrRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 6 after 8ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R.....R.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 6 after 8ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w.....w.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 6 after 13ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R.....R.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 6 after 8ms
+.......w.
+.R.....w.
+.w.....R.
+.w.....w.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 6 after 10ms
+.......w.
+.R.....w.
+.w.....R.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 6 after 8ms
+.......w.
+.R.....w.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 1 after 6ms
+.R.....w.
+.R.....w.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 6 after 6ms
+.R.....w.
+.R....ww.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 6 after 8ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.w....wR.
+.rRrwrRw.
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 2 after 5ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.ww...wR.
+.rRrwrRw.
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Round piece at column 8 after 6ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.ww...wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 2 after 5ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.R....wR.
+.ww...Rw.
+.ww...wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 2 after 4ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.w....Rw.
+.R....wR.
+.w....Rw.
+.RR...wR.
+.ww...Rw.
+.ww...wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 2 after 5ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.w....Rw.
+.R....wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.ww...wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 2 after 3ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.w....Rw.
+.RR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.ww...wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 2 after 5ms
+.R....Rw.
+.R....ww.
+.w....wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.ww...wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 2 after 3ms
+.R....Rw.
+.R....ww.
+.wR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.ww...wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 2 after 5ms
+.R....Rw.
+.Rw...ww.
+.wR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.ww...wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 4 after 4ms
+.R....Rw.
+.Rw...ww.
+.wR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 4 after 5ms
+.R....Rw.
+.Rw...ww.
+.wR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.RR...wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 2 after 3ms
+.RR...Rw.
+.Rw...ww.
+.wR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.RR...wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 4 after 4ms
+.RR...Rw.
+.Rw...ww.
+.wR...wR.
+.ww...Rw.
+.RR...wR.
+.ww...Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 4 after 3ms
+.RR...Rw.
+.Rw...ww.
+.wR...wR.
+.ww...Rw.
+.RR...wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 4 after 4ms
+.RR...Rw.
+.Rw...ww.
+.wR...wR.
+.ww...Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 4 after 3ms
+.RR...Rw.
+.Rw...ww.
+.wR...wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 4 after 4ms
+.RR...Rw.
+.Rw...ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 4 after 3ms
+.RR...Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 4 after 3ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.R.wR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Round piece at column 5 after 2ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.ww.RrwR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 3 after 2ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.w.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 3 after 2ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.wwRw.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 3 after 2ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.ww.R.Rw.
+.RRww.wR.
+.wwRw.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 3 after 2ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RR.w.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRw.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Round piece at column 3 after 2ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.ww.R.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRw.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 3 after 1ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wR.w.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRw.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 3 after 1ms
+.RR.w.Rw.
+.Rw.R.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRw.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 3 after 1ms
+.RR.w.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRw.Rw.
+.wwwRrwR.
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 8 after 1ms
+.RR.w.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRw.Rw.
+.wwwRrwRW
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Round piece at column 8 after 1ms
+.RR.w.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRw.Rwr
+.wwwRrwRW
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 8 after 1ms
+.RR.w.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wRW
+.wwRw.Rwr
+.wwwRrwRW
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 3 after 1ms
+.RRRw.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.Rw.
+.RRww.wRW
+.wwRw.Rwr
+.wwwRrwRW
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 8 after 0ms
+.RRRw.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wR.
+.wwRR.RwW
+.RRww.wRW
+.wwRw.Rwr
+.wwwRrwRW
+.rRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 8 after 1ms
+.RRRw.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wRR
+.wwRR.RwW
+.RRww.wRW
+.wwRw.Rwr
+.wwwRrwRW
+.rRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 0 after 0ms
+.RRRw.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.Rw.
+.RRww.wRR
+.wwRR.RwW
+.RRww.wRW
+.wwRw.Rwr
+.wwwRrwRW
+WrRrwrRwr
+
+G02_G8KEEPER_V1 (Red) turn
+G02_G8KEEPER_V1 (Red) placed a Square piece at column 8 after 1ms
+.RRRw.Rw.
+.RwRR.ww.
+.wRWw.wR.
+.wwRR.RwR
+.RRww.wRR
+.wwRR.RwW
+.RRww.wRW
+.wwRw.Rwr
+.wwwRrwRW
+WrRrwrRwr
+
+G05_GROG_V3 (White) turn
+G05_GROG_V3 (White) placed a Square piece at column 8 after 0ms
+.RRRw.Rw.
+.RwRR.ww.
+.wRWw.wRW
+.wwRR.RwR
+.RRww.wRR
+.wwRR.RwW
+.RRww.wRW
+.wwRw.Rwr
+.wwwRrwRW
+WrRrwrRwr
+
+Winner is G02_G8KEEPER_V1 (Red)
+Solution=(3,8)(4,8)(5,8)(6,8)(7,8)
