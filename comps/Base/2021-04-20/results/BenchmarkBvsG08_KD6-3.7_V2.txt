@@ -1,0 +1,250 @@
+=> BenchmarkB (White) vs G08_KD6-3.7_V2 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 3 after 180ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 2 after 196ms
+.......
+.......
+.......
+.......
+.......
+..Rw...
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 6 after 180ms
+.......
+.......
+.......
+.......
+.......
+..Rw..w
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 5 after 196ms
+.......
+.......
+.......
+.......
+.......
+..Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 3 after 180ms
+.......
+.......
+.......
+.......
+...w...
+..Rw.Rw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 3 after 196ms
+.......
+.......
+.......
+...R...
+...w...
+..Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 6 after 180ms
+.......
+.......
+.......
+...R...
+...w..w
+..Rw.Rw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 6 after 196ms
+.......
+.......
+.......
+...R..R
+...w..w
+..Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 5 after 180ms
+.......
+.......
+.......
+...R..R
+...w.ww
+..Rw.Rw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 2 after 196ms
+.......
+.......
+.......
+...R..R
+..Rw.ww
+..Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 5 after 180ms
+.......
+.......
+.......
+...R.wR
+..Rw.ww
+..Rw.Rw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 2 after 196ms
+.......
+.......
+.......
+..RR.wR
+..Rw.ww
+..Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 2 after 180ms
+.......
+.......
+..w....
+..RR.wR
+..Rw.ww
+..Rw.Rw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 3 after 196ms
+.......
+.......
+..wR...
+..RR.wR
+..Rw.ww
+..Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 5 after 180ms
+.......
+.......
+..wR.w.
+..RR.wR
+..Rw.ww
+..Rw.Rw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 5 after 196ms
+.......
+.....R.
+..wR.w.
+..RR.wR
+..Rw.ww
+..Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 3 after 180ms
+.......
+...w.R.
+..wR.w.
+..RR.wR
+..Rw.ww
+..Rw.Rw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 0 after 196ms
+.......
+...w.R.
+..wR.w.
+..RR.wR
+..Rw.ww
+R.Rw.Rw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Square piece at column 4 after 180ms
+.......
+...w.R.
+..wR.w.
+..RR.wR
+..Rw.ww
+R.RwWRw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 4 after 196ms
+.......
+...w.R.
+..wR.w.
+..RR.wR
+..RwRww
+R.RwWRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Square piece at column 6 after 180ms
+.......
+...w.R.
+..wR.wW
+..RR.wR
+..RwRww
+R.RwWRw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Round piece at column 1 after 196ms
+.......
+...w.R.
+..wR.wW
+..RR.wR
+..RwRww
+RrRwWRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Round piece at column 1 after 180ms
+.......
+...w.R.
+..wR.wW
+..RR.wR
+.wRwRww
+RrRwWRw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 1 after 196ms
+.......
+...w.R.
+..wR.wW
+.RRR.wR
+.wRwRww
+RrRwWRw
+
+BenchmarkB (White) turn
+BenchmarkB (White) placed a Square piece at column 5 after 180ms
+.....W.
+...w.R.
+..wR.wW
+.RRR.wR
+.wRwRww
+RrRwWRw
+
+G08_KD6-3.7_V2 (Red) turn
+G08_KD6-3.7_V2 (Red) placed a Round piece at column 4 after 196ms
+.....W.
+...w.R.
+..wR.wW
+.RRRrwR
+.wRwRww
+RrRwWRw
+
+Winner is G08_KD6-3.7_V2 (Red)
+Solution=(2,1)(2,2)(2,3)(2,4)

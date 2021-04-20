@@ -1,0 +1,204 @@
+=> G07_M8GG_V1 (White) vs G06_UwU_v3 (Red) <=
+
+	w - White Round
+	W - White Square
+	r - Red   Round
+	R - Red   Square
+
+.......
+.......
+.......
+.......
+.......
+.......
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 3 after 44ms
+.......
+.......
+.......
+.......
+.......
+...w...
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 4 after 188ms
+.......
+.......
+.......
+.......
+.......
+...wR..
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 3 after 42ms
+.......
+.......
+.......
+.......
+...w...
+...wR..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 3 after 188ms
+.......
+.......
+.......
+...R...
+...w...
+...wR..
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 3 after 44ms
+.......
+.......
+...w...
+...R...
+...w...
+...wR..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 4 after 188ms
+.......
+.......
+...w...
+...R...
+...wR..
+...wR..
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 3 after 45ms
+.......
+...w...
+...w...
+...R...
+...wR..
+...wR..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 4 after 188ms
+.......
+...w...
+...w...
+...RR..
+...wR..
+...wR..
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 4 after 35ms
+.......
+...w...
+...ww..
+...RR..
+...wR..
+...wR..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 2 after 188ms
+.......
+...w...
+...ww..
+...RR..
+...wR..
+..RwR..
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 4 after 46ms
+.......
+...ww..
+...ww..
+...RR..
+...wR..
+..RwR..
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 5 after 188ms
+.......
+...ww..
+...ww..
+...RR..
+...wR..
+..RwRR.
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 2 after 44ms
+.......
+...ww..
+...ww..
+...RR..
+..wwR..
+..RwRR.
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 2 after 188ms
+.......
+...ww..
+...ww..
+..RRR..
+..wwR..
+..RwRR.
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 2 after 34ms
+.......
+...ww..
+..www..
+..RRR..
+..wwR..
+..RwRR.
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Round piece at column 6 after 188ms
+.......
+...ww..
+..www..
+..RRR..
+..wwR..
+..RwRRr
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 2 after 46ms
+.......
+..www..
+..www..
+..RRR..
+..wwR..
+..RwRRr
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 6 after 188ms
+.......
+..www..
+..www..
+..RRR..
+..wwR.R
+..RwRRr
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) placed a Round piece at column 3 after 33ms
+...w...
+..www..
+..www..
+..RRR..
+..wwR.R
+..RwRRr
+
+G06_UwU_v3 (Red) turn
+G06_UwU_v3 (Red) placed a Square piece at column 5 after 188ms
+...w...
+..www..
+..www..
+..RRR..
+..wwRRR
+..RwRRr
+
+G07_M8GG_V1 (White) turn
+G07_M8GG_V1 (White) loses match! Reason: Thinker unable to perform move
+...w...
+..www..
+..www..
+..RRR..
+..wwRRR
+..RwRRr
+
+Winner is G06_UwU_v3 (Red)
