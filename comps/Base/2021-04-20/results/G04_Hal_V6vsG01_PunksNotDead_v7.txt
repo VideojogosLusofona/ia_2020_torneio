@@ -22,7 +22,7 @@ G04_Hal_V6 (White) placed a Round piece at column 3 after 8ms
 ...w...
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 14.3874 ms
+PunksNotDead took 13.993 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 14ms
 .......
@@ -42,7 +42,7 @@ G04_Hal_V6 (White) placed a Round piece at column 2 after 7ms
 ..ww...
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 10.8418 ms
+PunksNotDead took 10.6821 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Square piece at column 2 after 10ms
 .......
@@ -62,7 +62,7 @@ G04_Hal_V6 (White) placed a Square piece at column 1 after 18ms
 .Www...
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 2.4124 ms
+PunksNotDead took 2.3947 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) loses match! Reason: Thinker unable to perform move
 .......

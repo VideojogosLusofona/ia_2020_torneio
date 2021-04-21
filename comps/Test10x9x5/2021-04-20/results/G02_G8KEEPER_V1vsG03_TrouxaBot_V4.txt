@@ -17,7 +17,7 @@
 .........
 
 G02_G8KEEPER_V1 (White) turn
-G02_G8KEEPER_V1 (White) placed a Round piece at column 6 after 15ms
+G02_G8KEEPER_V1 (White) placed a Round piece at column 6 after 14ms
 .........
 .........
 .........
@@ -30,7 +30,7 @@ G02_G8KEEPER_V1 (White) placed a Round piece at column 6 after 15ms
 ......w..
 
 G03_TrouxaBot_V4 (Red) turn
-G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 8ms
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 9ms
 .........
 .........
 .........
@@ -43,7 +43,7 @@ G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 8ms
 ......w..
 
 G02_G8KEEPER_V1 (White) turn
-G02_G8KEEPER_V1 (White) placed a Round piece at column 6 after 13ms
+G02_G8KEEPER_V1 (White) placed a Round piece at column 6 after 14ms
 .........
 .........
 .........
@@ -56,7 +56,7 @@ G02_G8KEEPER_V1 (White) placed a Round piece at column 6 after 13ms
 ......w..
 
 G03_TrouxaBot_V4 (Red) turn
-G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 9ms
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 8ms
 .........
 .........
 .........
@@ -199,7 +199,7 @@ G03_TrouxaBot_V4 (Red) placed a Square piece at column 1 after 7ms
 .W.W..w..
 
 G02_G8KEEPER_V1 (White) turn
-G02_G8KEEPER_V1 (White) placed a Round piece at column 1 after 6ms
+G02_G8KEEPER_V1 (White) placed a Round piece at column 1 after 5ms
 ......r..
 ......w..
 ......R..
@@ -342,7 +342,7 @@ G02_G8KEEPER_V1 (White) placed a Round piece at column 5 after 7ms
 .WwWRWwW.
 
 G03_TrouxaBot_V4 (Red) turn
-G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 8ms
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 9ms
 ......r..
 ......w..
 .R....R..
@@ -420,7 +420,7 @@ G02_G8KEEPER_V1 (White) placed a Round piece at column 2 after 7ms
 .WwWRWwW.
 
 G03_TrouxaBot_V4 (Red) turn
-G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 9ms
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 8ms
 ......r..
 .w....w..
 .RR...R..
@@ -459,7 +459,7 @@ G03_TrouxaBot_V4 (Red) placed a Square piece at column 5 after 9ms
 .WwWRWwW.
 
 G02_G8KEEPER_V1 (White) turn
-G02_G8KEEPER_V1 (White) placed a Round piece at column 5 after 11ms
+G02_G8KEEPER_V1 (White) placed a Round piece at column 5 after 10ms
 ......r..
 .ww...w..
 .RR...R..

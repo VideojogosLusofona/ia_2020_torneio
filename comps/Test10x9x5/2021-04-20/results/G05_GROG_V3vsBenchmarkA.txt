@@ -17,7 +17,7 @@
 .........
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 7 after 14ms
+G05_GROG_V3 (White) placed a Round piece at column 7 after 13ms
 .........
 .........
 .........
@@ -69,7 +69,7 @@ BenchmarkA (Red) placed a Square piece at column 7 after 251ms
 .......w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 7 after 8ms
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
 .........
 .........
 .........
@@ -121,7 +121,7 @@ BenchmarkA (Red) placed a Square piece at column 4 after 251ms
 ....R..w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 7 after 12ms
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
 .........
 .........
 .......w.
@@ -147,7 +147,7 @@ BenchmarkA (Red) placed a Square piece at column 2 after 251ms
 ..R.R..w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 7 after 10ms
+G05_GROG_V3 (White) placed a Round piece at column 7 after 9ms
 .........
 .......w.
 .......w.
@@ -160,7 +160,7 @@ G05_GROG_V3 (White) placed a Round piece at column 7 after 10ms
 ..R.R..w.
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 0 after 251ms
+BenchmarkA (Red) placed a Square piece at column 0 after 252ms
 .........
 .......w.
 .......w.
@@ -173,7 +173,7 @@ BenchmarkA (Red) placed a Square piece at column 0 after 251ms
 R.R.R..w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 2 after 10ms
+G05_GROG_V3 (White) placed a Round piece at column 2 after 9ms
 .........
 .......w.
 .......w.
@@ -238,7 +238,7 @@ G05_GROG_V3 (White) placed a Round piece at column 1 after 9ms
 RwRRR..w.
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 4 after 251ms
+BenchmarkA (Red) placed a Square piece at column 4 after 252ms
 .........
 .......w.
 .......w.
@@ -316,7 +316,7 @@ G05_GROG_V3 (White) placed a Round piece at column 2 after 11ms
 RwRRR..w.
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 4 after 251ms
+BenchmarkA (Red) placed a Square piece at column 4 after 252ms
 .........
 .......w.
 ..w....w.
@@ -667,7 +667,7 @@ rRwRRRwRR
 RwRRRRwwR
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 3 after 7ms
+G05_GROG_V3 (White) placed a Round piece at column 3 after 9ms
 ....w....
 ..w.w..w.
 ..w.R..w.
@@ -706,15 +706,15 @@ rRwRRRwRR
 RwRRRRwwR
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Round piece at column 3 after 251ms
+BenchmarkA (Red) placed a Round piece at column 0 after 251ms
 ....w....
 ..w.w..w.
 ..w.R..w.
 .ww.w..w.
-.RRrw..R.
+.RR.w..R.
 .wwRR..w.
 .Rwww.wRW
-.wRrRwRwR
+rwRrRwRwR
 rRwRRRwRR
 RwRRRRwwR
 
@@ -724,10 +724,10 @@ G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
 ..w.w..w.
 ..w.R..w.
 .ww.w..w.
-.RRrw..R.
+.RR.w..R.
 .wwRR..w.
 .RwwwwwRW
-.wRrRwRwR
+rwRrRwRwR
 rRwRRRwRR
 RwRRRRwwR
 

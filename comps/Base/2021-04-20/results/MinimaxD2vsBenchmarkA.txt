@@ -94,12 +94,13 @@ MinimaxD2 (White) placed a Square piece at column 6 after 3ms
 .RrR.wW
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) loses match! Reason: Time limit expired
+BenchmarkA (Red) placed a Round piece at column 0 after 152ms
 .......
 .....w.
 .....w.
 .....R.
 .....w.
-.RrR.wW
+rRrR.wW
 
-Winner is MinimaxD2 (White)
+Winner is BenchmarkA (Red)
+Solution=(0,0)(0,1)(0,2)(0,3)

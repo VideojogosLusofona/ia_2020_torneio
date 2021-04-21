@@ -13,7 +13,7 @@
 .......
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 5 after 3ms
+G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -31,7 +31,7 @@ G12_NoName_v2.2 (Red) placed a Square piece at column 1 after 1ms
 .R...w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 5 after 4ms
+G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -40,7 +40,7 @@ G05_GROG_V3 (White) placed a Round piece at column 5 after 4ms
 .R...w.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 2ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 1ms
 .......
 .......
 .......
@@ -49,7 +49,7 @@ G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 2ms
 .R...w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 5 after 4ms
+G05_GROG_V3 (White) placed a Round piece at column 5 after 3ms
 .......
 .......
 .....w.
@@ -58,7 +58,7 @@ G05_GROG_V3 (White) placed a Round piece at column 5 after 4ms
 .R...w.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 1ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 5 after 2ms
 .......
 .....R.
 .....w.

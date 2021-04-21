@@ -22,7 +22,7 @@ G08_KD6-3.7_V2 (White) placed a Round piece at column 3 after 196ms
 ...w...
 
 G03_TrouxaBot_V4 (Red) turn
-G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 38ms
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 39ms
 .......
 .......
 .......
@@ -31,39 +31,201 @@ G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 38ms
 ...w...
 
 G08_KD6-3.7_V2 (White) turn
-G08_KD6-3.7_V2 (White) placed a Round piece at column 4 after 196ms
+G08_KD6-3.7_V2 (White) placed a Round piece at column 6 after 196ms
 .......
 .......
 .......
 .......
 ...R...
-...ww..
+...w..w
 
 G03_TrouxaBot_V4 (Red) turn
-G03_TrouxaBot_V4 (Red) placed a Square piece at column 4 after 39ms
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 41ms
 .......
 .......
 .......
-.......
-...RR..
-...ww..
+...R...
+...R...
+...w..w
 
 G08_KD6-3.7_V2 (White) turn
-G08_KD6-3.7_V2 (White) placed a Round piece at column 2 after 196ms
+G08_KD6-3.7_V2 (White) placed a Round piece at column 5 after 196ms
 .......
 .......
 .......
+...R...
+...R...
+...w.ww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 4 after 34ms
 .......
+.......
+.......
+...R...
+...R...
+...wRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Round piece at column 4 after 196ms
+.......
+.......
+.......
+...R...
+...Rw..
+...wRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 44ms
+.......
+.......
+...R...
+...R...
+...Rw..
+...wRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Round piece at column 3 after 196ms
+.......
+...w...
+...R...
+...R...
+...Rw..
+...wRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 4 after 43ms
+.......
+...w...
+...R...
 ...RR..
-..www..
+...Rw..
+...wRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Round piece at column 4 after 196ms
+.......
+...w...
+...Rw..
+...RR..
+...Rw..
+...wRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 3 after 44ms
+...R...
+...w...
+...Rw..
+...RR..
+...Rw..
+...wRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Round piece at column 6 after 196ms
+...R...
+...w...
+...Rw..
+...RR..
+...Rw.w
+...wRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 6 after 28ms
+...R...
+...w...
+...Rw..
+...RR.R
+...Rw.w
+...wRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Square piece at column 4 after 196ms
+...R...
+...wW..
+...Rw..
+...RR.R
+...Rw.w
+...wRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 4 after 26ms
+...RR..
+...wW..
+...Rw..
+...RR.R
+...Rw.w
+...wRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Square piece at column 1 after 196ms
+...RR..
+...wW..
+...Rw..
+...RR.R
+...Rw.w
+.W.wRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 2 after 16ms
+...RR..
+...wW..
+...Rw..
+...RR.R
+...Rw.w
+.WRwRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Square piece at column 0 after 196ms
+...RR..
+...wW..
+...Rw..
+...RR.R
+...Rw.w
+WWRwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 1 after 16ms
+...RR..
+...wW..
+...Rw..
+...RR.R
+.R.Rw.w
+WWRwRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Round piece at column 0 after 196ms
+...RR..
+...wW..
+...Rw..
+...RR.R
+wR.Rw.w
+WWRwRww
+
+G03_TrouxaBot_V4 (Red) turn
+G03_TrouxaBot_V4 (Red) placed a Square piece at column 1 after 15ms
+...RR..
+...wW..
+...Rw..
+.R.RR.R
+wR.Rw.w
+WWRwRww
+
+G08_KD6-3.7_V2 (White) turn
+G08_KD6-3.7_V2 (White) placed a Round piece at column 0 after 196ms
+...RR..
+...wW..
+...Rw..
+wR.RR.R
+wR.Rw.w
+WWRwRww
 
 G03_TrouxaBot_V4 (Red) turn
 G03_TrouxaBot_V4 (Red) loses match! Reason: Thinker unable to perform move
-.......
-.......
-.......
-.......
 ...RR..
-..www..
+...wW..
+...Rw..
+wR.RR.R
+wR.Rw.w
+WWRwRww
 
 Winner is G08_KD6-3.7_V2 (White)

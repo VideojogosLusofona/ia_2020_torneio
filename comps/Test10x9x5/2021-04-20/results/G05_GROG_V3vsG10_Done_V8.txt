@@ -17,7 +17,7 @@
 .........
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 7 after 10ms
+G05_GROG_V3 (White) placed a Round piece at column 7 after 11ms
 .........
 .........
 .........
@@ -30,7 +30,7 @@ G05_GROG_V3 (White) placed a Round piece at column 7 after 10ms
 .......w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Round piece at column 4 after 10ms
+G10_Done_V8 (Red) placed a Round piece at column 4 after 9ms
 .........
 .........
 .........
@@ -147,7 +147,7 @@ G10_Done_V8 (Red) placed a Round piece at column 4 after 10ms
 ....r..w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 4 after 9ms
+G05_GROG_V3 (White) placed a Round piece at column 4 after 10ms
 .........
 ....w....
 ....r....
@@ -186,7 +186,7 @@ G05_GROG_V3 (White) placed a Round piece at column 7 after 8ms
 ....r..w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Square piece at column 3 after 8ms
+G10_Done_V8 (Red) placed a Square piece at column 3 after 7ms
 ....r....
 ....w....
 ....r....
@@ -199,7 +199,7 @@ G10_Done_V8 (Red) placed a Square piece at column 3 after 8ms
 ...Rr..w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 7 after 7ms
+G05_GROG_V3 (White) placed a Round piece at column 7 after 8ms
 ....r....
 ....w....
 ....r....
@@ -264,7 +264,7 @@ G05_GROG_V3 (White) placed a Round piece at column 7 after 8ms
 ...Rr..w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Square piece at column 3 after 9ms
+G10_Done_V8 (Red) placed a Square piece at column 3 after 8ms
 ....r....
 ....w....
 ....r....
@@ -290,7 +290,7 @@ G05_GROG_V3 (White) placed a Round piece at column 3 after 8ms
 ...Rr..w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Square piece at column 3 after 8ms
+G10_Done_V8 (Red) placed a Square piece at column 3 after 9ms
 ....r....
 ....w....
 ....r....
@@ -342,7 +342,7 @@ G05_GROG_V3 (White) placed a Round piece at column 3 after 9ms
 ...Rr..w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Square piece at column 3 after 9ms
+G10_Done_V8 (Red) placed a Square piece at column 3 after 8ms
 ....r....
 ...Rw....
 ...wr....
@@ -524,7 +524,7 @@ G05_GROG_V3 (White) placed a Round piece at column 5 after 5ms
 .w.RrR.w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Square piece at column 5 after 5ms
+G10_Done_V8 (Red) placed a Square piece at column 5 after 6ms
 ...Rr..R.
 ...Rw..w.
 ...wrR.w.
@@ -563,7 +563,7 @@ G10_Done_V8 (Red) placed a Square piece at column 5 after 5ms
 .w.RrR.w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 1 after 3ms
+G05_GROG_V3 (White) placed a Round piece at column 1 after 4ms
 ...RrR.R.
 ...Rww.w.
 ...wrR.w.
@@ -602,7 +602,7 @@ G05_GROG_V3 (White) placed a Round piece at column 1 after 3ms
 .wRRrR.w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Round piece at column 6 after 2ms
+G10_Done_V8 (Red) placed a Round piece at column 6 after 3ms
 ...RrR.R.
 ...Rww.w.
 ...wrR.w.

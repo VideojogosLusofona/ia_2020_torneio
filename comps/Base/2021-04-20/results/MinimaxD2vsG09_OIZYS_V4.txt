@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 .....w.
 
 G09_OIZYS_V4 (Red) turn
-G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 10ms
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 7ms
 .......
 .......
 .......
@@ -130,7 +130,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 2ms
 R..R.wR
 
 G09_OIZYS_V4 (Red) turn
-G09_OIZYS_V4 (Red) placed a Square piece at column 1 after 6ms
+G09_OIZYS_V4 (Red) placed a Square piece at column 1 after 5ms
 .....w.
 .....w.
 .....Rw
@@ -148,7 +148,7 @@ MinimaxD2 (White) placed a Round piece at column 2 after 2ms
 RRwR.wR
 
 G09_OIZYS_V4 (Red) turn
-G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 8ms
+G09_OIZYS_V4 (Red) placed a Square piece at column 3 after 7ms
 .....w.
 .....w.
 .....Rw

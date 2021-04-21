@@ -13,7 +13,7 @@
 .......
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .......
@@ -31,7 +31,7 @@ G08_KD6-3.7_V2 (Red) placed a Square piece at column 3 after 196ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -49,30 +49,12 @@ G08_KD6-3.7_V2 (Red) placed a Square piece at column 5 after 196ms
 ...R.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .....w.
 .....R.
 .....w.
-...R.w.
-
-G08_KD6-3.7_V2 (Red) turn
-G08_KD6-3.7_V2 (Red) placed a Square piece at column 3 after 196ms
-.......
-.......
-.....w.
-.....R.
-...R.w.
-...R.w.
-
-MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 3ms
-.......
-.......
-.....w.
-...w.R.
-...R.w.
 ...R.w.
 
 G08_KD6-3.7_V2 (Red) turn
@@ -80,45 +62,45 @@ G08_KD6-3.7_V2 (Red) placed a Square piece at column 2 after 196ms
 .......
 .......
 .....w.
-...w.R.
-...R.w.
+.....R.
+.....w.
 ..RR.w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 3 after 3ms
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
 .......
-.......
-...w.w.
-...w.R.
-...R.w.
+.....w.
+.....w.
+.....R.
+.....w.
 ..RR.w.
 
 G08_KD6-3.7_V2 (Red) turn
 G08_KD6-3.7_V2 (Red) placed a Square piece at column 1 after 196ms
 .......
-.......
-...w.w.
-...w.R.
-...R.w.
+.....w.
+.....w.
+.....R.
+.....w.
 .RRR.w.
 
 MinimaxD2 (White) turn
 MinimaxD2 (White) placed a Square piece at column 6 after 2ms
 .......
-.......
-...w.w.
-...w.R.
-...R.w.
+.....w.
+.....w.
+.....R.
+.....w.
 .RRR.wW
 
 G08_KD6-3.7_V2 (Red) turn
-G08_KD6-3.7_V2 (Red) placed a Square piece at column 0 after 196ms
+G08_KD6-3.7_V2 (Red) placed a Square piece at column 4 after 196ms
 .......
-.......
-...w.w.
-...w.R.
-...R.w.
-RRRR.wW
+.....w.
+.....w.
+.....R.
+.....w.
+.RRRRwW
 
 Winner is G08_KD6-3.7_V2 (Red)
-Solution=(0,0)(0,1)(0,2)(0,3)
+Solution=(0,1)(0,2)(0,3)(0,4)

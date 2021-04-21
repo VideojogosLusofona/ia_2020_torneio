@@ -112,13 +112,13 @@ G05_GROG_V3 (White) placed a Square piece at column 6 after 2ms
 .RRR.wW
 
 BenchmarkB (Red) turn
-BenchmarkB (Red) placed a Square piece at column 4 after 180ms
+BenchmarkB (Red) placed a Square piece at column 0 after 180ms
 .......
 .......
 ...w.w.
 ...w.R.
 ...R.w.
-.RRRRwW
+RRRR.wW
 
 Winner is BenchmarkB (Red)
-Solution=(0,1)(0,2)(0,3)(0,4)
+Solution=(0,0)(0,1)(0,2)(0,3)

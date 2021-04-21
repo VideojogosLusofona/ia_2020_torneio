@@ -22,40 +22,112 @@ MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .....w.
 
 Random (Red) turn
-Random (Red) placed a Square piece at column 1 after 0ms
+Random (Red) placed a Square piece at column 6 after 0ms
 .......
 .......
 .......
 .......
 .......
-.R...w.
+.....wR
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 2ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .......
 .......
 .......
 .......
 .....w.
-.R...w.
+.....wR
 
 Random (Red) turn
-Random (Red) placed a Round piece at column 5 after 0ms
+Random (Red) placed a Square piece at column 2 after 0ms
 .......
 .......
 .......
-.....r.
+.......
 .....w.
-.R...w.
+..R..wR
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 2ms
+MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+.......
 .......
 .......
 .....w.
-.....r.
 .....w.
-.R...w.
+..R..wR
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 5 after 0ms
+.......
+.......
+.....R.
+.....w.
+.....w.
+..R..wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 5 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+.....w.
+..R..wR
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 3 after 0ms
+.......
+.....w.
+.....R.
+.....w.
+.....w.
+..Rr.wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 3ms
+.......
+.....w.
+.....R.
+.....w.
+..w..w.
+..Rr.wR
+
+Random (Red) turn
+Random (Red) placed a Square piece at column 5 after 0ms
+.....R.
+.....w.
+.....R.
+.....w.
+..w..w.
+..Rr.wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
+.....R.
+.....w.
+.....R.
+..w..w.
+..w..w.
+..Rr.wR
+
+Random (Red) turn
+Random (Red) placed a Round piece at column 2 after 0ms
+.....R.
+.....w.
+..r..R.
+..w..w.
+..w..w.
+..Rr.wR
+
+MinimaxD2 (White) turn
+MinimaxD2 (White) placed a Round piece at column 2 after 2ms
+.....R.
+..w..w.
+..r..R.
+..w..w.
+..w..w.
+..Rr.wR
 
 Winner is MinimaxD2 (White)
-Solution=(0,5)(1,5)(2,5)(3,5)
+Solution=(1,2)(2,2)(3,2)(4,2)

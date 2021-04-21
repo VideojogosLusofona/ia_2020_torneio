@@ -17,7 +17,7 @@
 .........
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 7 after 8ms
+MinimaxD2 (White) placed a Round piece at column 7 after 10ms
 .........
 .........
 .........
@@ -30,7 +30,7 @@ MinimaxD2 (White) placed a Round piece at column 7 after 8ms
 .......w.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 7 after 4ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 7 after 8ms
 .........
 .........
 .........
@@ -69,7 +69,7 @@ G12_NoName_v2.2 (Red) placed a Square piece at column 7 after 4ms
 .......w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 7 after 9ms
+MinimaxD2 (White) placed a Round piece at column 7 after 8ms
 .........
 .........
 .........
@@ -173,7 +173,7 @@ G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 4ms
 .w....Rw.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 1 after 8ms
+MinimaxD2 (White) placed a Round piece at column 1 after 7ms
 .......R.
 .......w.
 .......R.
@@ -186,7 +186,7 @@ MinimaxD2 (White) placed a Round piece at column 1 after 8ms
 .w....Rw.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 5ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 6 after 4ms
 .......R.
 .......w.
 .......R.
@@ -498,7 +498,7 @@ MinimaxD2 (White) placed a Round piece at column 2 after 5ms
 RwwR..Rw.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 1ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 2ms
 .R....wR.
 .w....Rw.
 .R....wR.
@@ -550,7 +550,7 @@ MinimaxD2 (White) placed a Round piece at column 2 after 5ms
 RwwR..Rw.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 2ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 3ms
 .R....wR.
 .wR...Rw.
 .Rw...wR.
@@ -576,7 +576,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 5ms
 RwwR..Rw.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 3ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 2 after 4ms
 .RR...wR.
 .wR...Rw.
 .Rw...wR.
@@ -680,7 +680,7 @@ MinimaxD2 (White) placed a Round piece at column 3 after 4ms
 RwwR..Rw.
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 2ms
+G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 1ms
 .RRw..wR.
 .wRR..Rw.
 .Rww..wR.
@@ -693,7 +693,7 @@ G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 2ms
 RwwR..Rwr
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 8 after 3ms
+MinimaxD2 (White) placed a Round piece at column 8 after 2ms
 .RRw..wR.
 .wRR..Rw.
 .Rww..wR.
@@ -732,7 +732,7 @@ MinimaxD2 (White) placed a Round piece at column 8 after 3ms
 RwwR..Rwr
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Square piece at column 8 after 3ms
+G12_NoName_v2.2 (Red) placed a Square piece at column 8 after 2ms
 .RRw..wR.
 .wRR..Rw.
 .Rww..wR.
@@ -758,7 +758,7 @@ MinimaxD2 (White) placed a Round piece at column 8 after 3ms
 RwwR..Rwr
 
 G12_NoName_v2.2 (Red) turn
-G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 2ms
+G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 1ms
 .RRw..wR.
 .wRR..Rw.
 .Rww..wR.
@@ -771,7 +771,7 @@ G12_NoName_v2.2 (Red) placed a Round piece at column 8 after 2ms
 RwwR..Rwr
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 8 after 3ms
+MinimaxD2 (White) placed a Round piece at column 8 after 2ms
 .RRw..wR.
 .wRR..Rw.
 .Rww..wRw
@@ -797,7 +797,7 @@ G12_NoName_v2.2 (Red) placed a Round piece at column 5 after 1ms
 RwwR.rRwr
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Square piece at column 8 after 2ms
+MinimaxD2 (White) placed a Square piece at column 8 after 1ms
 .RRw..wR.
 .wRR..RwW
 .Rww..wRw

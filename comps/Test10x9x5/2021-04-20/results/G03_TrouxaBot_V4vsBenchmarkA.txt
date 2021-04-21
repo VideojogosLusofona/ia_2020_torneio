@@ -17,7 +17,7 @@
 .........
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 1 after 14ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 1 after 8ms
 .........
 .........
 .........
@@ -30,7 +30,7 @@ G03_TrouxaBot_V4 (White) placed a Round piece at column 1 after 14ms
 .w.......
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 1 after 252ms
+BenchmarkA (Red) placed a Square piece at column 1 after 251ms
 .........
 .........
 .........
@@ -160,7 +160,7 @@ G03_TrouxaBot_V4 (White) placed a Round piece at column 6 after 10ms
 .w..R.R..
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 6 after 254ms
+BenchmarkA (Red) placed a Square piece at column 6 after 251ms
 .........
 .........
 .w.......
@@ -173,7 +173,7 @@ BenchmarkA (Red) placed a Square piece at column 6 after 254ms
 .w..R.R..
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 6 after 13ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 6 after 9ms
 .........
 .........
 .w.......
@@ -186,7 +186,7 @@ G03_TrouxaBot_V4 (White) placed a Round piece at column 6 after 13ms
 .w..R.R..
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 6 after 251ms
+BenchmarkA (Red) placed a Square piece at column 6 after 252ms
 .........
 .........
 .w.......
@@ -199,7 +199,7 @@ BenchmarkA (Red) placed a Square piece at column 6 after 251ms
 .w..R.R..
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 6 after 10ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 6 after 9ms
 .........
 .........
 .w.......
@@ -329,7 +329,7 @@ BenchmarkA (Red) placed a Square piece at column 3 after 251ms
 .wRwRRR..
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 3 after 10ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 3 after 11ms
 .........
 .........
 .w....w..
@@ -420,7 +420,7 @@ G03_TrouxaBot_V4 (White) placed a Round piece at column 3 after 11ms
 .wRwRRR..
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 6 after 251ms
+BenchmarkA (Red) placed a Square piece at column 6 after 252ms
 .........
 ......R..
 .w.w..w..
@@ -602,7 +602,7 @@ G03_TrouxaBot_V4 (White) placed a Round piece at column 7 after 11ms
 RwRwRRRwR
 
 BenchmarkA (Red) turn
-BenchmarkA (Red) placed a Square piece at column 7 after 252ms
+BenchmarkA (Red) placed a Square piece at column 7 after 251ms
 .........
 .w.R..R..
 .www..w..
@@ -641,7 +641,7 @@ BenchmarkA (Red) placed a Square piece at column 7 after 251ms
 RwRwRRRwR
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 7 after 12ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 7 after 11ms
 .........
 .w.R..R..
 .www..w..
@@ -693,7 +693,7 @@ BenchmarkA (Red) placed a Square piece at column 8 after 251ms
 RwRwRRRwR
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 7 after 12ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 7 after 11ms
 .........
 .w.R..Rw.
 .www..ww.
@@ -745,7 +745,7 @@ RRwRRRwRR
 RwRwRRRwR
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 3 after 11ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 3 after 16ms
 ...w.....
 .wRR..Rw.
 .www..ww.
@@ -771,7 +771,7 @@ RRwRRRwRR
 RwRwRRRwR
 
 G03_TrouxaBot_V4 (White) turn
-G03_TrouxaBot_V4 (White) placed a Round piece at column 4 after 12ms
+G03_TrouxaBot_V4 (White) placed a Round piece at column 4 after 8ms
 ...w.....
 .wRR..Rw.
 .www..ww.

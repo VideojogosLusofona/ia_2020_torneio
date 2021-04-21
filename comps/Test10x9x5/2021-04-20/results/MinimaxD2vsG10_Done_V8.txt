@@ -17,7 +17,7 @@
 .........
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 7 after 10ms
+MinimaxD2 (White) placed a Round piece at column 7 after 8ms
 .........
 .........
 .........
@@ -30,7 +30,7 @@ MinimaxD2 (White) placed a Round piece at column 7 after 10ms
 .......w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Round piece at column 4 after 10ms
+G10_Done_V8 (Red) placed a Round piece at column 4 after 8ms
 .........
 .........
 .........
@@ -69,7 +69,7 @@ G10_Done_V8 (Red) placed a Square piece at column 4 after 8ms
 ....r..w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 4 after 8ms
+MinimaxD2 (White) placed a Round piece at column 4 after 9ms
 .........
 .........
 .........
@@ -186,7 +186,7 @@ MinimaxD2 (White) placed a Round piece at column 7 after 7ms
 ....r..w.
 
 G10_Done_V8 (Red) turn
-G10_Done_V8 (Red) placed a Square piece at column 3 after 7ms
+G10_Done_V8 (Red) placed a Square piece at column 3 after 8ms
 ....r....
 ....w....
 ....r....
@@ -641,7 +641,7 @@ G10_Done_V8 (Red) placed a Square piece at column 2 after 3ms
 .wRRrRww.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 2 after 4ms
+MinimaxD2 (White) placed a Round piece at column 2 after 3ms
 ...RrR.R.
 ...Rww.w.
 ...wrR.w.

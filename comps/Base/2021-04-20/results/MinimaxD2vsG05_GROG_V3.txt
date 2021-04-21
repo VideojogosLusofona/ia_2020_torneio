@@ -22,7 +22,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .....w.
 
 G05_GROG_V3 (Red) turn
-G05_GROG_V3 (Red) placed a Square piece at column 5 after 3ms
+G05_GROG_V3 (Red) placed a Square piece at column 5 after 2ms
 .......
 .......
 .......
@@ -31,7 +31,7 @@ G05_GROG_V3 (Red) placed a Square piece at column 5 after 3ms
 .....w.
 
 MinimaxD2 (White) turn
-MinimaxD2 (White) placed a Round piece at column 5 after 4ms
+MinimaxD2 (White) placed a Round piece at column 5 after 2ms
 .......
 .......
 .......
@@ -40,7 +40,7 @@ MinimaxD2 (White) placed a Round piece at column 5 after 4ms
 .....w.
 
 G05_GROG_V3 (Red) turn
-G05_GROG_V3 (Red) placed a Square piece at column 5 after 3ms
+G05_GROG_V3 (Red) placed a Square piece at column 5 after 2ms
 .......
 .......
 .....R.

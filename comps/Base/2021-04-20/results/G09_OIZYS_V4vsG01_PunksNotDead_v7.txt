@@ -13,7 +13,7 @@
 .......
 
 G09_OIZYS_V4 (White) turn
-G09_OIZYS_V4 (White) placed a Round piece at column 3 after 7ms
+G09_OIZYS_V4 (White) placed a Round piece at column 3 after 13ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ G09_OIZYS_V4 (White) placed a Round piece at column 3 after 7ms
 ...w...
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 12.4062 ms
+PunksNotDead took 12.2582 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 12ms
 .......
@@ -33,7 +33,7 @@ G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 12ms
 ...w...
 
 G09_OIZYS_V4 (White) turn
-G09_OIZYS_V4 (White) placed a Round piece at column 3 after 10ms
+G09_OIZYS_V4 (White) placed a Round piece at column 3 after 9ms
 .......
 .......
 .......
@@ -42,9 +42,9 @@ G09_OIZYS_V4 (White) placed a Round piece at column 3 after 10ms
 ...w...
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 17.2051 ms
+PunksNotDead took 16.8241 ms
 PunksNotDead evaluated 0 times.
-G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 17ms
+G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 16ms
 .......
 .......
 ...R...
@@ -62,9 +62,9 @@ G09_OIZYS_V4 (White) placed a Round piece at column 3 after 8ms
 ...w...
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 14.0394 ms
+PunksNotDead took 10.6742 ms
 PunksNotDead evaluated 0 times.
-G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 14ms
+G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 11ms
 ...R...
 ...w...
 ...R...
@@ -82,7 +82,7 @@ G09_OIZYS_V4 (White) placed a Round piece at column 4 after 6ms
 ...ww..
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 9.7961 ms
+PunksNotDead took 9.5743 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Round piece at column 4 after 9ms
 ...R...
@@ -102,7 +102,7 @@ G09_OIZYS_V4 (White) placed a Round piece at column 2 after 3ms
 ..www..
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 0.276 ms
+PunksNotDead took 0.271 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Round piece at column 1 after 0ms
 ...R...

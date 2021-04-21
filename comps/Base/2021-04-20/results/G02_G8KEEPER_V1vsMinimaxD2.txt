@@ -13,7 +13,7 @@
 .......
 
 G02_G8KEEPER_V1 (White) turn
-G02_G8KEEPER_V1 (White) placed a Round piece at column 3 after 5ms
+G02_G8KEEPER_V1 (White) placed a Round piece at column 3 after 6ms
 .......
 .......
 .......
@@ -22,7 +22,7 @@ G02_G8KEEPER_V1 (White) placed a Round piece at column 3 after 5ms
 ...w...
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
+MinimaxD2 (Red) placed a Square piece at column 3 after 4ms
 .......
 .......
 .......
@@ -31,7 +31,7 @@ MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
 ...w...
 
 G02_G8KEEPER_V1 (White) turn
-G02_G8KEEPER_V1 (White) placed a Round piece at column 3 after 6ms
+G02_G8KEEPER_V1 (White) placed a Round piece at column 3 after 7ms
 .......
 .......
 .......
@@ -58,7 +58,7 @@ G02_G8KEEPER_V1 (White) placed a Round piece at column 3 after 4ms
 ...w...
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Square piece at column 3 after 3ms
+MinimaxD2 (Red) placed a Square piece at column 3 after 2ms
 ...R...
 ...w...
 ...R...
@@ -220,7 +220,7 @@ G02_G8KEEPER_V1 (White) placed a Round piece at column 1 after 1ms
 WRWwWRW
 
 MinimaxD2 (Red) turn
-MinimaxD2 (Red) placed a Round piece at column 1 after 1ms
+MinimaxD2 (Red) placed a Round piece at column 1 after 0ms
 ...R.W.
 ...w.RR
 .r.R.ww
@@ -229,7 +229,7 @@ MinimaxD2 (Red) placed a Round piece at column 1 after 1ms
 WRWwWRW
 
 G02_G8KEEPER_V1 (White) turn
-G02_G8KEEPER_V1 (White) placed a Square piece at column 6 after 2ms
+G02_G8KEEPER_V1 (White) placed a Square piece at column 6 after 1ms
 ...R.WW
 ...w.RR
 .r.R.ww

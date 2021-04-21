@@ -13,7 +13,7 @@
 .......
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
+G05_GROG_V3 (White) placed a Round piece at column 5 after 3ms
 .......
 .......
 .......
@@ -22,9 +22,9 @@ G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
 .....w.
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 12.8332 ms
+PunksNotDead took 15.994 ms
 PunksNotDead evaluated 0 times.
-G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 12ms
+G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 16ms
 .......
 .......
 .......
@@ -33,7 +33,7 @@ G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 12ms
 ...R.w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
+G05_GROG_V3 (White) placed a Round piece at column 5 after 3ms
 .......
 .......
 .......
@@ -42,7 +42,7 @@ G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
 ...R.w.
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 15.4647 ms
+PunksNotDead took 15.1 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 15ms
 .......
@@ -62,9 +62,9 @@ G05_GROG_V3 (White) placed a Round piece at column 3 after 2ms
 ...R.w.
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 18.6292 ms
+PunksNotDead took 19.1939 ms
 PunksNotDead evaluated 0 times.
-G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 18ms
+G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 19ms
 .......
 .......
 ...R...
@@ -73,7 +73,7 @@ G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 18ms
 ...R.w.
 
 G05_GROG_V3 (White) turn
-G05_GROG_V3 (White) placed a Round piece at column 3 after 2ms
+G05_GROG_V3 (White) placed a Round piece at column 3 after 3ms
 .......
 ...w...
 ...R...
@@ -82,7 +82,7 @@ G05_GROG_V3 (White) placed a Round piece at column 3 after 2ms
 ...R.w.
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 15.6058 ms
+PunksNotDead took 15.3282 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Square piece at column 3 after 15ms
 ...R...
@@ -102,7 +102,7 @@ G05_GROG_V3 (White) placed a Round piece at column 5 after 2ms
 ...R.w.
 
 G01_PunksNotDead_v7 (Red) turn
-PunksNotDead took 9.4813 ms
+PunksNotDead took 9.8118 ms
 PunksNotDead evaluated 0 times.
 G01_PunksNotDead_v7 (Red) placed a Round piece at column 5 after 9ms
 ...R...
